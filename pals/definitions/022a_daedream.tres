@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cfpx40wfoort"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_241os"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_241os"]
 [ext_resource type="Texture2D" uid="uid://t7hv2utd8sgj" path="res://pals/portraits/Daedream.webp" id="2_7vtir"]
 
 [resource]

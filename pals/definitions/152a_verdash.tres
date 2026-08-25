@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c6bth0tsix0p7"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_gof8v"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_gof8v"]
 [ext_resource type="Texture2D" uid="uid://di8xwr5xg2rby" path="res://pals/portraits/Verdash.webp" id="2_8oc23"]
 
 [resource]

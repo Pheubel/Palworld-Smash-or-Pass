@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c1e6d6wes4j32"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_dndpg"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_dndpg"]
 [ext_resource type="Texture2D" uid="uid://c2qtqcwdfj64f" path="res://pals/portraits/Lovander.webp" id="2_8msax"]
 
 [resource]

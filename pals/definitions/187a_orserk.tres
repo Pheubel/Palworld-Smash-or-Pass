@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://gd3o8ilxaf5x"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_coeke"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_coeke"]
 [ext_resource type="Texture2D" uid="uid://bkejsxutqrs5y" path="res://pals/portraits/Orserk.webp" id="2_bny2n"]
 
 [resource]

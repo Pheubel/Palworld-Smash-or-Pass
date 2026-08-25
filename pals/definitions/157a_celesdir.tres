@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bn6q1qigtulww"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_kvise"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_kvise"]
 [ext_resource type="Texture2D" uid="uid://ce2kkatjvetpb" path="res://pals/portraits/Celesdir.webp" id="2_4dxlp"]
 
 [resource]

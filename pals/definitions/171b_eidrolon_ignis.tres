@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b1035fkm1ahdr"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_a7tcw"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_a7tcw"]
 [ext_resource type="Texture2D" uid="uid://dt7tac1y6yr77" path="res://pals/portraits/Eidrolon_Ignis.webp" id="2_a7tcw"]
 
 [resource]

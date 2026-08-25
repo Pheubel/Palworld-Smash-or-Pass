@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cauewmecspa67"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_35fpc"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_35fpc"]
 [ext_resource type="Texture2D" uid="uid://brn2e8bpr733s" path="res://pals/portraits/Prixter_Lux.webp" id="2_35fpc"]
 
 [resource]

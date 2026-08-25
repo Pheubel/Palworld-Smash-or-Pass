@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dif6yvkfyno7p"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_bxxf6"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_bxxf6"]
 [ext_resource type="Texture2D" uid="uid://dou1pc3fisc5u" path="res://pals/portraits/Leezpunk_Ignis.webp" id="2_2jnx0"]
 
 [resource]

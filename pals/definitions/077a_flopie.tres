@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dp6ci3cavyb05"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_bw5ma"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_bw5ma"]
 [ext_resource type="Texture2D" uid="uid://v332y2swtosb" path="res://pals/portraits/Flopie.webp" id="2_ld15f"]
 
 [resource]

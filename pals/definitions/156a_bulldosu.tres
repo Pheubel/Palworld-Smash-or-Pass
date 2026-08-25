@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://byl0mpuwwgu1h"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_5felr"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_5felr"]
 [ext_resource type="Texture2D" uid="uid://dpbdev0mcjfct" path="res://pals/portraits/Bulldosu.webp" id="2_bhnvo"]
 
 [resource]

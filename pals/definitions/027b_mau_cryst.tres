@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dpqwxy7bfnrtk"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_uagtn"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_uagtn"]
 [ext_resource type="Texture2D" uid="uid://kbi3pxdl3s7a" path="res://pals/portraits/Mau_Cryst.webp" id="2_xxs46"]
 
 [resource]

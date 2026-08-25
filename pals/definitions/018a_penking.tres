@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://d330om20p6lb2"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_q1hpr"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_q1hpr"]
 [ext_resource type="Texture2D" uid="uid://c1lrb5a848h3a" path="res://pals/portraits/Penking.webp" id="2_417so"]
 
 [resource]

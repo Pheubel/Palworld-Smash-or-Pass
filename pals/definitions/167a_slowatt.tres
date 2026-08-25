@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://1uj6cm1d0ld7"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_yp232"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_yp232"]
 [ext_resource type="Texture2D" uid="uid://e0iandkyp5jk" path="res://pals/portraits/Slowatt.webp" id="2_imecv"]
 
 [resource]

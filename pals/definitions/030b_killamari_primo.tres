@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://br36woa00e0ax"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_2l1lv"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_2l1lv"]
 [ext_resource type="Texture2D" uid="uid://bb1eb65kbx3r7" path="res://pals/portraits/Killamari_Primo.webp" id="2_u5prl"]
 
 [resource]

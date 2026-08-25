@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c07wyv1pap2wg"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_xggy1"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_xggy1"]
 [ext_resource type="Texture2D" uid="uid://bdt1mx0y8ypfo" path="res://pals/portraits/Mozzarina.webp" id="2_0yjw2"]
 
 [resource]

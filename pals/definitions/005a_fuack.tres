@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b1r6od5twqmox"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_v85q7"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_v85q7"]
 [ext_resource type="Texture2D" uid="uid://bpqmmr5i741w7" path="res://pals/portraits/Fuack.webp" id="2_e85oi"]
 
 [resource]

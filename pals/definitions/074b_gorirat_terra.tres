@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dbhn2ybevo85h"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_merqr"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_merqr"]
 [ext_resource type="Texture2D" uid="uid://3pcngw1vb1i" path="res://pals/portraits/Gorirat_Terra.webp" id="2_s44eh"]
 
 [resource]

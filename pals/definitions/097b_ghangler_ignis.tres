@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bouhay3i3e7un"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_4wa8y"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_4wa8y"]
 [ext_resource type="Texture2D" uid="uid://bujosolif6a3e" path="res://pals/portraits/Ghangler_Ignis.webp" id="2_e807b"]
 
 [resource]

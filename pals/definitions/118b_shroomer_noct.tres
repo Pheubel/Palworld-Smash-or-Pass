@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dfdp7aelihsvw"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_4fve4"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_4fve4"]
 [ext_resource type="Texture2D" uid="uid://d1yanckcagman" path="res://pals/portraits/Shroomer_Noct.webp" id="2_1pwc4"]
 
 [resource]

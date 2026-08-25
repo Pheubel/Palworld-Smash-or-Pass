@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dq8qkput8hn83"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_h6wul"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_h6wul"]
 [ext_resource type="Texture2D" uid="uid://cb3i7jddfu5nu" path="res://pals/portraits/Jormuntide.webp" id="2_78kpy"]
 
 [resource]

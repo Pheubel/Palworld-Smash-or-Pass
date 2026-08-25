@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b11f3fcb5emvf"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_rt2r2"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_rt2r2"]
 [ext_resource type="Texture2D" uid="uid://cipkwmafbhtto" path="res://pals/portraits/Cryolinx.webp" id="2_o6dmk"]
 
 [resource]

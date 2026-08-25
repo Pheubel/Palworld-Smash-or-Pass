@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dicf1pw22umfo"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_7ew4y"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_7ew4y"]
 [ext_resource type="Texture2D" uid="uid://cjl1svgj6sboy" path="res://pals/portraits/Ribbuny_Botan.webp" id="2_5pf3v"]
 
 [resource]

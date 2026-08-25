@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dap1qgnspohc5"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_oajsp"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_oajsp"]
 [ext_resource type="Texture2D" uid="uid://8toftug45tmd" path="res://pals/portraits/Snugloo.webp" id="2_q68ua"]
 
 [resource]

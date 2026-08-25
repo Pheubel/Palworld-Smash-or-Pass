@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cck6hp1p2sa0g"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_3os52"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_3os52"]
 [ext_resource type="Texture2D" uid="uid://cb83fyskojslk" path="res://pals/portraits/Prunelia.webp" id="2_6ocd4"]
 
 [resource]

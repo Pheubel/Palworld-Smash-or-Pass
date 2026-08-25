@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://denbhqve55w2f"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_khf58"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_khf58"]
 [ext_resource type="Texture2D" uid="uid://cswibrsmbkf8j" path="res://pals/portraits/Elgrove_Cryst.webp" id="2_khf58"]
 
 [resource]

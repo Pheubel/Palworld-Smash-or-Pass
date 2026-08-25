@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dlrg2w35ein2s"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_j004w"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_j004w"]
 [ext_resource type="Texture2D" uid="uid://cb5i8iupas20y" path="res://pals/portraits/Sibelyx_Primo.webp" id="2_j004w"]
 
 [resource]

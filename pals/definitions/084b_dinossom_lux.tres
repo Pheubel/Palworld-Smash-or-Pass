@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ddlp1ln46d2pl"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_c10vh"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_c10vh"]
 [ext_resource type="Texture2D" uid="uid://dcf3vyd06h2y5" path="res://pals/portraits/Dinossom_Lux.webp" id="2_ubnti"]
 
 [resource]

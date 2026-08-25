@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dm2lmnncx6bku"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_u8s1w"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_u8s1w"]
 [ext_resource type="Texture2D" uid="uid://6diee7b7hmia" path="res://pals/portraits/Univolt_Cryst.webp" id="2_u8s1w"]
 
 [resource]

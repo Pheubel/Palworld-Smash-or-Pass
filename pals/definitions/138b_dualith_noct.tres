@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dlac7g1px834g"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_vypns"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_vypns"]
 [ext_resource type="Texture2D" uid="uid://0p7e4eladtl1" path="res://pals/portraits/Dualith_Noct.webp" id="2_vypns"]
 
 [resource]

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://10mul35qhkmv"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_dimvl"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_dimvl"]
 [ext_resource type="Texture2D" uid="uid://b25qngis4y0do" path="res://pals/portraits/Gobfin.webp" id="2_ebboe"]
 
 [resource]

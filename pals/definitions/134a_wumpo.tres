@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b5qfmgka0q5a6"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_fc1et"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_fc1et"]
 [ext_resource type="Texture2D" uid="uid://ua3ju3kdl3cb" path="res://pals/portraits/Wumpo.webp" id="2_o5qfq"]
 
 [resource]

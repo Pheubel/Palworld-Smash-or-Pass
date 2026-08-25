@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dtdpdy8d7k8jw"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_caokw"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_caokw"]
 [ext_resource type="Texture2D" uid="uid://bd8j6eylxi3jh" path="res://pals/portraits/Astralym.webp" id="2_1cqpb"]
 
 [resource]

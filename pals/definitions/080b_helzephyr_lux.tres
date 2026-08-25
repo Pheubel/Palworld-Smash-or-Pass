@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://vcc8nuxp2ser"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_s2s08"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_s2s08"]
 [ext_resource type="Texture2D" uid="uid://bfikdwn3li0m5" path="res://pals/portraits/Helzephyr_Lux.webp" id="2_bgs1h"]
 
 [resource]

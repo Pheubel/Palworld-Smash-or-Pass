@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://clnuhjtjtx3w7"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_jye2p"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_jye2p"]
 [ext_resource type="Texture2D" uid="uid://dywjquxn82py" path="res://pals/portraits/Kelpsea_Ignis.webp" id="2_pp3hd"]
 
 [resource]

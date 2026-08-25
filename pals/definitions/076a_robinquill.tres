@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c5jmcoqxwjgjj"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_be3nk"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_be3nk"]
 [ext_resource type="Texture2D" uid="uid://bgucuek6bkppp" path="res://pals/portraits/Robinquill.webp" id="2_byhi1"]
 
 [resource]

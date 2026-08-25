@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c0uoagsxwqrrh"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_yocc7"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_yocc7"]
 [ext_resource type="Texture2D" uid="uid://cncpppgp6af1y" path="res://pals/portraits/Fenglope.webp" id="2_52mq7"]
 
 [resource]

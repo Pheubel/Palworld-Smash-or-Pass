@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cnhcve4op7yky"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_elj5d"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_elj5d"]
 [ext_resource type="Texture2D" uid="uid://damwnjsyenre8" path="res://pals/portraits/Wixen_Noct.webp" id="2_iv5px"]
 
 [resource]

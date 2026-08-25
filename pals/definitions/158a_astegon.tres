@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cw7x0d40rbop8"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_yjish"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_yjish"]
 [ext_resource type="Texture2D" uid="uid://scd7phcxjx1m" path="res://pals/portraits/Astegon.webp" id="2_mmo1d"]
 
 [resource]

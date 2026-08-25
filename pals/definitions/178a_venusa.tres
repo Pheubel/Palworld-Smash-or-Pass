@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://brwfitmdl8o01"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_waeek"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_waeek"]
 [ext_resource type="Texture2D" uid="uid://nmneqppm81r2" path="res://pals/portraits/Venusa.webp" id="2_2sikq"]
 
 [resource]

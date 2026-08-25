@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ddi1rld4nnw0t"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_w4gmj"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_w4gmj"]
 [ext_resource type="Texture2D" uid="uid://cypuhd65jn6fx" path="res://pals/portraits/Tetroise.webp" id="2_4m64c"]
 
 [resource]

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dvg4nn6kmbawx"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_grtp4"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_grtp4"]
 [ext_resource type="Texture2D" uid="uid://bse7rkkddblgq" path="res://pals/portraits/Eikthyrdeer.webp" id="2_e4dis"]
 
 [resource]

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ba6mjue25m5p6"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_2vwup"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_2vwup"]
 [ext_resource type="Texture2D" uid="uid://b75ee7rdf4hog" path="res://pals/portraits/Pierdon_Cryst.webp" id="2_2vwup"]
 
 [resource]

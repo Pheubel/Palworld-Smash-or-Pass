@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bs3mjeyoovl3r"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_fs5md"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_fs5md"]
 [ext_resource type="Texture2D" uid="uid://c7u2eo7om53hf" path="res://pals/portraits/Surfent_Terra.webp" id="2_cb00g"]
 
 [resource]

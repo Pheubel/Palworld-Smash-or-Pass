@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bmpq1buijntdm"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_wt0bn"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_wt0bn"]
 [ext_resource type="Texture2D" uid="uid://by2thsjqd4ds0" path="res://pals/portraits/Neptilius.webp" id="2_wgj7j"]
 
 [resource]

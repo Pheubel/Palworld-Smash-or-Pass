@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dpqh1a4ta5482"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_tvvp3"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_tvvp3"]
 [ext_resource type="Texture2D" uid="uid://c5uskcshq24fo" path="res://pals/portraits/Elizabee.webp" id="2_d36v5"]
 
 [resource]

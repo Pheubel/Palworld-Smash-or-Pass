@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dxhfu5ggykmj2"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_4qj4i"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_4qj4i"]
 [ext_resource type="Texture2D" uid="uid://cf86agxgfbmw6" path="res://pals/portraits/Cremis.webp" id="2_8ucr6"]
 
 [resource]

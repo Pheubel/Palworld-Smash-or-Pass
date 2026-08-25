@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dkgo00b4n4xod"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_tf022"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_tf022"]
 [ext_resource type="Texture2D" uid="uid://n2bixkxgbcdt" path="res://pals/portraits/Nitemary.webp" id="2_dje1b"]
 
 [resource]

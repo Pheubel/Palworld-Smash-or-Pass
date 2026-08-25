@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://qaf842rq61ta"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_dum14"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_dum14"]
 [ext_resource type="Texture2D" uid="uid://bw2o424dv5mvt" path="res://pals/portraits/Wistella.webp" id="2_1qid8"]
 
 [resource]

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cmh5frlhssnem"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_i7088"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_i7088"]
 [ext_resource type="Texture2D" uid="uid://d2doc1j6m5abv" path="res://pals/portraits/Dazzi_Noct.webp" id="2_n6mpb"]
 
 [resource]

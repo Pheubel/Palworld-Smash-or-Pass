@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://de2tyh163skpg"]
 
-[ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://judging/judging_theme.tres" id="1_j4hub"]
+[ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://app_theme.tres" id="1_j4hub"]
 [ext_resource type="Script" uid="uid://dn4dyt3v5313k" path="res://judging/judging.gd" id="2_btatj"]
 [ext_resource type="Texture2D" uid="uid://dyl7p3s6hvm7f" path="res://icons/star.svg" id="3_6o8e0"]
 [ext_resource type="Texture2D" uid="uid://dgn80rtvaqkcm" path="res://palworld_wallpaper.jpg" id="3_axw82"]

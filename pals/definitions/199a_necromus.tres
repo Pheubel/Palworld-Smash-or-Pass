@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ciuqs8kijhi2c"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_fvdgd"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_fvdgd"]
 [ext_resource type="Texture2D" uid="uid://bd2ic7hqyhvud" path="res://pals/portraits/Necromus.webp" id="2_4hhxv"]
 
 [resource]

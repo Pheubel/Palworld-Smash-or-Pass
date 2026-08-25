@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dusumbjglc1i"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_5384q"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_5384q"]
 [ext_resource type="Texture2D" uid="uid://bilaogif4oied" path="res://pals/portraits/Icelyn.webp" id="2_7ceud"]
 
 [resource]

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://d37t53gklyy8l"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_satom"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_satom"]
 [ext_resource type="Texture2D" uid="uid://bsd5wsfip2xo7" path="res://pals/portraits/Warsect.webp" id="2_eu44q"]
 
 [resource]

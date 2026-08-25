@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c7avddr7uucjt"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_1mtm4"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_1mtm4"]
 [ext_resource type="Texture2D" uid="uid://c4kj160vcrcev" path="res://pals/portraits/Dogen.webp" id="2_uk8qs"]
 
 [resource]

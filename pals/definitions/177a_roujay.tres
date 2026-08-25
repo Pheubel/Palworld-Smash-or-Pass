@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cqbk1pn2tax2t"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_p5pdd"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_p5pdd"]
 [ext_resource type="Texture2D" uid="uid://ddhboq4m4mus4" path="res://pals/portraits/Roujay.webp" id="2_v8g8e"]
 
 [resource]

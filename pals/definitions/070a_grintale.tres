@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://wbia067d6dbm"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_vgmyg"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_vgmyg"]
 [ext_resource type="Texture2D" uid="uid://qw2858cxhi47" path="res://pals/portraits/Grintale.webp" id="2_1fn4i"]
 
 [resource]

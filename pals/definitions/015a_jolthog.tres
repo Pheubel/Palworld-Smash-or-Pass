@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ckginmg24bljq"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_umcif"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_umcif"]
 [ext_resource type="Texture2D" uid="uid://ckwrdxetpd7vx" path="res://pals/portraits/Jolthog.webp" id="2_gatiy"]
 
 [resource]

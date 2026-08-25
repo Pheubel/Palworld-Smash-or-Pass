@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://jj41k3180nnm"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ww8br"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_ww8br"]
 [ext_resource type="Texture2D" uid="uid://cgpp3w8kllq44" path="res://pals/portraits/Nitewing.webp" id="2_7a83p"]
 
 [resource]

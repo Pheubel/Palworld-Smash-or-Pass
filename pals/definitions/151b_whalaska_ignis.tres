@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bwot47jdw8dkd"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_0bs00"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_0bs00"]
 [ext_resource type="Texture2D" uid="uid://dfa5sh1t710g5" path="res://pals/portraits/Whalaska_Ignis.webp" id="2_o1cnj"]
 
 [resource]

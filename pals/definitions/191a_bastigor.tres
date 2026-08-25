@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cdlnum4kbq4m1"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_s5qcs"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_s5qcs"]
 [ext_resource type="Texture2D" uid="uid://bhkjduqffvj5y" path="res://pals/portraits/Bastigor.webp" id="2_5yvev"]
 
 [resource]

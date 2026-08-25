@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b52h3yfqj584f"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_0bdaq"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_0bdaq"]
 [ext_resource type="Texture2D" uid="uid://b4nxaasxb7hci" path="res://pals/portraits/Quivern_Botan.webp" id="2_om60r"]
 
 [resource]

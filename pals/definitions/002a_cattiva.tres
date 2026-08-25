@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cuerpetxejtye"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_o4jun"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_o4jun"]
 [ext_resource type="Texture2D" uid="uid://d1uaj3j5piqe6" path="res://pals/portraits/Cattiva.webp" id="2_6ey2i"]
 
 [resource]

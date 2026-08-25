@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dtlnso3bilc2e"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_nt4e2"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_nt4e2"]
 [ext_resource type="Texture2D" uid="uid://kng3gcbpaq7p" path="res://pals/portraits/Foxparks_Cryst.webp" id="2_vp8kd"]
 
 [resource]

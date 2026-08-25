@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c3q1aa7vho6wy"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_88hno"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_88hno"]
 [ext_resource type="Texture2D" uid="uid://cf7c158iyt7e3" path="res://pals/portraits/Flambelle.webp" id="2_1cedt"]
 
 [resource]

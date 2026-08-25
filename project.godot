@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Palworld: Smash or Pass"
+run/main_scene="uid://dfkib0haq1pgc"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="uid://j7hew026qxdo"
 
@@ -23,6 +24,12 @@ PersistantData="*uid://cqefxw7qlyyqd"
 
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
+
+[file_customization]
+
+folder_colors={
+"res://autoloads/": "purple"
+}
 
 [physics]
 

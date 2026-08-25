@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bk7jnkuaatam5"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_pcirq"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_pcirq"]
 [ext_resource type="Texture2D" uid="uid://6bfw3kxl728i" path="res://pals/portraits/Reptyro_Cryst.webp" id="2_wb8et"]
 
 [resource]

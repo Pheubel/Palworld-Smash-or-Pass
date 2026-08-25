@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bbdhrps420uqo"]
 
-[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_o8r8d"]
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pals/pal_resource.gd" id="1_o8r8d"]
 [ext_resource type="Texture2D" uid="uid://dnu28j08q27cn" path="res://pals/portraits/Knocklem.webp" id="2_o1aih"]
 
 [resource]
