@@ -65,6 +65,30 @@ corner_radius_top_right = 8
 corner_radius_bottom_right = 8
 corner_radius_bottom_left = 8
 
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0ep2o"]
+bg_color = Color(1, 1, 1, 1)
+border_blend = true
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_dvgrd"]
+bg_color = Color(0.899258, 0.89925855, 0.8992581, 1)
+border_blend = true
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jo3bb"]
+bg_color = Color(0.75398374, 0.7539839, 0.7539837, 1)
+border_blend = true
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_c84bn"]
+content_margin_left = 4.0
+content_margin_top = 0.0
+content_margin_right = 4.0
+content_margin_bottom = 0.0
+bg_color = Color(0.6, 0.6, 0.6, 0)
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+corner_radius_bottom_left = 10
+corner_detail = 6
+
 [resource]
 default_font = ExtResource("1_ybbnh")
 MainMenuButton/base_type = &"Button"
@@ -78,3 +102,7 @@ PassButton/styles/normal = SubResource("StyleBoxFlat_l8xpq")
 SmashButton/base_type = &"Button"
 SmashButton/styles/hover = SubResource("StyleBoxFlat_lc41n")
 SmashButton/styles/normal = SubResource("StyleBoxFlat_iln4c")
+VScrollBar/styles/grabber = SubResource("StyleBoxFlat_0ep2o")
+VScrollBar/styles/grabber_highlight = SubResource("StyleBoxFlat_dvgrd")
+VScrollBar/styles/grabber_pressed = SubResource("StyleBoxFlat_jo3bb")
+VScrollBar/styles/scroll = SubResource("StyleBoxFlat_c84bn")

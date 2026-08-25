@@ -1,0 +1,60 @@
+[gd_scene format=3 uid="uid://birnnwcbd53ey"]
+
+[ext_resource type="Script" uid="uid://d04vw2albq8t6" path="res://ui_scenes/favorites/pal_container.gd" id="1_cmmd7"]
+[ext_resource type="Texture2D" uid="uid://dwyk8oqp40qlu" path="res://pals/portraits/Lamball.webp" id="1_l4ebm"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0c24h"]
+bg_color = Color(0.14901961, 0.14901961, 0.14901961, 0.48235294)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.6879199, 0.9287097, 0.992269, 1)
+
+[sub_resource type="StyleBoxLine" id="StyleBoxLine_4ilqg"]
+color = Color(0.6879199, 0.9287097, 0.992269, 1)
+vertical = true
+
+[sub_resource type="LabelSettings" id="LabelSettings_4ilqg"]
+font_size = 24
+
+[node name="PalContainer" type="PanelContainer" unique_id=261246447]
+custom_minimum_size = Vector2(0, 100)
+mouse_default_cursor_shape = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_0c24h")
+script = ExtResource("1_cmmd7")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="." unique_id=852440071]
+layout_mode = 2
+theme_override_constants/separation = 0
+
+[node name="PalIcon" type="TextureRect" parent="HBoxContainer" unique_id=1882459933]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("1_l4ebm")
+expand_mode = 2
+stretch_mode = 4
+
+[node name="VSeparator" type="VSeparator" parent="HBoxContainer" unique_id=869305777]
+layout_mode = 2
+mouse_filter = 1
+theme_override_constants/separation = 1
+theme_override_styles/separator = SubResource("StyleBoxLine_4ilqg")
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer" unique_id=449692456]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_right = 8
+
+[node name="PalNameLabel" type="Label" parent="HBoxContainer/MarginContainer" unique_id=348589518]
+unique_name_in_owner = true
+layout_mode = 2
+mouse_filter = 1
+text = "123B: Relaxasaurus Lux"
+label_settings = SubResource("LabelSettings_4ilqg")
+
+[node name="Button" type="Button" parent="." unique_id=1168403809]
+layout_mode = 2
+flat = true
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
