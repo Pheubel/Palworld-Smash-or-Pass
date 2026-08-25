@@ -20,7 +20,6 @@ font_size = 24
 
 [node name="PalContainer" type="PanelContainer" unique_id=261246447]
 custom_minimum_size = Vector2(0, 100)
-mouse_default_cursor_shape = 2
 theme_override_styles/panel = SubResource("StyleBoxFlat_0c24h")
 script = ExtResource("1_cmmd7")
 
@@ -55,6 +54,7 @@ label_settings = SubResource("LabelSettings_4ilqg")
 
 [node name="Button" type="Button" parent="." unique_id=1168403809]
 layout_mode = 2
+mouse_default_cursor_shape = 2
 flat = true
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
