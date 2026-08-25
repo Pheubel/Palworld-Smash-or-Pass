@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://10mul35qhkmv"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_dimvl"]
+[ext_resource type="Texture2D" uid="uid://b25qngis4y0do" path="res://pals/portraits/Gobfin.webp" id="2_ebboe"]
+
+[resource]
+resource_name = "Gobfin"
+script = ExtResource("1_dimvl")
+visual = ExtResource("2_ebboe")
+e621_link = "https://e621.net/posts?tags=gobfin+"
+paldex_entry = 55

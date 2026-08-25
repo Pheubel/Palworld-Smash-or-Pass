@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cg4gr4ood46fq"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_y14yw"]
+[ext_resource type="Texture2D" uid="uid://ddjvp1c56sw0t" path="res://pals/portraits/Finsider_Ignis.webp" id="2_brolw"]
+
+[resource]
+resource_name = "Finsider Ignis"
+script = ExtResource("1_y14yw")
+visual = ExtResource("2_brolw")
+paldex_entry = 88
+species_variant = 1

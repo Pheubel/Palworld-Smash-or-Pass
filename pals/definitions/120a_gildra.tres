@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bxq86fa7ox6yg"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_hlmff"]
+[ext_resource type="Texture2D" uid="uid://j80xdu7hg3l" path="res://pals/portraits/Gildra.webp" id="2_dsdeg"]
+
+[resource]
+resource_name = "Gildra"
+script = ExtResource("1_hlmff")
+visual = ExtResource("2_dsdeg")
+e621_link = "https://e621.net/posts?tags=gildra_%28pal%29+"
+paldex_entry = 120

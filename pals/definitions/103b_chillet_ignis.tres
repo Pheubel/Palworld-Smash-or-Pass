@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b0n28c0ul57l"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_h2m08"]
+[ext_resource type="Texture2D" uid="uid://c0hulwifppugy" path="res://pals/portraits/Chillet_Ignis.webp" id="2_ve6k4"]
+
+[resource]
+resource_name = "Chillet Ignis"
+script = ExtResource("1_h2m08")
+visual = ExtResource("2_ve6k4")
+e621_link = "https://e621.net/posts?tags=chillet_ignis+"
+paldex_entry = 103
+species_variant = 1

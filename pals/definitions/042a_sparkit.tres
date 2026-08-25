@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cks2sx4y54pv1"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_g76lp"]
+[ext_resource type="Texture2D" uid="uid://bxkt3q56slq2j" path="res://pals/portraits/Sparkit.webp" id="2_xr87u"]
+
+[resource]
+resource_name = "Sparkit"
+script = ExtResource("1_g76lp")
+visual = ExtResource("2_xr87u")
+e621_link = "https://e621.net/posts?tags=sparkit+"
+paldex_entry = 42

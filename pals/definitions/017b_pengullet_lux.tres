@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://54gt432m52jk"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_mue2m"]
+[ext_resource type="Texture2D" uid="uid://kss0ynido7de" path="res://pals/portraits/Pengullet_Lux.webp" id="2_5trgr"]
+
+[resource]
+resource_name = "Pengullet Lux"
+script = ExtResource("1_mue2m")
+visual = ExtResource("2_5trgr")
+paldex_entry = 17
+species_variant = 1

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dgxgyj46ukq2l"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_nynrr"]
+[ext_resource type="Texture2D" uid="uid://bmwh72m05w8jv" path="res://pals/portraits/Cinnamoth.webp" id="2_0u5po"]
+
+[resource]
+resource_name = "Cinnamoth"
+script = ExtResource("1_nynrr")
+visual = ExtResource("2_0u5po")
+e621_link = "https://e621.net/posts?tags=cinnamoth+"
+paldex_entry = 61

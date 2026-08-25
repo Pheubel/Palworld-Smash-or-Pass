@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b3884gulmsil1"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_6dtt0"]
+[ext_resource type="Texture2D" uid="uid://l7f2gjag5mye" path="res://pals/portraits/Reptyro.webp" id="2_00d1a"]
+
+[resource]
+resource_name = "Reptyro"
+script = ExtResource("1_6dtt0")
+visual = ExtResource("2_00d1a")
+e621_link = "https://e621.net/posts?tags=reptyro+"
+paldex_entry = 129

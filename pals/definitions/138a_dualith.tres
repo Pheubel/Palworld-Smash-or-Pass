@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cf05h67cygw33"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_r8tqs"]
+[ext_resource type="Texture2D" uid="uid://keq0kfh6rk63" path="res://pals/portraits/Dualith.webp" id="2_xrf5v"]
+
+[resource]
+resource_name = "Dualith"
+script = ExtResource("1_r8tqs")
+visual = ExtResource("2_xrf5v")
+paldex_entry = 138

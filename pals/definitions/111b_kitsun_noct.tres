@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c0rl1exgcaf34"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_lwsbr"]
+[ext_resource type="Texture2D" uid="uid://bm1m2csph1u7s" path="res://pals/portraits/Kitsun_Noct.webp" id="2_ny6qp"]
+
+[resource]
+resource_name = "Kitsun Noct"
+script = ExtResource("1_lwsbr")
+visual = ExtResource("2_ny6qp")
+paldex_entry = 111
+species_variant = 1

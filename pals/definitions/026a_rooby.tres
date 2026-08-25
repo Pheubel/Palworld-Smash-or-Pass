@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ckrr7mann1eb8"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_fv3y3"]
+[ext_resource type="Texture2D" uid="uid://s3c5sex2qsqt" path="res://pals/portraits/Rooby.webp" id="2_w3che"]
+
+[resource]
+resource_name = "Rooby"
+script = ExtResource("1_fv3y3")
+visual = ExtResource("2_w3che")
+e621_link = "https://e621.net/posts?tags=rooby_%28pal%29+"
+paldex_entry = 26

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://daod7h8u7nsol"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_7l3le"]
+[ext_resource type="Texture2D" uid="uid://cfxkvvsxx3bsa" path="res://pals/portraits/Kingpaca.webp" id="2_vdyjr"]
+
+[resource]
+resource_name = "Kingpaca"
+script = ExtResource("1_7l3le")
+visual = ExtResource("2_vdyjr")
+e621_link = "https://e621.net/posts?tags=kingpaca+"
+paldex_entry = 21

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://caxiwe4r6rtw4"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_kc7w2"]
+[ext_resource type="Texture2D" uid="uid://day1vbc4hnnvs" path="res://pals/portraits/Lullu.webp" id="2_28lp5"]
+
+[resource]
+resource_name = "Lullu"
+script = ExtResource("1_kc7w2")
+visual = ExtResource("2_28lp5")
+e621_link = "https://e621.net/posts?tags=lullu_%28pal%29+"
+paldex_entry = 125

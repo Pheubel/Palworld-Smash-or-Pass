@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://m76qxaky12fj"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_x7f6y"]
+[ext_resource type="Texture2D" uid="uid://dv2jf581cq204" path="res://pals/portraits/Felbat.webp" id="2_6ayf3"]
+
+[resource]
+resource_name = "Felbat"
+script = ExtResource("1_x7f6y")
+visual = ExtResource("2_6ayf3")
+e621_link = "https://e621.net/posts?tags=felbat+"
+paldex_entry = 65

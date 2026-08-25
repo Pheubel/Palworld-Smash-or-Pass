@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://jj6mrmsx5nbv"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_cmidl"]
+[ext_resource type="Texture2D" uid="uid://xfd05igtnan3" path="res://pals/portraits/Univolt.webp" id="2_nmmwk"]
+
+[resource]
+resource_name = "Univolt"
+script = ExtResource("1_cmidl")
+visual = ExtResource("2_nmmwk")
+e621_link = "https://e621.net/posts?tags=tocotoco+"
+paldex_entry = 54

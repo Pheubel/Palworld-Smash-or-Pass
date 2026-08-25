@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b3cerddqnra1f"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_1jy65"]
+[ext_resource type="Texture2D" uid="uid://decqy41vygj0q" path="res://pals/portraits/Smokie.webp" id="2_rvpx5"]
+
+[resource]
+resource_name = "Smokie"
+script = ExtResource("1_1jy65")
+visual = ExtResource("2_rvpx5")
+e621_link = "https://e621.net/posts?tags=smokie_%28pal%29+"
+paldex_entry = 149

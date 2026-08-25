@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://nvpaw4g6vcv"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_h3jc0"]
+[ext_resource type="Texture2D" uid="uid://cdla8s1dyx06t" path="res://pals/portraits/Croajiro_Noct.webp" id="2_xam6p"]
+
+[resource]
+resource_name = "Croajiro Noct"
+script = ExtResource("1_h3jc0")
+visual = ExtResource("2_xam6p")
+paldex_entry = 9
+species_variant = 1

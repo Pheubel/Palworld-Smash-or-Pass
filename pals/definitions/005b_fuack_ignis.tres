@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b0i270tsttcrx"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_46g72"]
+[ext_resource type="Texture2D" uid="uid://bn2o8gf1sqt08" path="res://pals/portraits/Fuack_Ignis.webp" id="2_ovgtf"]
+
+[resource]
+resource_name = "Fuack Ignis"
+script = ExtResource("1_46g72")
+visual = ExtResource("2_ovgtf")
+e621_link = "https://e621.net/posts?tags=fuack_ignis+"
+paldex_entry = 5
+species_variant = 1

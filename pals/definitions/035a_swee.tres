@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bdon3lo3ofl8w"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_6bc0l"]
+[ext_resource type="Texture2D" uid="uid://dsh7wf4dl2eoa" path="res://pals/portraits/Swee.webp" id="2_ukr6f"]
+
+[resource]
+resource_name = "Swee"
+script = ExtResource("1_6bc0l")
+visual = ExtResource("2_ukr6f")
+e621_link = "https://e621.net/posts?tags=swee"
+paldex_entry = 35

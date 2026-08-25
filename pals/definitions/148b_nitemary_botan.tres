@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://d2px5uhnpauq7"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_0avs7"]
+[ext_resource type="Texture2D" uid="uid://bgotv4rq76bwj" path="res://pals/portraits/Nitemary_Botan.webp" id="2_0avs7"]
+
+[resource]
+resource_name = "Nitemary Botan"
+script = ExtResource("1_0avs7")
+visual = ExtResource("2_0avs7")
+paldex_entry = 148
+species_variant = 1

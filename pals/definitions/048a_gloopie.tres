@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://xmsil5v62o7x"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_1ng1g"]
+[ext_resource type="Texture2D" uid="uid://cqhr8a1fschav" path="res://pals/portraits/Gloopie.webp" id="2_ju0c0"]
+
+[resource]
+resource_name = "Gloopie"
+script = ExtResource("1_1ng1g")
+visual = ExtResource("2_ju0c0")
+e621_link = "https://e621.net/posts?tags=gloopie+"
+paldex_entry = 48

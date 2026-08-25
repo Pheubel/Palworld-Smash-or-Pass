@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://clnuhjtjtx3w7"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_jye2p"]
+[ext_resource type="Texture2D" uid="uid://dywjquxn82py" path="res://pals/portraits/Kelpsea_Ignis.webp" id="2_pp3hd"]
+
+[resource]
+resource_name = "Kelpsea Ignis"
+script = ExtResource("1_jye2p")
+visual = ExtResource("2_pp3hd")
+e621_link = "https://e621.net/posts?tags=kelpsea_ignis+"
+paldex_entry = 43
+species_variant = 1

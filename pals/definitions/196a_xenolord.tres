@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ctnjqm5rvey0w"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_fjv47"]
+[ext_resource type="Texture2D" uid="uid://bt5glwa3xkkje" path="res://pals/portraits/Xenolord.webp" id="2_842qa"]
+
+[resource]
+resource_name = "Xenolord"
+script = ExtResource("1_fjv47")
+visual = ExtResource("2_842qa")
+e621_link = "https://e621.net/posts?tags=xenolord_%28pal%29+"
+paldex_entry = 196

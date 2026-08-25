@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://6c6r2f71hsd7"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_6onet"]
+[ext_resource type="Texture2D" uid="uid://lcmsmea1mwl4" path="res://pals/portraits/Dandilord.webp" id="2_haice"]
+
+[resource]
+resource_name = "Dandilord"
+script = ExtResource("1_6onet")
+visual = ExtResource("2_haice")
+paldex_entry = 194

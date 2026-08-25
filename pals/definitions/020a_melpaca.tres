@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cry72teh8d6na"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_hs7yx"]
+[ext_resource type="Texture2D" uid="uid://dgpdwk54infea" path="res://pals/portraits/Melpaca.webp" id="2_gw8dn"]
+
+[resource]
+resource_name = "Melpaca"
+script = ExtResource("1_hs7yx")
+visual = ExtResource("2_gw8dn")
+e621_link = "https://e621.net/posts?tags=melpaca+"
+paldex_entry = 20

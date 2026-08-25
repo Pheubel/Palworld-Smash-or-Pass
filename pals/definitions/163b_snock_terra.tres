@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cymknalw7sx3h"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ax2qf"]
+[ext_resource type="Texture2D" uid="uid://dwkyd6y4s0jt4" path="res://pals/portraits/Snock_Terra.webp" id="2_ax2qf"]
+
+[resource]
+resource_name = "Snock Terra"
+script = ExtResource("1_ax2qf")
+visual = ExtResource("2_ax2qf")
+e621_link = "https://e621.net/posts?tags=snock_terra_%28pal%29+"
+paldex_entry = 163
+species_variant = 1

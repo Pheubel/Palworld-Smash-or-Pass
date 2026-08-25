@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://5swe8bwf0nht"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_gyh5m"]
+[ext_resource type="Texture2D" uid="uid://cb0vi86b5kvp5" path="res://pals/portraits/Surfent.webp" id="2_sf0h1"]
+
+[resource]
+resource_name = "Surfent"
+script = ExtResource("1_gyh5m")
+visual = ExtResource("2_sf0h1")
+e621_link = "https://e621.net/posts?tags=surfent+"
+paldex_entry = 75

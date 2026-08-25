@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bopalg1wdr0f0"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_h227n"]
+[ext_resource type="Texture2D" uid="uid://ceqqgr0dc1y6s" path="res://pals/portraits/Rayhound.webp" id="2_qstts"]
+
+[resource]
+resource_name = "Rayhound"
+script = ExtResource("1_h227n")
+visual = ExtResource("2_qstts")
+e621_link = "https://e621.net/posts?tags=rayhound+"
+paldex_entry = 98

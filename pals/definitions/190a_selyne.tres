@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dkg6pgnd3fe1p"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_d0ovw"]
+[ext_resource type="Texture2D" uid="uid://r41v7xdp5lu2" path="res://pals/portraits/Selyne.webp" id="2_at7sr"]
+
+[resource]
+resource_name = "Selyne"
+script = ExtResource("1_d0ovw")
+visual = ExtResource("2_at7sr")
+paldex_entry = 190

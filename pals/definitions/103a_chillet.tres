@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://25jc6mawc0og"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_1a46p"]
+[ext_resource type="Texture2D" uid="uid://cnoffqfg28mpl" path="res://pals/portraits/Chillet.webp" id="2_hsgup"]
+
+[resource]
+resource_name = "Chillet"
+script = ExtResource("1_1a46p")
+visual = ExtResource("2_hsgup")
+e621_link = "https://e621.net/posts?tags=chillet+"
+paldex_entry = 103

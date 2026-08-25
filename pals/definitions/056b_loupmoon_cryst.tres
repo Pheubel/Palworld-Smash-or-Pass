@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://em71mjtw2ump"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_0ej6e"]
+[ext_resource type="Texture2D" uid="uid://bpp7deqfqmsu6" path="res://pals/portraits/Loupmoon_Cryst.webp" id="2_h72eb"]
+
+[resource]
+resource_name = "Loupmoon Cryst"
+script = ExtResource("1_0ej6e")
+visual = ExtResource("2_h72eb")
+e621_link = "https://e621.net/posts?tags=loupmoon_cryst+"
+paldex_entry = 56
+species_variant = 1

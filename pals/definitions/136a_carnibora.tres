@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b6dxe3j7xkqk0"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_kyk5u"]
+[ext_resource type="Texture2D" uid="uid://ds0dxmpsj2gxn" path="res://pals/portraits/Carnibora.webp" id="2_gavmc"]
+
+[resource]
+resource_name = "Carnibora"
+script = ExtResource("1_kyk5u")
+visual = ExtResource("2_gavmc")
+e621_link = "https://e621.net/posts?tags=carnibora_%28pal%29+"
+paldex_entry = 136

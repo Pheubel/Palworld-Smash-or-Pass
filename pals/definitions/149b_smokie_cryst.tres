@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bs1k5b6lkin5p"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_t3ltq"]
+[ext_resource type="Texture2D" uid="uid://c5grsofme2r23" path="res://pals/portraits/Smokie_Cryst.webp" id="2_t3ltq"]
+
+[resource]
+resource_name = "Smokie Cryst"
+script = ExtResource("1_t3ltq")
+visual = ExtResource("2_t3ltq")
+paldex_entry = 149
+species_variant = 1

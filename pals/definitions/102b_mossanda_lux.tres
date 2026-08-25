@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b0t5fj8piqndy"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_husis"]
+[ext_resource type="Texture2D" uid="uid://bw7oempipnq5d" path="res://pals/portraits/Mossanda_Lux.webp" id="2_m666i"]
+
+[resource]
+resource_name = "Mossanda Lux"
+script = ExtResource("1_husis")
+visual = ExtResource("2_m666i")
+e621_link = "https://e621.net/posts?tags=mossanda_lux+"
+paldex_entry = 102
+species_variant = 1

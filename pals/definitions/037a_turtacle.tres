@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cln12amr2c11t"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_s55h6"]
+[ext_resource type="Texture2D" uid="uid://3l21ccd1pt81" path="res://pals/portraits/Turtacle.webp" id="2_6ogec"]
+
+[resource]
+resource_name = "Turtacle"
+script = ExtResource("1_s55h6")
+visual = ExtResource("2_6ogec")
+paldex_entry = 37

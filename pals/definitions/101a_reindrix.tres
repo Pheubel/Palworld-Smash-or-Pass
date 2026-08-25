@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dth23xanc1dyp"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_n80om"]
+[ext_resource type="Texture2D" uid="uid://mp3p7faabo5t" path="res://pals/portraits/Reindrix.webp" id="2_7ifjw"]
+
+[resource]
+resource_name = "Reindrix"
+script = ExtResource("1_n80om")
+visual = ExtResource("2_7ifjw")
+e621_link = "https://e621.net/posts?tags=reindrix+"
+paldex_entry = 101

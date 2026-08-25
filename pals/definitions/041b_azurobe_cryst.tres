@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cujsyiacqhueo"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_xacg7"]
+[ext_resource type="Texture2D" uid="uid://xjpkkawrrhkt" path="res://pals/portraits/Azurobe_Cryst.webp" id="2_1f7it"]
+
+[resource]
+resource_name = "Azurobe Cryst"
+script = ExtResource("1_xacg7")
+visual = ExtResource("2_1f7it")
+paldex_entry = 41
+species_variant = 1

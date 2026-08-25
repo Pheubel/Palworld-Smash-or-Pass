@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://h1hpjkc0npld"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_158s3"]
+[ext_resource type="Texture2D" uid="uid://dvd4p7vxht00p" path="res://pals/portraits/Shaolong.webp" id="2_uijuw"]
+
+[resource]
+resource_name = "Shaolong"
+script = ExtResource("1_158s3")
+visual = ExtResource("2_uijuw")
+e621_link = "https://e621.net/posts?tags=shaolong+"
+paldex_entry = 192

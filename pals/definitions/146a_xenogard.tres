@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cyaeml0ncpv7l"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_8h3o3"]
+[ext_resource type="Texture2D" uid="uid://dfcgwk7rgdr3c" path="res://pals/portraits/Xenogard.webp" id="2_sjq45"]
+
+[resource]
+resource_name = "Xenogard"
+script = ExtResource("1_8h3o3")
+visual = ExtResource("2_sjq45")
+e621_link = "https://e621.net/posts?tags=xenogard+"
+paldex_entry = 146

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dx4ulgv3thf50"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ikxv5"]
+[ext_resource type="Texture2D" uid="uid://b3b0fyyjum7ep" path="res://pals/portraits/Killamari.webp" id="2_gv1mh"]
+
+[resource]
+resource_name = "Killamari"
+script = ExtResource("1_ikxv5")
+visual = ExtResource("2_gv1mh")
+e621_link = "https://e621.net/posts?tags=killamari+"
+paldex_entry = 30

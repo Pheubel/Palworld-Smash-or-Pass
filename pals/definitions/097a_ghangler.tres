@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://balc4g2c0qfaw"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_2exud"]
+[ext_resource type="Texture2D" uid="uid://bvc5y8wqxg7ux" path="res://pals/portraits/Ghangler.webp" id="2_nd5kw"]
+
+[resource]
+resource_name = "Ghangler"
+script = ExtResource("1_2exud")
+visual = ExtResource("2_nd5kw")
+paldex_entry = 97

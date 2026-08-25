@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://hipeehy1ctu"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ec1p1"]
+[ext_resource type="Texture2D" uid="uid://bebdy08isjbnq" path="res://pals/portraits/Splatterina.webp" id="2_wxvw3"]
+
+[resource]
+resource_name = "Splatterina"
+script = ExtResource("1_ec1p1")
+visual = ExtResource("2_wxvw3")
+e621_link = "https://e621.net/posts?tags=splatterina_%28pal%29+"
+paldex_entry = 153

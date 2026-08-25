@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cjen2agb6grok"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_08vdv"]
+[ext_resource type="Texture2D" uid="uid://cgkfsklfp32y5" path="res://pals/portraits/Gloopie_Primo.webp" id="2_vih46"]
+
+[resource]
+resource_name = "Gloopie Primo"
+script = ExtResource("1_08vdv")
+visual = ExtResource("2_vih46")
+e621_link = "https://e621.net/posts?tags=gloopie_primo+"
+paldex_entry = 48
+species_variant = 1

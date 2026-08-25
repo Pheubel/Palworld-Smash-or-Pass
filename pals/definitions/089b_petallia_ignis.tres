@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dtud6cscqakc0"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_bshgr"]
+[ext_resource type="Texture2D" uid="uid://day2mdnc4y7ut" path="res://pals/portraits/Petallia_Ignis.webp" id="2_bshgr"]
+
+[resource]
+resource_name = "Petallia Ignis"
+script = ExtResource("1_bshgr")
+visual = ExtResource("2_bshgr")
+paldex_entry = 89
+species_variant = 1

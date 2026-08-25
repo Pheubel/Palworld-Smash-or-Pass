@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bmhjpfctqg8fw"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_lmsln"]
+[ext_resource type="Texture2D" uid="uid://dihrduwxlbqt2" path="res://pals/portraits/Mammorest_Cryst.webp" id="2_ikdqf"]
+
+[resource]
+resource_name = "Mammorest Cryst"
+script = ExtResource("1_lmsln")
+visual = ExtResource("2_ikdqf")
+paldex_entry = 87
+species_variant = 1

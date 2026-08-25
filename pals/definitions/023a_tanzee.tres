@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://beqpg8c6t0ri2"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_7j0cb"]
+[ext_resource type="Texture2D" uid="uid://ehlmtmbq1ea8" path="res://pals/portraits/Tanzee.webp" id="2_px14q"]
+
+[resource]
+resource_name = "Tanzee"
+script = ExtResource("1_7j0cb")
+visual = ExtResource("2_px14q")
+e621_link = "https://e621.net/posts?tags=tanzee+"
+paldex_entry = 23

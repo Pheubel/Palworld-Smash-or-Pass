@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://388arys0hsuu"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_cr400"]
+[ext_resource type="Texture2D" uid="uid://bwd23u63i7d4d" path="res://pals/portraits/Tarantriss.webp" id="2_ff8iv"]
+
+[resource]
+resource_name = "Tarantriss"
+script = ExtResource("1_cr400")
+visual = ExtResource("2_ff8iv")
+e621_link = "https://e621.net/posts?tags=tarantriss+"
+paldex_entry = 71

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c5jmcoqxwjgjj"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_be3nk"]
+[ext_resource type="Texture2D" uid="uid://bgucuek6bkppp" path="res://pals/portraits/Robinquill.webp" id="2_byhi1"]
+
+[resource]
+resource_name = "Robinquill"
+script = ExtResource("1_be3nk")
+visual = ExtResource("2_byhi1")
+e621_link = "https://e621.net/posts?tags=robinquill+"
+paldex_entry = 76

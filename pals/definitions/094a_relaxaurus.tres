@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://63l3xmoa3g7f"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_27p18"]
+[ext_resource type="Texture2D" uid="uid://3qdywo7c7hdp" path="res://pals/portraits/Relaxaurus.webp" id="2_j3aig"]
+
+[resource]
+resource_name = "Relaxaurus"
+script = ExtResource("1_27p18")
+visual = ExtResource("2_j3aig")
+e621_link = "https://e621.net/posts?tags=relaxaurus+"
+paldex_entry = 94

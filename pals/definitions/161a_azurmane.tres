@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c0e4ikybipl52"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_1jtt4"]
+[ext_resource type="Texture2D" uid="uid://5qcyw67t4642" path="res://pals/portraits/Azurmane.webp" id="2_ix7ty"]
+
+[resource]
+resource_name = "Azurmane"
+script = ExtResource("1_1jtt4")
+visual = ExtResource("2_ix7ty")
+e621_link = "https://e621.net/posts?tags=azurmane+"
+paldex_entry = 161

@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dqg71geojhsw4"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_g0utd"]
+[ext_resource type="Texture2D" uid="uid://ce3rm0dl5jfmb" path="res://pals/portraits/Bushi_Noct.webp" id="2_xxoxx"]
+
+[resource]
+resource_name = "Bushi Noct"
+script = ExtResource("1_g0utd")
+visual = ExtResource("2_xxoxx")
+e621_link = "https://e621.net/posts?tags=bushi_noct_%28pal%29"
+paldex_entry = 85
+species_variant = 1

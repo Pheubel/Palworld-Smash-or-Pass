@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ch8q3u0526bii"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_50boc"]
+[ext_resource type="Texture2D" uid="uid://bi0osnq6pieq7" path="res://pals/portraits/Valentail.webp" id="2_7e0ov"]
+
+[resource]
+resource_name = "Valentail"
+script = ExtResource("1_50boc")
+visual = ExtResource("2_7e0ov")
+e621_link = "https://e621.net/posts?tags=valentail_%28pal%29+"
+paldex_entry = 162

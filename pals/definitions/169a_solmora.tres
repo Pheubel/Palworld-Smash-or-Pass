@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bmfsjdaau4w7y"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_j12xw"]
+[ext_resource type="Texture2D" uid="uid://byxud3j8mnpj7" path="res://pals/portraits/Solmora.webp" id="2_rrbej"]
+
+[resource]
+resource_name = "Solmora"
+script = ExtResource("1_j12xw")
+visual = ExtResource("2_rrbej")
+paldex_entry = 169

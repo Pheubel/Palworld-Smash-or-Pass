@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ivf1773s5tln"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_dnyjb"]
+[ext_resource type="Texture2D" uid="uid://djkebtj2qk2s3" path="res://pals/portraits/Arsox.webp" id="2_bhvox"]
+
+[resource]
+resource_name = "Arsox"
+script = ExtResource("1_dnyjb")
+visual = ExtResource("2_bhvox")
+e621_link = "https://e621.net/posts?tags=arsox+"
+paldex_entry = 58

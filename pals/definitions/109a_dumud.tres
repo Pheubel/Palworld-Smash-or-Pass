@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://x3sg3taxpkn0"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ns2qe"]
+[ext_resource type="Texture2D" uid="uid://bsce5w4yqf318" path="res://pals/portraits/Dumud.webp" id="2_reiqi"]
+
+[resource]
+resource_name = "Dumud"
+script = ExtResource("1_ns2qe")
+visual = ExtResource("2_reiqi")
+e621_link = "https://e621.net/posts?tags=dumud+"
+paldex_entry = 109

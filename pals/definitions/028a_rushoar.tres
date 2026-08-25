@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dajsf60obecao"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_cfvcd"]
+[ext_resource type="Texture2D" uid="uid://b131lhehfktvr" path="res://pals/portraits/Rushoar.webp" id="2_s655g"]
+
+[resource]
+resource_name = "Rushoar"
+script = ExtResource("1_cfvcd")
+visual = ExtResource("2_s655g")
+e621_link = "https://e621.net/posts?tags=rushoar+"
+paldex_entry = 28

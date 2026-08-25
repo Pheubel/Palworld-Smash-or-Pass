@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ddlp1ln46d2pl"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_c10vh"]
+[ext_resource type="Texture2D" uid="uid://dcf3vyd06h2y5" path="res://pals/portraits/Dinossom_Lux.webp" id="2_ubnti"]
+
+[resource]
+resource_name = "Dinossom Lux"
+script = ExtResource("1_c10vh")
+visual = ExtResource("2_ubnti")
+e621_link = "https://e621.net/posts?tags=dinossom_lux+"
+paldex_entry = 84
+species_variant = 1

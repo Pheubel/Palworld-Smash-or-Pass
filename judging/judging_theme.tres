@@ -1,0 +1,45 @@
+[gd_resource type="Theme" format=3 uid="uid://dqlcyxo0nd2jr"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_a0wq8"]
+bg_color = Color(0.7529412, 0, 0.13725491, 1)
+border_width_bottom = 10
+border_color = Color(0.5921569, 0, 0.09411765, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_l8xpq"]
+bg_color = Color(0.8666667, 0, 0.15686275, 1)
+border_width_bottom = 10
+border_color = Color(0.7157759, 0, 0.12215073, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_lc41n"]
+bg_color = Color(3.706068e-06, 0.76749206, 0.13651156, 1)
+border_width_bottom = 10
+border_color = Color(3.1766297e-06, 0.60479766, 0.095781125, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_iln4c"]
+bg_color = Color(0, 0.85490197, 0.15686275, 1)
+border_width_bottom = 10
+border_color = Color(0, 0.7176471, 0.12156863, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
+[resource]
+PassButton/base_type = &"Button"
+PassButton/styles/hover = SubResource("StyleBoxFlat_a0wq8")
+PassButton/styles/normal = SubResource("StyleBoxFlat_l8xpq")
+SmashButton/base_type = &"Button"
+SmashButton/styles/hover = SubResource("StyleBoxFlat_lc41n")
+SmashButton/styles/normal = SubResource("StyleBoxFlat_iln4c")

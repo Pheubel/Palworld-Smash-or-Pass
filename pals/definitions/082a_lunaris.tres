@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b718q71jap5r3"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_cdciy"]
+[ext_resource type="Texture2D" uid="uid://6j86bhcmto8t" path="res://pals/portraits/Lunaris.webp" id="2_edtfg"]
+
+[resource]
+resource_name = "Lunaris"
+script = ExtResource("1_cdciy")
+visual = ExtResource("2_edtfg")
+e621_link = "https://e621.net/posts?tags=lunaris_%28pal%29"
+paldex_entry = 82

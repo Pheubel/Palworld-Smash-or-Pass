@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dlr2nhpof56lm"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_rnvmm"]
+[ext_resource type="Texture2D" uid="uid://dnnbf3u6eoy7d" path="res://pals/portraits/Solenne.webp" id="2_xw8aw"]
+
+[resource]
+resource_name = "Solenne"
+script = ExtResource("1_rnvmm")
+visual = ExtResource("2_xw8aw")
+e621_link = "https://e621.net/posts?tags=solenne_%28pal%29+"
+paldex_entry = 182

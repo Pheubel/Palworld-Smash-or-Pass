@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ct8tuhwo7ln80"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_5d2h4"]
+[ext_resource type="Texture2D" uid="uid://dvcge7yq1017d" path="res://pals/portraits/Souffline.webp" id="2_ccokq"]
+
+[resource]
+resource_name = "Souffline"
+script = ExtResource("1_5d2h4")
+visual = ExtResource("2_ccokq")
+e621_link = "https://e621.net/posts?tags=souffline_%28pal%29+"
+paldex_entry = 164

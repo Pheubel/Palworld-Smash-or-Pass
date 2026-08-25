@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dw415suhlif4p"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_mev6k"]
+[ext_resource type="Texture2D" uid="uid://cmelny6rasgtt" path="res://pals/portraits/Hangyu.webp" id="2_cbpxv"]
+
+[resource]
+resource_name = "Hangyu"
+script = ExtResource("1_mev6k")
+visual = ExtResource("2_cbpxv")
+e621_link = "https://e621.net/posts?tags=hangyu+"
+paldex_entry = 38

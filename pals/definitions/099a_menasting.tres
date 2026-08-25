@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dlo1dbc2rcui3"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_6kqae"]
+[ext_resource type="Texture2D" uid="uid://betv1q0ldlecn" path="res://pals/portraits/Menasting.webp" id="2_npp6c"]
+
+[resource]
+resource_name = "Menasting"
+script = ExtResource("1_6kqae")
+visual = ExtResource("2_npp6c")
+e621_link = "https://e621.net/posts?tags=menasting+"
+paldex_entry = 99

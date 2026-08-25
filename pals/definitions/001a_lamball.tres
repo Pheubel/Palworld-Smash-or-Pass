@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://yx4ta7njkwlc"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_3aajg"]
+[ext_resource type="Texture2D" uid="uid://dwyk8oqp40qlu" path="res://pals/portraits/Lamball.webp" id="2_1rp2j"]
+
+[resource]
+resource_name = "Lamball"
+script = ExtResource("1_3aajg")
+visual = ExtResource("2_1rp2j")
+e621_link = "https://e621.net/posts?tags=lamball+"
+paldex_entry = 1

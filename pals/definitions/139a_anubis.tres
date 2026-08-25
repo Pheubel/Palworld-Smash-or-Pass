@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://sedyaatsu30b"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_cv6ut"]
+[ext_resource type="Texture2D" uid="uid://0ogbp1dle4eg" path="res://pals/portraits/Anubis.webp" id="2_48c4u"]
+
+[resource]
+resource_name = "Anubis"
+script = ExtResource("1_cv6ut")
+visual = ExtResource("2_48c4u")
+e621_link = "https://e621.net/posts?tags=anubis_%28pal%29+"
+paldex_entry = 139

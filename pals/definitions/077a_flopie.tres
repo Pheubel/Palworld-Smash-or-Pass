@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dp6ci3cavyb05"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_bw5ma"]
+[ext_resource type="Texture2D" uid="uid://v332y2swtosb" path="res://pals/portraits/Flopie.webp" id="2_ld15f"]
+
+[resource]
+resource_name = "Flopie"
+script = ExtResource("1_bw5ma")
+visual = ExtResource("2_ld15f")
+e621_link = "https://e621.net/posts?tags=flopie+"
+paldex_entry = 77

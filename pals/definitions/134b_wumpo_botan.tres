@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://chxw5yjaabso7"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_0bbvg"]
+[ext_resource type="Texture2D" uid="uid://sic6vv4k3gu6" path="res://pals/portraits/Wumpo_Botan.webp" id="2_re3d4"]
+
+[resource]
+resource_name = "Wumpo Botan"
+script = ExtResource("1_0bbvg")
+visual = ExtResource("2_re3d4")
+paldex_entry = 134
+species_variant = 1

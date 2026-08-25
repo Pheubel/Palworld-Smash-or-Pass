@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://3gk5rn2q2cha"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_hemlk"]
+[ext_resource type="Texture2D" uid="uid://k725ogvf4786" path="res://pals/portraits/Helzephyr.webp" id="2_tgyf5"]
+
+[resource]
+resource_name = "Helzephyr"
+script = ExtResource("1_hemlk")
+visual = ExtResource("2_tgyf5")
+e621_link = "https://e621.net/posts?tags=helzephyr+"
+paldex_entry = 80

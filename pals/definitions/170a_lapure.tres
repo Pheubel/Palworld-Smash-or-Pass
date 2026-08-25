@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://x4tinoxh6bop"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_touoo"]
+[ext_resource type="Texture2D" uid="uid://wefejy2112ic" path="res://pals/portraits/Lapure.webp" id="2_o8gxe"]
+
+[resource]
+resource_name = "Lapure"
+script = ExtResource("1_touoo")
+visual = ExtResource("2_o8gxe")
+e621_link = "https://e621.net/posts?tags=lapure+"
+paldex_entry = 170

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bmdgt6baqkltc"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ya0sj"]
+[ext_resource type="Texture2D" uid="uid://c6mi3yt52t7y" path="res://pals/portraits/Mossanda.webp" id="2_mqe44"]
+
+[resource]
+resource_name = "Mossanda"
+script = ExtResource("1_ya0sj")
+visual = ExtResource("2_mqe44")
+e621_link = "https://e621.net/posts?tags=mossanda+"
+paldex_entry = 102

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cufefo0qe6pc8"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_j68pk"]
+[ext_resource type="Texture2D" uid="uid://bb5e2e6nfm127" path="res://pals/portraits/Wispaw.webp" id="2_lb7bf"]
+
+[resource]
+resource_name = "Wispaw"
+script = ExtResource("1_j68pk")
+visual = ExtResource("2_lb7bf")
+e621_link = "https://e621.net/posts?tags=wispaw+"
+paldex_entry = 50

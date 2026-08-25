@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cymqnveqhaosr"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_3vp8l"]
+[ext_resource type="Texture2D" uid="uid://cf70sl1ilar3w" path="res://pals/portraits/Caprity.webp" id="2_4sggb"]
+
+[resource]
+resource_name = "Caprity"
+script = ExtResource("1_3vp8l")
+visual = ExtResource("2_4sggb")
+e621_link = "https://e621.net/posts?tags=caprity+"
+paldex_entry = 34

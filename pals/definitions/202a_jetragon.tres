@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bxttok7hau3cg"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_kmn41"]
+[ext_resource type="Texture2D" uid="uid://cgctv3lqofy2g" path="res://pals/portraits/Jetragon.webp" id="2_eayb5"]
+
+[resource]
+resource_name = "Jetragon"
+script = ExtResource("1_kmn41")
+visual = ExtResource("2_eayb5")
+e621_link = "https://e621.net/posts?tags=jetragon+"
+paldex_entry = 202

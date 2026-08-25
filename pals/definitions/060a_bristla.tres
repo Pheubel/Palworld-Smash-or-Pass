@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dyk4jfgy3m7rw"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_dapm2"]
+[ext_resource type="Texture2D" uid="uid://bx0ubuem01rof" path="res://pals/portraits/Bristla.webp" id="2_q8ddc"]
+
+[resource]
+resource_name = "Bristla"
+script = ExtResource("1_dapm2")
+visual = ExtResource("2_q8ddc")
+e621_link = "https://e621.net/posts?tags=bristla+"
+paldex_entry = 60

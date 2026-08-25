@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b5dsmew0c4ps2"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_6vgmj"]
+[ext_resource type="Texture2D" uid="uid://drkr6k63paj0s" path="res://pals/portraits/Bakemi.webp" id="2_eryjl"]
+
+[resource]
+resource_name = "Bakemi"
+script = ExtResource("1_6vgmj")
+visual = ExtResource("2_eryjl")
+e621_link = "https://e621.net/posts?tags=bakemi_%28pal%29+"
+paldex_entry = 168

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://e1b43bj5w2hp"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_f8pbo"]
+[ext_resource type="Texture2D" uid="uid://do4mcvq7osdnk" path="res://pals/portraits/Menasting_Terra.webp" id="2_hi5kr"]
+
+[resource]
+resource_name = "Menasting Terra"
+script = ExtResource("1_f8pbo")
+visual = ExtResource("2_hi5kr")
+paldex_entry = 99
+species_variant = 1

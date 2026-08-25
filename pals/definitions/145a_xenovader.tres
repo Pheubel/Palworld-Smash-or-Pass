@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://fml0r3lg18b7"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_aswfe"]
+[ext_resource type="Texture2D" uid="uid://cbw2ivdaja1p7" path="res://pals/portraits/Xenovader.webp" id="2_rd8wp"]
+
+[resource]
+resource_name = "Xenovader"
+script = ExtResource("1_aswfe")
+visual = ExtResource("2_rd8wp")
+paldex_entry = 145

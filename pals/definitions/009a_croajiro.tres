@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ha6b33wh40qs"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_u3fts"]
+[ext_resource type="Texture2D" uid="uid://cttbu1s3rvcex" path="res://pals/portraits/Croajiro.webp" id="2_plt30"]
+
+[resource]
+resource_name = "Croajiro"
+script = ExtResource("1_u3fts")
+visual = ExtResource("2_plt30")
+e621_link = "https://e621.net/posts?tags=croajiro_%28pal%29+"
+paldex_entry = 9

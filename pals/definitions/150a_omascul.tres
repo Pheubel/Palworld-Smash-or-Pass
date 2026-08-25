@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://q3xdjdbyldqw"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_jip2j"]
+[ext_resource type="Texture2D" uid="uid://ibntnglhkafw" path="res://pals/portraits/Omascul.webp" id="2_h2iqy"]
+
+[resource]
+resource_name = "Omascul"
+script = ExtResource("1_jip2j")
+visual = ExtResource("2_h2iqy")
+e621_link = "https://e621.net/posts?tags=omascul_%28pal%29+"
+paldex_entry = 150

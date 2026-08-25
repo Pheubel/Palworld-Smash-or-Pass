@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cqwhhuyjpugs5"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_rj6xq"]
+[ext_resource type="Texture2D" uid="uid://h470f04vk6l3" path="res://pals/portraits/Penking_Lux.webp" id="2_d5m7x"]
+
+[resource]
+resource_name = "Penking Lux"
+script = ExtResource("1_rj6xq")
+visual = ExtResource("2_d5m7x")
+paldex_entry = 18
+species_variant = 1

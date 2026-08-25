@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://j2p5mm6heuru"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_jryd7"]
+[ext_resource type="Texture2D" uid="uid://b1iwptrvfv48s" path="res://pals/portraits/Beegarde.webp" id="2_i75py"]
+
+[resource]
+resource_name = "Beegarde"
+script = ExtResource("1_jryd7")
+visual = ExtResource("2_i75py")
+e621_link = "https://e621.net/posts?tags=beegarde+"
+paldex_entry = 67

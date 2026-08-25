@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b5qfmgka0q5a6"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_fc1et"]
+[ext_resource type="Texture2D" uid="uid://ua3ju3kdl3cb" path="res://pals/portraits/Wumpo.webp" id="2_o5qfq"]
+
+[resource]
+resource_name = "Wumpo"
+script = ExtResource("1_fc1et")
+visual = ExtResource("2_o5qfq")
+e621_link = "https://e621.net/posts?tags=wumpo+"
+paldex_entry = 134

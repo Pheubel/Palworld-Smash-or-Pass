@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://wbia067d6dbm"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_vgmyg"]
+[ext_resource type="Texture2D" uid="uid://qw2858cxhi47" path="res://pals/portraits/Grintale.webp" id="2_1fn4i"]
+
+[resource]
+resource_name = "Grintale"
+script = ExtResource("1_vgmyg")
+visual = ExtResource("2_1fn4i")
+e621_link = "https://e621.net/posts?tags=grintale+"
+paldex_entry = 70

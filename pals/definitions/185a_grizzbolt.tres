@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b7euil7f5o3j0"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_nl4nn"]
+[ext_resource type="Texture2D" uid="uid://bvmtuhhyij8jq" path="res://pals/portraits/Grizzbolt.webp" id="2_8afrp"]
+
+[resource]
+resource_name = "Grizzbolt"
+script = ExtResource("1_nl4nn")
+visual = ExtResource("2_8afrp")
+e621_link = "https://e621.net/posts?tags=grizzbolt+"
+paldex_entry = 185

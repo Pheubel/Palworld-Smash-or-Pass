@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ba8rb7leocp8e"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_jpwi7"]
+[ext_resource type="Texture2D" uid="uid://dyg53qw7dl5oj" path="res://pals/portraits/Blazehowl.webp" id="2_n314w"]
+
+[resource]
+resource_name = "Blazehowl"
+script = ExtResource("1_jpwi7")
+visual = ExtResource("2_n314w")
+e621_link = "https://e621.net/posts?tags=blazehowl+"
+paldex_entry = 112

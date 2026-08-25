@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ckwfwqv20u5mw"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_6jpso"]
+[ext_resource type="Texture2D" uid="uid://bguuyoupie7qd" path="res://pals/portraits/Starryon.webp" id="2_3dste"]
+
+[resource]
+resource_name = "Starryon"
+script = ExtResource("1_6jpso")
+visual = ExtResource("2_3dste")
+e621_link = "https://e621.net/posts?tags=starryon_%28pal%29+"
+paldex_entry = 130

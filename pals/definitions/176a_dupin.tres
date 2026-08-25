@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bx3glemit5rek"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_711en"]
+[ext_resource type="Texture2D" uid="uid://dkf6g1b382ilo" path="res://pals/portraits/Dupin.webp" id="2_2tct7"]
+
+[resource]
+resource_name = "Dupin"
+script = ExtResource("1_711en")
+visual = ExtResource("2_2tct7")
+e621_link = "https://e621.net/posts?tags=dupin_%28pal%29+"
+paldex_entry = 176

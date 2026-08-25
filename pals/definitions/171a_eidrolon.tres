@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bmayc12m1q4jf"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_uyqjw"]
+[ext_resource type="Texture2D" uid="uid://buhluy4m02ijw" path="res://pals/portraits/Eidrolon.webp" id="2_basy2"]
+
+[resource]
+resource_name = "Eidrolon"
+script = ExtResource("1_uyqjw")
+visual = ExtResource("2_basy2")
+e621_link = "https://e621.net/posts?tags=eidrolon+"
+paldex_entry = 171

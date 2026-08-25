@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dsr5xdgeb5r8w"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_flvma"]
+[ext_resource type="Texture2D" uid="uid://duoah7vqtlyfy" path="res://pals/portraits/Knocklem_Ignis.webp" id="2_flvma"]
+
+[resource]
+resource_name = "Knocklem Ignis"
+script = ExtResource("1_flvma")
+visual = ExtResource("2_flvma")
+paldex_entry = 159
+species_variant = 1

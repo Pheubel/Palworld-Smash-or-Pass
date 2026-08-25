@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c7n0eae1iwsjg"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_a6l11"]
+[ext_resource type="Texture2D" uid="uid://cnfw1u4tnf4v2" path="res://pals/portraits/Vanwyrm_Cryst.webp" id="2_svbhm"]
+
+[resource]
+resource_name = "Vanwyrm Cryst"
+script = ExtResource("1_a6l11")
+visual = ExtResource("2_svbhm")
+e621_link = "https://e621.net/posts?tags=vanwyrm_cryst+"
+paldex_entry = 64
+species_variant = 1

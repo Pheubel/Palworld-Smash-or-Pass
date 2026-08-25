@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dj7cd16u6qvve"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_fv18l"]
+[ext_resource type="Texture2D" uid="uid://drc7orkpwbtpd" path="res://pals/portraits/Woolipop.webp" id="2_is7um"]
+
+[resource]
+resource_name = "Woolipop"
+script = ExtResource("1_fv18l")
+visual = ExtResource("2_is7um")
+e621_link = "https://e621.net/posts?tags=woolipop+"
+paldex_entry = 39

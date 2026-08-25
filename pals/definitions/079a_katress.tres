@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://drx65yvwk7dp1"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_l8upr"]
+[ext_resource type="Texture2D" uid="uid://dpwedfchhxwnn" path="res://pals/portraits/Katress.webp" id="2_mi4k7"]
+
+[resource]
+resource_name = "Katress"
+script = ExtResource("1_l8upr")
+visual = ExtResource("2_mi4k7")
+e621_link = "https://e621.net/posts?tags=katress+"
+paldex_entry = 79

@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cbihcvt7j5g6s"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_5r42m"]
+[ext_resource type="Texture2D" uid="uid://b6igyxi5o5e80" path="res://pals/portraits/Lyleen_Noct.webp" id="2_pq8ny"]
+
+[resource]
+resource_name = "Lyleen Noct"
+script = ExtResource("1_5r42m")
+visual = ExtResource("2_pq8ny")
+e621_link = "https://e621.net/posts?tags=lyleen_noct+"
+paldex_entry = 186
+species_variant = 1

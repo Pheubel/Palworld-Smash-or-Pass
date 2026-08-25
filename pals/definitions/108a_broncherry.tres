@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c7jt8nmpabhxc"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_bt5v1"]
+[ext_resource type="Texture2D" uid="uid://dfjro0ico8ue4" path="res://pals/portraits/Broncherry.webp" id="2_sgpkc"]
+
+[resource]
+resource_name = "Broncherry"
+script = ExtResource("1_bt5v1")
+visual = ExtResource("2_sgpkc")
+e621_link = "https://e621.net/posts?tags=broncherry+"
+paldex_entry = 108

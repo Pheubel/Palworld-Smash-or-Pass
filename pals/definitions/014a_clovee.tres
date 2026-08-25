@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c770646rjx6nw"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_o2de6"]
+[ext_resource type="Texture2D" uid="uid://deppx0dqi7sm5" path="res://pals/portraits/Clovee.webp" id="2_r6n80"]
+
+[resource]
+resource_name = "Clovee"
+script = ExtResource("1_o2de6")
+visual = ExtResource("2_r6n80")
+e621_link = "https://e621.net/posts?tags=clovee_%28pal%29+"
+paldex_entry = 14

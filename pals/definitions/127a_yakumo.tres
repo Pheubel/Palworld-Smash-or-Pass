@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cgo441eerhavg"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_undod"]
+[ext_resource type="Texture2D" uid="uid://ce01mebfwb8lc" path="res://pals/portraits/Yakumo.webp" id="2_vlcr1"]
+
+[resource]
+resource_name = "Yakumo"
+script = ExtResource("1_undod")
+visual = ExtResource("2_vlcr1")
+e621_link = "https://e621.net/posts?tags=yakumo_%28pal%29+"
+paldex_entry = 127

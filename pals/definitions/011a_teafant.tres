@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bscq1xt4pc8rc"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_yttok"]
+[ext_resource type="Texture2D" uid="uid://bd4g7a74q84hl" path="res://pals/portraits/Teafant.webp" id="2_21u42"]
+
+[resource]
+resource_name = "Teafant"
+script = ExtResource("1_yttok")
+visual = ExtResource("2_21u42")
+e621_link = "https://e621.net/posts?tags=teafant+"
+paldex_entry = 11

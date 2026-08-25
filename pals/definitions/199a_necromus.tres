@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ciuqs8kijhi2c"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_fvdgd"]
+[ext_resource type="Texture2D" uid="uid://bd2ic7hqyhvud" path="res://pals/portraits/Necromus.webp" id="2_4hhxv"]
+
+[resource]
+resource_name = "Necromus"
+script = ExtResource("1_fvdgd")
+visual = ExtResource("2_4hhxv")
+e621_link = "https://e621.net/posts?tags=necromus+"
+paldex_entry = 199

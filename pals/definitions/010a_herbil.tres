@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dt25ojci0mxx8"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ujchl"]
+[ext_resource type="Texture2D" uid="uid://c8kxr43bymsta" path="res://pals/portraits/Herbil.webp" id="2_rnm6p"]
+
+[resource]
+resource_name = "Herbil"
+script = ExtResource("1_ujchl")
+visual = ExtResource("2_rnm6p")
+e621_link = "https://e621.net/posts?tags=herbil_%28pal%29+"
+paldex_entry = 10

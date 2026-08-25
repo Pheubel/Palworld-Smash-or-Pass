@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dqr5f3bulmr4m"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_mfb2x"]
+[ext_resource type="Texture2D" uid="uid://5pe5g8s0mhvw" path="res://pals/portraits/Silvance.webp" id="2_8ofd3"]
+
+[resource]
+resource_name = "Silvance"
+script = ExtResource("1_mfb2x")
+visual = ExtResource("2_8ofd3")
+e621_link = "https://e621.net/posts?tags=silvance+"
+paldex_entry = 193

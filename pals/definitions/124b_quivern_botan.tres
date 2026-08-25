@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b52h3yfqj584f"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_0bdaq"]
+[ext_resource type="Texture2D" uid="uid://b4nxaasxb7hci" path="res://pals/portraits/Quivern_Botan.webp" id="2_om60r"]
+
+[resource]
+resource_name = "Quivern Botan"
+script = ExtResource("1_0bdaq")
+visual = ExtResource("2_om60r")
+e621_link = "https://e621.net/posts?tags=quivern_botan"
+paldex_entry = 124
+species_variant = 1

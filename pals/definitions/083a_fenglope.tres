@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c0uoagsxwqrrh"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_yocc7"]
+[ext_resource type="Texture2D" uid="uid://cncpppgp6af1y" path="res://pals/portraits/Fenglope.webp" id="2_52mq7"]
+
+[resource]
+resource_name = "Fenglope"
+script = ExtResource("1_yocc7")
+visual = ExtResource("2_52mq7")
+e621_link = "https://e621.net/posts?tags=fenglope+"
+paldex_entry = 83

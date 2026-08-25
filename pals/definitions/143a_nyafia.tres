@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c2lksp5r8idw7"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_hkalw"]
+[ext_resource type="Texture2D" uid="uid://bd7fs5levhvno" path="res://pals/portraits/Nyafia.webp" id="2_haq4w"]
+
+[resource]
+resource_name = "Nyafia"
+script = ExtResource("1_hkalw")
+visual = ExtResource("2_haq4w")
+e621_link = "https://e621.net/posts?tags=nyafia_%28pal%29+"
+paldex_entry = 143

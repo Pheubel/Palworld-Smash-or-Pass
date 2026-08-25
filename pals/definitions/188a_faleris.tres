@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dw0r6mj7tui06"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ghak5"]
+[ext_resource type="Texture2D" uid="uid://dil1ou632rwoj" path="res://pals/portraits/Faleris.webp" id="2_e6tfy"]
+
+[resource]
+resource_name = "Faleris"
+script = ExtResource("1_ghak5")
+visual = ExtResource("2_e6tfy")
+e621_link = "https://e621.net/posts?tags=faleris+"
+paldex_entry = 188

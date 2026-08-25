@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://tb5vmey8hiva"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_e6sjk"]
+[ext_resource type="Texture2D" uid="uid://bhq1msktb5p56" path="res://pals/portraits/Pyrin_Noct.webp" id="2_jsb8v"]
+
+[resource]
+resource_name = "Pyrin Noct"
+script = ExtResource("1_e6sjk")
+visual = ExtResource("2_jsb8v")
+e621_link = "https://e621.net/posts?tags=pyrin_noct+"
+paldex_entry = 93
+species_variant = 1

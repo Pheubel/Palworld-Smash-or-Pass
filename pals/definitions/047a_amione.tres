@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bgipvh1jan2hq"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_arucn"]
+[ext_resource type="Texture2D" uid="uid://xn2savp51j1x" path="res://pals/portraits/Amione.webp" id="2_1qjjy"]
+
+[resource]
+resource_name = "Amione"
+script = ExtResource("1_arucn")
+visual = ExtResource("2_1qjjy")
+e621_link = "https://e621.net/posts?tags=amione_%28pal%29+"
+paldex_entry = 47

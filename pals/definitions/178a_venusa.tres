@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://brwfitmdl8o01"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_waeek"]
+[ext_resource type="Texture2D" uid="uid://nmneqppm81r2" path="res://pals/portraits/Venusa.webp" id="2_2sikq"]
+
+[resource]
+resource_name = "Venusa"
+script = ExtResource("1_waeek")
+visual = ExtResource("2_2sikq")
+e621_link = "https://e621.net/posts?tags=venusa_%28pal%29+"
+paldex_entry = 178

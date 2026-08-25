@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cr6s6li03jo8t"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_sf4u7"]
+[ext_resource type="Texture2D" uid="uid://byocw8uxs2js8" path="res://pals/portraits/Gorirat.webp" id="2_l6q31"]
+
+[resource]
+resource_name = "Gorirat"
+script = ExtResource("1_sf4u7")
+visual = ExtResource("2_l6q31")
+e621_link = "https://e621.net/posts?tags=gorirat+"
+paldex_entry = 74

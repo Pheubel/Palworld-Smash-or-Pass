@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c2j44dy7opohf"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_548dc"]
+[ext_resource type="Texture2D" uid="uid://37lwoc623fib" path="res://pals/portraits/Sootseer.webp" id="2_jf164"]
+
+[resource]
+resource_name = "Sootseer"
+script = ExtResource("1_548dc")
+visual = ExtResource("2_jf164")
+e621_link = "https://e621.net/posts?tags=sootseer_%28pal%29+"
+paldex_entry = 135

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cyfo67vt7jd3q"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ybta5"]
+[ext_resource type="Texture2D" uid="uid://idtvx5ukyp68" path="res://pals/portraits/Beakon_Cryst.webp" id="2_ybta5"]
+
+[resource]
+resource_name = "Beakon Cryst"
+script = ExtResource("1_ybta5")
+visual = ExtResource("2_ybta5")
+paldex_entry = 96
+species_variant = 1

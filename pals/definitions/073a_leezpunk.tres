@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://0tngycd43r3n"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_mofi5"]
+[ext_resource type="Texture2D" uid="uid://ctwiutowoadvv" path="res://pals/portraits/Leezpunk.webp" id="2_tmdps"]
+
+[resource]
+resource_name = "Leezpunk"
+script = ExtResource("1_mofi5")
+visual = ExtResource("2_tmdps")
+e621_link = "https://e621.net/posts?tags=leezpunk+"
+paldex_entry = 73

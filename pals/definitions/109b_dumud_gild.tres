@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cpftbqtiyy85b"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_vh5pc"]
+[ext_resource type="Texture2D" uid="uid://dredybj87l3lx" path="res://pals/portraits/Dumud_Gild.webp" id="2_yr485"]
+
+[resource]
+resource_name = "Dumud Gild"
+script = ExtResource("1_vh5pc")
+visual = ExtResource("2_yr485")
+paldex_entry = 109
+species_variant = 1

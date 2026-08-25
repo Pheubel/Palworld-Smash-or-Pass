@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dvter8vfn75xv"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_88aop"]
+[ext_resource type="Texture2D" uid="uid://c3rbqb26hggkg" path="res://pals/portraits/Silvegis.webp" id="2_p1mod"]
+
+[resource]
+resource_name = "Silvegis"
+script = ExtResource("1_88aop")
+visual = ExtResource("2_p1mod")
+e621_link = "https://e621.net/posts?tags=silvegis_%28pal%29+"
+paldex_entry = 160

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c7avddr7uucjt"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_1mtm4"]
+[ext_resource type="Texture2D" uid="uid://c4kj160vcrcev" path="res://pals/portraits/Dogen.webp" id="2_uk8qs"]
+
+[resource]
+resource_name = "Dogen"
+script = ExtResource("1_1mtm4")
+visual = ExtResource("2_uk8qs")
+e621_link = "https://e621.net/posts?tags=dogen_%28pal%29+"
+paldex_entry = 155

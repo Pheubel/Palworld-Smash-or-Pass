@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ths47apx2u8u"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_06d0v"]
+[ext_resource type="Texture2D" uid="uid://cfgasnahyc4bu" path="res://pals/portraits/Nox.webp" id="2_3hb1f"]
+
+[resource]
+resource_name = "Nox"
+script = ExtResource("1_06d0v")
+visual = ExtResource("2_3hb1f")
+e621_link = "https://e621.net/posts?tags=nox_%28pal%29+"
+paldex_entry = 24

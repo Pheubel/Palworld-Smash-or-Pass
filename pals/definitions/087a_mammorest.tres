@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://d35wtuti32u6q"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_f7ect"]
+[ext_resource type="Texture2D" uid="uid://dnltpaxenp3fo" path="res://pals/portraits/Mammorest.webp" id="2_2o2dr"]
+
+[resource]
+resource_name = "Mammorest"
+script = ExtResource("1_f7ect")
+visual = ExtResource("2_2o2dr")
+e621_link = "https://e621.net/posts?tags=mammorest+"
+paldex_entry = 87

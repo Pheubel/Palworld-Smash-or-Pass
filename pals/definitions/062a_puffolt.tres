@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://yrebmjfjydfq"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_474tf"]
+[ext_resource type="Texture2D" uid="uid://ugq4f1bxbspd" path="res://pals/portraits/Puffolt.webp" id="2_ckeyj"]
+
+[resource]
+resource_name = "Puffolt"
+script = ExtResource("1_474tf")
+visual = ExtResource("2_ckeyj")
+paldex_entry = 62

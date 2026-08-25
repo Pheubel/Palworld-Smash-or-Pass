@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://c6bth0tsix0p7"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_gof8v"]
+[ext_resource type="Texture2D" uid="uid://di8xwr5xg2rby" path="res://pals/portraits/Verdash.webp" id="2_8oc23"]
+
+[resource]
+resource_name = "Verdash"
+script = ExtResource("1_gof8v")
+visual = ExtResource("2_8oc23")
+e621_link = "https://e621.net/posts?tags=verdash+"
+paldex_entry = 152

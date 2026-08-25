@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://1dsnnelqnn7k"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_i7uo4"]
+[ext_resource type="Texture2D" uid="uid://c8csjslvkfk1w" path="res://pals/portraits/Celesdir_Noct.webp" id="2_i7uo4"]
+
+[resource]
+resource_name = "Celesdir Noct"
+script = ExtResource("1_i7uo4")
+visual = ExtResource("2_i7uo4")
+paldex_entry = 157
+species_variant = 1

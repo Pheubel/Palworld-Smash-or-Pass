@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://fdo7vitg6u13"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_8pf7o"]
+[ext_resource type="Texture2D" uid="uid://brlb3dgt1c2dn" path="res://pals/portraits/Suzaku_Aqua.webp" id="2_3eo00"]
+
+[resource]
+resource_name = "Suzaku Aqua"
+script = ExtResource("1_8pf7o")
+visual = ExtResource("2_3eo00")
+e621_link = "https://e621.net/posts?tags=suzaku_aqua"
+paldex_entry = 122
+species_variant = 1

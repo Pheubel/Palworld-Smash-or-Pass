@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dkgo00b4n4xod"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_tf022"]
+[ext_resource type="Texture2D" uid="uid://n2bixkxgbcdt" path="res://pals/portraits/Nitemary.webp" id="2_dje1b"]
+
+[resource]
+resource_name = "Nitemary"
+script = ExtResource("1_tf022")
+visual = ExtResource("2_dje1b")
+e621_link = "https://e621.net/posts?tags=nitemary_%28pal%29+"
+paldex_entry = 148

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bnnlvh5ugaewi"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_5mcrb"]
+[ext_resource type="Texture2D" uid="uid://c4nhhq78cqaku" path="res://pals/portraits/Lapiron.webp" id="2_5hwde"]
+
+[resource]
+resource_name = "Lapiron"
+script = ExtResource("1_5mcrb")
+visual = ExtResource("2_5hwde")
+e621_link = "https://e621.net/posts?tags=lapiron+"
+paldex_entry = 165

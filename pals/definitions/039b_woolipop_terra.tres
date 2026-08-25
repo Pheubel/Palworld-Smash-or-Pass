@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://duo8eldnqm6r5"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_hush5"]
+[ext_resource type="Texture2D" uid="uid://b5qfdqj1aex5d" path="res://pals/portraits/Woolipop_Terra.webp" id="2_3m6yi"]
+
+[resource]
+resource_name = "Woolipop Terra"
+script = ExtResource("1_hush5")
+visual = ExtResource("2_3m6yi")
+paldex_entry = 39
+species_variant = 1

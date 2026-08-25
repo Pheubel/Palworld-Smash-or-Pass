@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cynlcpk2m8m55"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_l6jf8"]
+[ext_resource type="Texture2D" uid="uid://dgx44bkkd4cne" path="res://pals/portraits/Needoll_Noct.webp" id="2_l6jf8"]
+
+[resource]
+resource_name = "Needoll Noct"
+script = ExtResource("1_l6jf8")
+visual = ExtResource("2_l6jf8")
+paldex_entry = 100
+species_variant = 1

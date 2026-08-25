@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bk7jnkuaatam5"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_pcirq"]
+[ext_resource type="Texture2D" uid="uid://6bfw3kxl728i" path="res://pals/portraits/Reptyro_Cryst.webp" id="2_wb8et"]
+
+[resource]
+resource_name = "Reptyro Cryst"
+script = ExtResource("1_pcirq")
+visual = ExtResource("2_wb8et")
+paldex_entry = 129
+species_variant = 1

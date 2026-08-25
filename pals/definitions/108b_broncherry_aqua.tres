@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dba4dfrx4de0t"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_bt52h"]
+[ext_resource type="Texture2D" uid="uid://b20vfue6fdj5t" path="res://pals/portraits/Broncherry_Aqua.webp" id="2_nxu72"]
+
+[resource]
+resource_name = "Broncherry Aqua"
+script = ExtResource("1_bt52h")
+visual = ExtResource("2_nxu72")
+e621_link = "https://e621.net/posts?tags=broncherry_aqua+"
+paldex_entry = 108
+species_variant = 1

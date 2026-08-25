@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://db6gbbjlqju5g"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ab377"]
+[ext_resource type="Texture2D" uid="uid://bn12v0efpkyb8" path="res://pals/portraits/Jolthog_Cryst.webp" id="2_tef4x"]
+
+[resource]
+resource_name = "Jolthog Cryst"
+script = ExtResource("1_ab377")
+visual = ExtResource("2_tef4x")
+paldex_entry = 15
+species_variant = 1

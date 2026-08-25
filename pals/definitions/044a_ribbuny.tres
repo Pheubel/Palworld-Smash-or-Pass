@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bldgir8ban535"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_p3dtu"]
+[ext_resource type="Texture2D" uid="uid://y40veuhhhxjv" path="res://pals/portraits/Ribbuny.webp" id="2_0qad4"]
+
+[resource]
+resource_name = "Ribbuny"
+script = ExtResource("1_p3dtu")
+visual = ExtResource("2_0qad4")
+e621_link = "https://e621.net/posts?tags=ribbuny+"
+paldex_entry = 44

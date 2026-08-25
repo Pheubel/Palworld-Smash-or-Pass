@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bdw4014gowv1f"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_pyj21"]
+[ext_resource type="Texture2D" uid="uid://ber4lar3f36mw" path="res://pals/portraits/Incineram.webp" id="2_6vg8h"]
+
+[resource]
+resource_name = "Incineram"
+script = ExtResource("1_pyj21")
+visual = ExtResource("2_6vg8h")
+e621_link = "https://e621.net/posts?tags=incineram+"
+paldex_entry = 91

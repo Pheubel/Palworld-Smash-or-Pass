@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dd0g3cxem6176"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_uoceb"]
+[ext_resource type="Texture2D" uid="uid://dr56oyu82ap5d" path="res://pals/portraits/Sweepa.webp" id="2_jigjm"]
+
+[resource]
+resource_name = "Sweepa"
+script = ExtResource("1_uoceb")
+visual = ExtResource("2_jigjm")
+e621_link = "https://e621.net/posts?tags=sweepa"
+paldex_entry = 36

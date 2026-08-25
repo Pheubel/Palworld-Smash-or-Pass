@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://k2h6xuxk5v7i"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_jlxrv"]
+[ext_resource type="Texture2D" uid="uid://pkrxletpo6u5" path="res://pals/portraits/Blazamut.webp" id="2_2ro6s"]
+
+[resource]
+resource_name = "Blazamut"
+script = ExtResource("1_jlxrv")
+visual = ExtResource("2_2ro6s")
+paldex_entry = 137

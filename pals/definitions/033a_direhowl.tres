@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://dbdq23uomj784"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_756w0"]
+[ext_resource type="Texture2D" uid="uid://2f7qrf7hoiqb" path="res://pals/portraits/Direhowl.webp" id="2_n4ih1"]
+
+[resource]
+resource_name = "Direhowl"
+script = ExtResource("1_756w0")
+visual = ExtResource("2_n4ih1")
+e621_link = "https://e621.net/posts?tags=direhowl+"
+paldex_entry = 33

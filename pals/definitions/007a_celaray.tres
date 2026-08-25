@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://p0624ab2jh2t"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_h5c22"]
+[ext_resource type="Texture2D" uid="uid://biajihv684ht0" path="res://pals/portraits/Celaray.webp" id="2_c0fwj"]
+
+[resource]
+resource_name = "Celaray"
+script = ExtResource("1_h5c22")
+visual = ExtResource("2_c0fwj")
+e621_link = "https://e621.net/posts?tags=celaray+"
+paldex_entry = 7

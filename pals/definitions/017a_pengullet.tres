@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cq1hy0cw6dwgk"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_1o10j"]
+[ext_resource type="Texture2D" uid="uid://221pm3ahttox" path="res://pals/portraits/Pengullet.webp" id="2_yphy5"]
+
+[resource]
+resource_name = "Pengullet"
+script = ExtResource("1_1o10j")
+visual = ExtResource("2_yphy5")
+e621_link = "https://e621.net/posts?tags=pengullet+"
+paldex_entry = 17

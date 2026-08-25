@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://b84pu8tivo88i"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_ce06f"]
+[ext_resource type="Texture2D" uid="uid://dnkswoqeoayb4" path="res://pals/portraits/Polapup_Terra.webp" id="2_ce06f"]
+
+[resource]
+resource_name = "Polapup Terra"
+script = ExtResource("1_ce06f")
+visual = ExtResource("2_ce06f")
+paldex_entry = 72
+species_variant = 1

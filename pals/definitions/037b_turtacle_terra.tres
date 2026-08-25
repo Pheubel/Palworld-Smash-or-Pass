@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cuwel1qqp71hk"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_xlvo1"]
+[ext_resource type="Texture2D" uid="uid://cc560aytd7d8i" path="res://pals/portraits/Turtacle_Terra.webp" id="2_d07ll"]
+
+[resource]
+resource_name = "Turtacle Terra"
+script = ExtResource("1_xlvo1")
+visual = ExtResource("2_d07ll")
+paldex_entry = 37
+species_variant = 1

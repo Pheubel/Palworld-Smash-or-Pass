@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bj3xmlwr1km47"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_bdwi8"]
+[ext_resource type="Texture2D" uid="uid://b4nkdtoihhlub" path="res://pals/portraits/Foxparks.webp" id="2_8tgfm"]
+
+[resource]
+resource_name = "Foxparks"
+script = ExtResource("1_bdwi8")
+visual = ExtResource("2_8tgfm")
+e621_link = "https://e621.net/posts?tags=foxparks+"
+paldex_entry = 29

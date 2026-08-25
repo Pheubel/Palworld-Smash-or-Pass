@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://bydmktc1ashlb"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_7wyyn"]
+[ext_resource type="Texture2D" uid="uid://xonv5pugqc3a" path="res://pals/portraits/Whalaska.webp" id="2_cutfu"]
+
+[resource]
+resource_name = "Whalaska"
+script = ExtResource("1_7wyyn")
+visual = ExtResource("2_cutfu")
+e621_link = "https://e621.net/posts?tags=whalaska+"
+paldex_entry = 151

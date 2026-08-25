@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://03lpl1ia5s73"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_245pm"]
+[ext_resource type="Texture2D" uid="uid://hlc2xx6dv7cb" path="res://pals/portraits/Kitsun.webp" id="2_hdq1r"]
+
+[resource]
+resource_name = "Kitsun"
+script = ExtResource("1_245pm")
+visual = ExtResource("2_hdq1r")
+e621_link = "https://e621.net/posts?tags=kitsun_%28pal%29+"
+paldex_entry = 111

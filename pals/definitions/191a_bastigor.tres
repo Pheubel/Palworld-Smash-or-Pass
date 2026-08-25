@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cdlnum4kbq4m1"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_s5qcs"]
+[ext_resource type="Texture2D" uid="uid://bhkjduqffvj5y" path="res://pals/portraits/Bastigor.webp" id="2_5yvev"]
+
+[resource]
+resource_name = "Bastigor"
+script = ExtResource("1_s5qcs")
+visual = ExtResource("2_5yvev")
+e621_link = "https://e621.net/posts?tags=bastigor+"
+paldex_entry = 191

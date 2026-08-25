@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://csm1v130p8nuy"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_x3isf"]
+[ext_resource type="Texture2D" uid="uid://cvexn6tokayte" path="res://pals/portraits/Faleris_Aqua.webp" id="2_ru01f"]
+
+[resource]
+resource_name = "Faleris Aqua"
+script = ExtResource("1_x3isf")
+visual = ExtResource("2_ru01f")
+paldex_entry = 188
+species_variant = 1

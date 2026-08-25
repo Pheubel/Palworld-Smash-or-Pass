@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://ca3gwgrnhste8"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_yh6w3"]
+[ext_resource type="Texture2D" uid="uid://cufeiypk72an6" path="res://pals/portraits/Cawgnito.webp" id="2_gy8jk"]
+
+[resource]
+resource_name = "Cawgnito"
+script = ExtResource("1_yh6w3")
+visual = ExtResource("2_gy8jk")
+e621_link = "https://e621.net/posts?tags=cawgnito+"
+paldex_entry = 57

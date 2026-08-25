@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PalResource" format=3 uid="uid://cvec2kcj4r5fj"]
+
+[ext_resource type="Script" uid="uid://dcaeakjdoff3s" path="res://pal_resource.gd" id="1_sqkam"]
+[ext_resource type="Texture2D" uid="uid://71rfyv05bq8w" path="res://pals/portraits/Mimog.webp" id="2_hvaew"]
+
+[resource]
+resource_name = "Mimog"
+script = ExtResource("1_sqkam")
+visual = ExtResource("2_hvaew")
+e621_link = "https://e621.net/posts?tags=mimog_%28pal%29+"
+paldex_entry = 144
