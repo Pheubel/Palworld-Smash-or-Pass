@@ -1,9 +1,12 @@
 [gd_scene format=3 uid="uid://dfkib0haq1pgc"]
 
 [ext_resource type="Texture2D" uid="uid://dgn80rtvaqkcm" path="res://palworld_wallpaper.jpg" id="1_pjrb6"]
-[ext_resource type="Texture2D" uid="uid://d2q17omnc3stb" path="res://main/Palworld_logo.webp" id="2_xwkvk"]
+[ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://app_theme.tres" id="1_xwkvk"]
+[ext_resource type="Script" uid="uid://cq2n7732jri68" path="res://main/main.gd" id="2_c651c"]
+[ext_resource type="Texture2D" uid="uid://d2q17omnc3stb" path="res://main/Palworld_logo.webp" id="3_c651c"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_4ilqg"]
+font_size = 64
 
 [node name="Main" type="Control" unique_id=1484545071]
 layout_mode = 3
@@ -12,6 +15,9 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+theme = ExtResource("1_xwkvk")
+script = ExtResource("2_c651c")
+judging_scene = "uid://de2tyh163skpg"
 
 [node name="Background" type="TextureRect" parent="." unique_id=867759241]
 modulate = Color(0.15686275, 0.15686275, 0.15686275, 1)
@@ -25,54 +31,95 @@ texture = ExtResource("1_pjrb6")
 expand_mode = 1
 stretch_mode = 6
 
-[node name="MenuContainer" type="VBoxContainer" parent="." unique_id=1620181120]
-layout_mode = 1
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -39.5
-offset_top = 42.5
-offset_right = 39.5
-offset_bottom = 143.5
-grow_horizontal = 2
-grow_vertical = 2
-
-[node name="Start" type="Button" parent="MenuContainer" unique_id=244340684]
-layout_mode = 2
-text = "Start"
-
-[node name="Favorites" type="Button" parent="MenuContainer" unique_id=695630232]
-layout_mode = 2
-text = "Favorites"
-
-[node name="ExitButton" type="Button" parent="MenuContainer" unique_id=950955215]
-layout_mode = 2
-text = "Exit"
-
 [node name="TitleTextureRect" type="TextureRect" parent="." unique_id=526258410]
 layout_mode = 1
-anchors_preset = -1
-anchor_left = 0.065972224
-anchor_right = 0.9340278
-anchor_bottom = 0.4382716
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -500.0
+offset_right = 500.0
+offset_bottom = 284.0
 grow_horizontal = 2
-texture = ExtResource("2_xwkvk")
-metadata/_edit_use_anchors_ = true
+texture = ExtResource("3_c651c")
 
 [node name="Label" type="Label" parent="." unique_id=1988078877]
 layout_mode = 1
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -56.0
-offset_top = -11.5
-offset_right = 56.0
-offset_bottom = 11.5
+anchors_preset = -1
+anchor_left = 0.31770834
+anchor_top = 0.43595678
+anchor_right = 0.6822917
+anchor_bottom = 0.53626543
 grow_horizontal = 2
 grow_vertical = 2
 text = "Smash or Pass"
 label_settings = SubResource("LabelSettings_4ilqg")
+metadata/_edit_use_anchors_ = true
+
+[node name="MenuContainer" type="VBoxContainer" parent="." unique_id=1620181120]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.41145834
+anchor_top = 0.5540124
+anchor_right = 0.5885417
+anchor_bottom = 0.8256173
+offset_top = -6.1035156e-05
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 8
+
+[node name="StartButton" type="Button" parent="MenuContainer" unique_id=244340684]
+unique_name_in_owner = true
+layout_mode = 2
+theme_type_variation = &"MainMenuButton"
+text = "Start"
+
+[node name="FavoritesButton" type="Button" parent="MenuContainer" unique_id=695630232]
+unique_name_in_owner = true
+layout_mode = 2
+theme_type_variation = &"MainMenuButton"
+text = "Favorites"
+
+[node name="SettingsButton" type="Button" parent="MenuContainer" unique_id=1059252887]
+unique_name_in_owner = true
+layout_mode = 2
+theme_type_variation = &"MainMenuButton"
+text = "Settings"
+
+[node name="ExitButton" type="Button" parent="MenuContainer" unique_id=950955215]
+unique_name_in_owner = true
+layout_mode = 2
+theme_type_variation = &"MainMenuButton"
+text = "Exit"
+
+[node name="SettingsMenuContainer" type="VBoxContainer" parent="." unique_id=895000861]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.41145834
+anchor_top = 0.5540124
+anchor_right = 0.5885417
+anchor_bottom = 0.8256173
+offset_top = -6.1035156e-05
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 8
+metadata/_edit_use_anchors_ = true
+
+[node name="ShowBooruButton" type="CheckButton" parent="SettingsMenuContainer" unique_id=965644308]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Show Boorus"
+
+[node name="ShufflePalsButton" type="CheckButton" parent="SettingsMenuContainer" unique_id=1084001304]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Shuffle Pals"
+
+[node name="BackButton" type="Button" parent="SettingsMenuContainer" unique_id=1865486248]
+unique_name_in_owner = true
+layout_mode = 2
+theme_type_variation = &"MainMenuButton"
+text = "back
+"

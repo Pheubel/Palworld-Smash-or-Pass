@@ -27,9 +27,9 @@ func _ready() -> void:
 		push_error("Expected paldex to be ready before this node. Please make sure it is loaded first")
 		return
 	else:
-		var favorited_pals := _config.get_value("Pals", "favorites", []) as Array[String]
+		var favorited_pals := _config.get_value("Pals", "favorites", []) as Array
 		
-		for pal in favorited_pals:
+		for pal: String in favorited_pals:
 			favorite_pals.set(pal, Paldex.get_pal(pal))
 
 

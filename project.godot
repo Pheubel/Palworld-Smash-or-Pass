@@ -25,9 +25,14 @@ PersistantData="*uid://cqefxw7qlyyqd"
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/scene_reference/plugin.cfg")
+
 [file_customization]
 
 folder_colors={
+"res://addons/": "gray",
 "res://autoloads/": "purple"
 }
 
