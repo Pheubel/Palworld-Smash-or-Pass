@@ -29,7 +29,7 @@ func rebuild_pal_container_list() -> void:
 		var pal_definition := PersistantData.favorite_pals[pal]
 		
 		pal_container.prepare(pal_definition)
-		pal_container.pressed.connect(_on_pal_container_pressed)
+		pal_container.pressed.connect(_on_pal_container_pressed.bind(pal_definition))
 		
 		pal_container_list.add_child(pal_container)
 
