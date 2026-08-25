@@ -1,5 +1,7 @@
 extends Control
 
+@export_custom(0, "scene") var main_scene: String
+
 @onready var favorite_button: TextureButton = %FavoriteButton
 @onready var smash_button: Button = %SmashButton
 @onready var pass_button: Button = %PassButton
@@ -7,6 +9,7 @@ extends Control
 @onready var pal_texture_rect: TextureRect = %PalTextureRect
 @onready var pal_index_label: Label = %PalIndexLabel
 @onready var pal_name_label: Label = %PalNameLabel
+@onready var back_button: Button = %BackButton
 
 var pal_queue: Array[PalResource]
 var current_pal: PalResource
@@ -30,6 +33,7 @@ func connect_signals() -> void:
 	e621_button.pressed.connect(_on_e621_pressed)
 	smash_button.pressed.connect(_on_smash_pressed)
 	pass_button.pressed.connect(_on_pass_pressed)
+	back_button.pressed.connect(_on_back_pressed)
 	
 	favorite_button.mouse_entered.connect(favorite_button.grab_focus, CONNECT_DEFERRED)
 	e621_button.mouse_entered.connect(e621_button.grab_focus, CONNECT_DEFERRED)
@@ -99,6 +103,10 @@ func _on_e621_pressed() -> void:
 	
 	if not current_pal.e621_link.is_empty():
 		OS.shell_open(current_pal.e621_link)
+
+
+func _on_back_pressed() -> void:
+	get_tree().change_scene_to_file(main_scene)
 
 
 func _on_smash_pressed() -> void:

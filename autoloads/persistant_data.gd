@@ -33,6 +33,11 @@ func _ready() -> void:
 			favorite_pals.set(pal, Paldex.get_pal(pal))
 
 
+func _notification(what: int) -> void:
+	if what == NOTIFICATION_WM_CLOSE_REQUEST:
+		_config.save(DATA_FILE)
+
+
 func add_favorite(pal: PalResource) -> void:
 	favorite_pals.set(pal.resource_name, pal)
 	_config.set_value("Pals", "favorites", favorite_pals.keys())
@@ -50,6 +55,7 @@ func set_show_booru(state: bool) -> void:
 		queue_save()
 	
 	show_booru = state
+	_config.set_value("Settings", "show_booru", show_booru)
 
 
 func set_shuffle_pals(state: bool) -> void:
@@ -57,6 +63,7 @@ func set_shuffle_pals(state: bool) -> void:
 		queue_save()
 	
 	shuffle_pals = state
+	_config.set_value("Settings", "shuffle_pals", shuffle_pals)
 
 
 func queue_save() -> void:

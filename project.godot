@@ -33,7 +33,8 @@ enabled=PackedStringArray("res://addons/scene_reference/plugin.cfg")
 
 folder_colors={
 "res://addons/": "gray",
-"res://autoloads/": "purple"
+"res://autoloads/": "purple",
+"res://ui_scenes/": "green"
 }
 
 [physics]

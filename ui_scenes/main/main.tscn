@@ -2,8 +2,8 @@
 
 [ext_resource type="Texture2D" uid="uid://dgn80rtvaqkcm" path="res://palworld_wallpaper.jpg" id="1_pjrb6"]
 [ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://app_theme.tres" id="1_xwkvk"]
-[ext_resource type="Script" uid="uid://cq2n7732jri68" path="res://main/main.gd" id="2_c651c"]
-[ext_resource type="Texture2D" uid="uid://d2q17omnc3stb" path="res://main/Palworld_logo.webp" id="3_c651c"]
+[ext_resource type="Script" uid="uid://cq2n7732jri68" path="res://ui_scenes/main/main.gd" id="2_c651c"]
+[ext_resource type="Texture2D" uid="uid://d2q17omnc3stb" path="res://ui_scenes/main/Palworld_logo.webp" id="3_c651c"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_4ilqg"]
 font_size = 64

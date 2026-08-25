@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://de2tyh163skpg"]
 
 [ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://app_theme.tres" id="1_j4hub"]
-[ext_resource type="Script" uid="uid://dn4dyt3v5313k" path="res://judging/judging.gd" id="2_btatj"]
+[ext_resource type="Script" uid="uid://dn4dyt3v5313k" path="res://ui_scenes/judging/judging.gd" id="2_btatj"]
 [ext_resource type="Texture2D" uid="uid://dyl7p3s6hvm7f" path="res://icons/star.svg" id="3_6o8e0"]
 [ext_resource type="Texture2D" uid="uid://dgn80rtvaqkcm" path="res://palworld_wallpaper.jpg" id="3_axw82"]
 [ext_resource type="Texture2D" uid="uid://dwyk8oqp40qlu" path="res://pals/portraits/Lamball.webp" id="4_ghp7x"]
@@ -32,6 +32,7 @@ grow_horizontal = 2
 grow_vertical = 2
 theme = ExtResource("1_j4hub")
 script = ExtResource("2_btatj")
+main_scene = "uid://dfkib0haq1pgc"
 
 [node name="Background" type="TextureRect" parent="." unique_id=768357875]
 modulate = Color(0.15686275, 0.15686275, 0.15686275, 1)
@@ -234,7 +235,7 @@ texture_normal = ExtResource("3_6o8e0")
 texture_pressed = ExtResource("4_s21ci")
 texture_focused = ExtResource("8_aeyq5")
 ignore_texture_size = true
-stretch_mode = 5
+stretch_mode = 4
 metadata/_edit_use_anchors_ = true
 
 [node name="E621Button" type="TextureButton" parent="Controlable/SideButtonContainer" unique_id=1165070758 groups=["booru_button", "clickable"]]
@@ -246,7 +247,7 @@ texture_normal = ExtResource("5_btatj")
 texture_disabled = ExtResource("10_rnqdg")
 texture_focused = ExtResource("9_44vp7")
 ignore_texture_size = true
-stretch_mode = 5
+stretch_mode = 4
 
 [node name="BackButton" type="Button" parent="Controlable" unique_id=1239066413 groups=["clickable"]]
 unique_name_in_owner = true
