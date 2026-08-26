@@ -46,12 +46,12 @@ func create_share_string() -> String:
 	var share_string: String
 	
 	if smash_count > 0:
-		share_string = tr_n(&"I smashed %d pal:", &"I smashed %d pals:", smash_count) % smash_count
+		share_string = tr_n(&"I would smash %d pal:", &"I would smash %d pals:", smash_count) % smash_count
 		
 		for pal in PersistantData.smashed_pals:
 			share_string += "\n" + pal.get_translated_name()
 	else:
-		share_string = tr(&"I smashed no pals.")
+		share_string = tr(&"I would smashed no pals.")
 	
 	return share_string
 
