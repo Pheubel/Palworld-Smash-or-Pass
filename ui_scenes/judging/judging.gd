@@ -78,7 +78,9 @@ func next_pal() -> bool:
 	
 	# handle how the e621 button should act
 	e621_button.disabled = current_pal.e621_link.is_empty()
+	e621_button.mouse_default_cursor_shape = CursorShape.CURSOR_ARROW if e621_button.disabled else CursorShape.CURSOR_POINTING_HAND
 	e621_button.focus_mode = FocusMode.FOCUS_NONE if e621_button.disabled else FocusMode.FOCUS_ALL
+	
 	
 	# set favorite button to saved state
 	favorite_button.button_pressed = PersistantData.favorite_pals.has(current_pal.resource_name)  

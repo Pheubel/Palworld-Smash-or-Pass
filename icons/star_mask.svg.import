@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://w8oolak2u725"
+path="res://.godot/imported/star_mask.svg-794ed58ab5d601bab565ee7e0d272f25.res"
+
+[deps]
+
+source_file="res://icons/star_mask.svg"
+dest_files=["res://.godot/imported/star_mask.svg-794ed58ab5d601bab565ee7e0d272f25.res"]
+
+[params]
+
+create_from=1
+threshold=0.5

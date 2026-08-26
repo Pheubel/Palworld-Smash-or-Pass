@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://pd3esalr03em"
+path="res://.godot/imported/e621_mask.png-20ac18a884d0e19a55a234f283d5d4f7.res"
+
+[deps]
+
+source_file="res://icons/e621_mask.png"
+dest_files=["res://.godot/imported/e621_mask.png-20ac18a884d0e19a55a234f283d5d4f7.res"]
+
+[params]
+
+create_from=1
+threshold=0.5
