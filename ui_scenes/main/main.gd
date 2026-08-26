@@ -24,6 +24,9 @@ func _ready() -> void:
 	connect_signals()
 	
 	version_label.text = "Version: %s" % ProjectSettings.get_setting("application/config/version") as String
+	
+	if OS.get_name() == "Web":
+		exit_button.queue_free()
 
 
 func connect_signals() -> void:
