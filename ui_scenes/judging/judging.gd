@@ -1,6 +1,7 @@
 extends Control
 
 @export_custom(0, "scene") var main_scene: String
+@export_custom(0, "scene") var result_scene: String
 
 @onready var favorite_button: TextureButton = %FavoriteButton
 @onready var smash_button: Button = %SmashButton
@@ -17,6 +18,8 @@ var current_pal: PalResource
 
 func _ready() -> void:
 	connect_signals()
+	
+	PersistantData.smashed_pals.clear()
 	
 	pal_queue = Paldex.pals.duplicate()
 	if PersistantData.shuffle_pals:
@@ -112,6 +115,9 @@ func _on_back_pressed() -> void:
 
 
 func _on_smash_pressed() -> void:
+	assert(current_pal)
+	
+	PersistantData.smashed_pals.append(current_pal)
 	_on_rating_pressed()
 
 
@@ -132,8 +138,6 @@ func _on_queue_finished() -> void:
 	
 	disconnect_signals()
 	
-	print("it's done, go to the next scene")
-	# TODO: instead of going directly to the main menu, show a list of all smashed pals.
-	get_tree().change_scene_to_file(main_scene)
+	get_tree().change_scene_to_file(result_scene)
 
 #endregion

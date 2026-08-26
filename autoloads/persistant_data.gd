@@ -7,6 +7,8 @@ var favorite_pals: Dictionary[String, PalResource] = {}
 var show_booru: bool = true: set = set_show_booru
 var shuffle_pals: bool = false: set = set_shuffle_pals
 
+var smashed_pals: Array[PalResource] = []
+
 var _config: ConfigFile = ConfigFile.new()
 var _debounce_timer: Timer = Timer.new()
 

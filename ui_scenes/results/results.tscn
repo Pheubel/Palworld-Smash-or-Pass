@@ -1,0 +1,149 @@
+[gd_scene format=3 uid="uid://bh6yy0np78ac4"]
+
+[ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://app_theme.tres" id="1_x856n"]
+[ext_resource type="Script" uid="uid://cfxgang4mjb2" path="res://ui_scenes/results/results.gd" id="2_up6y4"]
+[ext_resource type="Texture2D" uid="uid://dgn80rtvaqkcm" path="res://palworld_wallpaper.jpg" id="3_plhs5"]
+[ext_resource type="Texture2D" uid="uid://lc0i1hi16yas" path="res://icons/copy-solid-full.svg" id="4_4fjdy"]
+[ext_resource type="PackedScene" uid="uid://birnnwcbd53ey" path="res://ui_scenes/favorites/pal_container.tscn" id="5_kxfgv"]
+[ext_resource type="Texture2D" uid="uid://c01j4g4xkq3wb" path="res://icons/arrow_left.svg" id="6_up6y4"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_xjmnl"]
+bg_color = Color(0.252961, 0.32950044, 0.41508815, 0.6)
+border_width_left = 64
+border_width_right = 64
+border_color = Color(0, 0, 0, 0)
+border_blend = true
+
+[sub_resource type="LabelSettings" id="LabelSettings_t5p5a"]
+font_size = 32
+
+[sub_resource type="LabelSettings" id="LabelSettings_4ilqg"]
+font_size = 24
+
+[node name="Results" type="Control" unique_id=1375489783]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1_x856n")
+script = ExtResource("2_up6y4")
+main_scene = "uid://dfkib0haq1pgc"
+
+[node name="Background" type="TextureRect" parent="." unique_id=1619037616]
+modulate = Color(0.15686275, 0.15686275, 0.15686275, 1)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("3_plhs5")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="PanelContainer" type="PanelContainer" parent="." unique_id=1610671221]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.2717014
+anchor_top = 0.047839507
+anchor_right = 0.7282986
+anchor_bottom = 0.1095679
+offset_bottom = 9.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_xjmnl")
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer" unique_id=1405279830]
+layout_mode = 2
+theme_override_constants/margin_left = 16
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 16
+
+[node name="TitleLabel" type="Label" parent="PanelContainer/MarginContainer" unique_id=2144061603]
+layout_mode = 2
+text = "Results"
+label_settings = SubResource("LabelSettings_t5p5a")
+horizontal_alignment = 1
+
+[node name="ResultLabel" type="Label" parent="." unique_id=1027346752]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(250, 0)
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.39149305
+anchor_top = 0.20601852
+anchor_right = 0.6085069
+anchor_bottom = 0.24459876
+offset_left = 52.0
+offset_top = 1.0
+offset_right = -52.0
+offset_bottom = -1.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "I smashed 123 pals"
+label_settings = SubResource("LabelSettings_4ilqg")
+horizontal_alignment = 1
+metadata/_edit_use_anchors_ = true
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=129010014]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.32291666
+anchor_top = 0.3101852
+anchor_right = 0.6770833
+anchor_bottom = 0.92746913
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 8
+metadata/_edit_use_anchors_ = true
+
+[node name="CenterContainer" type="CenterContainer" parent="VBoxContainer" unique_id=1530811857]
+layout_mode = 2
+
+[node name="CopyToClipboardButton" type="Button" parent="VBoxContainer/CenterContainer" unique_id=1241531786]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_type_variation = &"MainMenuButton"
+theme_override_font_sizes/font_size = 16
+text = "copy to clipboard"
+icon = ExtResource("4_4fjdy")
+icon_alignment = 2
+expand_icon = true
+
+[node name="ScrollContainer" type="ScrollContainer" parent="VBoxContainer" unique_id=600962705]
+custom_minimum_size = Vector2(408, 0)
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/scrollbar_h_separation = 16
+vertical_scroll_mode = 4
+scroll_hint_mode = 1
+
+[node name="PalContainerList" type="VBoxContainer" parent="VBoxContainer/ScrollContainer" unique_id=1855799627]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_constants/separation = 23
+
+[node name="PalContainer" parent="VBoxContainer/ScrollContainer/PalContainerList" unique_id=261246447 instance=ExtResource("5_kxfgv")]
+layout_mode = 2
+
+[node name="PalContainer2" parent="VBoxContainer/ScrollContainer/PalContainerList" unique_id=211862896 instance=ExtResource("5_kxfgv")]
+layout_mode = 2
+
+[node name="PalContainer3" parent="VBoxContainer/ScrollContainer/PalContainerList" unique_id=1580774031 instance=ExtResource("5_kxfgv")]
+layout_mode = 2
+
+[node name="MainBackButton" type="Button" parent="." unique_id=549716682 groups=["clickable"]]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 0.059895832
+anchor_bottom = 0.106481485
+mouse_default_cursor_shape = 2
+icon = ExtResource("6_up6y4")
+flat = true
+expand_icon = true
+metadata/_edit_use_anchors_ = true

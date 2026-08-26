@@ -35,6 +35,7 @@ grow_vertical = 2
 theme = ExtResource("1_j4hub")
 script = ExtResource("2_btatj")
 main_scene = "uid://dfkib0haq1pgc"
+result_scene = "uid://bh6yy0np78ac4"
 
 [node name="Background" type="TextureRect" parent="." unique_id=768357875]
 modulate = Color(0.15686275, 0.15686275, 0.15686275, 1)
