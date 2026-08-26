@@ -4,8 +4,8 @@
 [ext_resource type="Texture2D" uid="uid://b75ee7rdf4hog" path="res://pals/portraits/Pierdon_Cryst.webp" id="2_2vwup"]
 
 [resource]
-resource_name = "Pierdon"
+resource_name = "Pierdon Cryst"
 script = ExtResource("1_2vwup")
 visual = ExtResource("2_2vwup")
 paldex_entry = 131
-translation_key = "pal_pierdon"
+translation_key = &"pal_pierdon_cryst"

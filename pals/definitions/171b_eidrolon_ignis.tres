@@ -4,8 +4,8 @@
 [ext_resource type="Texture2D" uid="uid://dt7tac1y6yr77" path="res://pals/portraits/Eidrolon_Ignis.webp" id="2_a7tcw"]
 
 [resource]
-resource_name = "Eidrolon"
+resource_name = "Eidrolon Ignis"
 script = ExtResource("1_a7tcw")
 visual = ExtResource("2_a7tcw")
 paldex_entry = 171
-translation_key = "pal_eidrolon"
+translation_key = &"pal_eidrolon_ignis"
