@@ -37,6 +37,7 @@ folder_colors={
 "res://addons/": "gray",
 "res://autoloads/": "purple",
 "res://i10n/": "yellow",
+"res://out/": "red",
 "res://ui_scenes/": "green"
 }
 
