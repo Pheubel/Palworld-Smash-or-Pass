@@ -6,8 +6,6 @@
 [ext_resource type="PackedScene" uid="uid://birnnwcbd53ey" path="res://ui_scenes/favorites/pal_container.tscn" id="3_cwvfr"]
 [ext_resource type="Texture2D" uid="uid://c01j4g4xkq3wb" path="res://icons/arrow_left.svg" id="4_r0oqy"]
 
-[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_4ilqg"]
-
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_r0oqy"]
 bg_color = Color(0.252961, 0.32950044, 0.41508815, 0.6)
 border_width_left = 64
@@ -41,22 +39,12 @@ texture = ExtResource("2_em8sq")
 expand_mode = 1
 stretch_mode = 6
 
-[node name="TabContainer" type="TabContainer" parent="." unique_id=70857763]
-layout_mode = 1
-anchors_preset = 15
+[node name="FavoriteList" type="Control" parent="." unique_id=2001796016]
+anchors_preset = 0
 anchor_right = 1.0
 anchor_bottom = 1.0
-grow_horizontal = 2
-grow_vertical = 2
-theme_override_styles/panel = SubResource("StyleBoxEmpty_4ilqg")
-current_tab = 0
-tabs_visible = false
 
-[node name="FavoriteList" type="Control" parent="TabContainer" unique_id=2001796016]
-layout_mode = 2
-metadata/_tab_index = 0
-
-[node name="MainBackButton" type="Button" parent="TabContainer/FavoriteList" unique_id=1112126212]
+[node name="MainBackButton" type="Button" parent="FavoriteList" unique_id=1112126212]
 unique_name_in_owner = true
 layout_mode = 0
 anchor_right = 0.059895832
@@ -66,7 +54,7 @@ icon = ExtResource("4_r0oqy")
 expand_icon = true
 metadata/_edit_use_anchors_ = true
 
-[node name="PanelContainer" type="PanelContainer" parent="TabContainer/FavoriteList" unique_id=1592434595]
+[node name="PanelContainer" type="PanelContainer" parent="FavoriteList" unique_id=1592434595]
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.2717014
@@ -76,19 +64,20 @@ anchor_bottom = 0.1095679
 offset_bottom = 9.0
 theme_override_styles/panel = SubResource("StyleBoxFlat_r0oqy")
 
-[node name="MarginContainer" type="MarginContainer" parent="TabContainer/FavoriteList/PanelContainer" unique_id=326481797]
+[node name="MarginContainer" type="MarginContainer" parent="FavoriteList/PanelContainer" unique_id=326481797]
 layout_mode = 2
 theme_override_constants/margin_left = 16
 theme_override_constants/margin_top = 8
 theme_override_constants/margin_right = 16
 
-[node name="TitleLabel" type="Label" parent="TabContainer/FavoriteList/PanelContainer/MarginContainer" unique_id=1018816932]
+[node name="TitleLabel" type="Label" parent="FavoriteList/PanelContainer/MarginContainer" unique_id=1018816932]
+auto_translate_mode = 1
 layout_mode = 2
 text = "Your Favorites"
 label_settings = SubResource("LabelSettings_b3xh5")
 horizontal_alignment = 1
 
-[node name="ScrollContainer" type="ScrollContainer" parent="TabContainer/FavoriteList" unique_id=1628450094]
+[node name="ScrollContainer" type="ScrollContainer" parent="FavoriteList" unique_id=1628450094]
 custom_minimum_size = Vector2(408, 0)
 layout_mode = 1
 anchors_preset = 13
@@ -106,18 +95,18 @@ theme_override_constants/scrollbar_h_separation = 16
 vertical_scroll_mode = 4
 scroll_hint_mode = 1
 
-[node name="PalContainerList" type="VBoxContainer" parent="TabContainer/FavoriteList/ScrollContainer" unique_id=443986824]
+[node name="PalContainerList" type="VBoxContainer" parent="FavoriteList/ScrollContainer" unique_id=443986824]
 unique_name_in_owner = true
 layout_mode = 2
 size_flags_horizontal = 3
 size_flags_vertical = 3
 theme_override_constants/separation = 23
 
-[node name="PalContainer" parent="TabContainer/FavoriteList/ScrollContainer/PalContainerList" unique_id=261246447 instance=ExtResource("3_cwvfr")]
+[node name="PalContainer" parent="FavoriteList/ScrollContainer/PalContainerList" unique_id=261246447 instance=ExtResource("3_cwvfr")]
 layout_mode = 2
 
-[node name="PalContainer2" parent="TabContainer/FavoriteList/ScrollContainer/PalContainerList" unique_id=712032943 instance=ExtResource("3_cwvfr")]
+[node name="PalContainer2" parent="FavoriteList/ScrollContainer/PalContainerList" unique_id=712032943 instance=ExtResource("3_cwvfr")]
 layout_mode = 2
 
-[node name="PalContainer3" parent="TabContainer/FavoriteList/ScrollContainer/PalContainerList" unique_id=45335253 instance=ExtResource("3_cwvfr")]
+[node name="PalContainer3" parent="FavoriteList/ScrollContainer/PalContainerList" unique_id=45335253 instance=ExtResource("3_cwvfr")]
 layout_mode = 2

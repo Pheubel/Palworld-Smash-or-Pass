@@ -44,6 +44,7 @@ folder_colors={
 [internationalization]
 
 locale/translations=PackedStringArray("res://i10n/pal_names.en.translation", "res://i10n/pal_names.ja.translation")
+locale/translations_pot_files=PackedStringArray("res://ui_scenes/results/results.gd", "res://ui_scenes/results/results.tscn", "res://ui_scenes/favorites/favorites.tscn", "res://ui_scenes/judging/judging.tscn", "res://ui_scenes/main/main.tscn")
 
 [physics]
 

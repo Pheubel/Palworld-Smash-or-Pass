@@ -50,6 +50,7 @@ grow_horizontal = 2
 texture = ExtResource("3_c651c")
 
 [node name="SubtitleLabel" type="Label" parent="." unique_id=1988078877]
+auto_translate_mode = 1
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.31770834
@@ -64,6 +65,7 @@ metadata/_edit_use_anchors_ = true
 
 [node name="MenuContainer" type="VBoxContainer" parent="." unique_id=1620181120]
 unique_name_in_owner = true
+auto_translate_mode = 1
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.41145834
@@ -128,32 +130,34 @@ text = "Shuffle Pals"
 unique_name_in_owner = true
 layout_mode = 2
 theme_type_variation = &"MainMenuButton"
-text = "back
-"
+text = "back"
 
 [node name="VersionLabel" type="Label" parent="." unique_id=1348211672]
 unique_name_in_owner = true
+auto_translate_mode = 2
 layout_mode = 1
-anchors_preset = 2
-anchor_top = 1.0
+anchors_preset = -1
+anchor_top = 0.97376543
+anchor_right = 0.039930556
 anchor_bottom = 1.0
-offset_top = -17.0
-offset_right = 40.0
+offset_right = -6.0
 grow_vertical = 0
 text = "V 1.2.3"
+metadata/_edit_use_anchors_ = true
 
 [node name="Control" type="PanelContainer" parent="." unique_id=2066398705]
 layout_mode = 1
-anchors_preset = 3
-anchor_left = 1.0
-anchor_top = 1.0
+anchors_preset = -1
+anchor_left = 0.8993056
+anchor_top = 0.9351852
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = -95.0
-offset_top = -40.0
+offset_left = 21.0
+offset_top = 2.0
 grow_horizontal = 0
 grow_vertical = 0
 theme_override_styles/panel = SubResource("StyleBoxEmpty_4ilqg")
+metadata/_edit_use_anchors_ = true
 
 [node name="MarginContainer" type="MarginContainer" parent="Control" unique_id=1435916828]
 layout_mode = 2

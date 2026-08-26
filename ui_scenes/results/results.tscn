@@ -59,7 +59,8 @@ theme_override_constants/margin_left = 16
 theme_override_constants/margin_top = 8
 theme_override_constants/margin_right = 16
 
-[node name="TitleLabel" type="Label" parent="PanelContainer/MarginContainer" unique_id=2144061603]
+[node name="ResultLabel" type="Label" parent="PanelContainer/MarginContainer" unique_id=2144061603]
+auto_translate_mode = 1
 layout_mode = 2
 text = "Results"
 label_settings = SubResource("LabelSettings_t5p5a")
@@ -67,6 +68,7 @@ horizontal_alignment = 1
 
 [node name="ResultLabel" type="Label" parent="." unique_id=1027346752]
 unique_name_in_owner = true
+auto_translate_mode = 2
 custom_minimum_size = Vector2(250, 0)
 layout_mode = 1
 anchors_preset = -1
@@ -102,6 +104,7 @@ layout_mode = 2
 
 [node name="CopyToClipboardButton" type="Button" parent="VBoxContainer/CenterContainer" unique_id=1241531786]
 unique_name_in_owner = true
+auto_translate_mode = 1
 custom_minimum_size = Vector2(200, 0)
 layout_mode = 2
 size_flags_horizontal = 3

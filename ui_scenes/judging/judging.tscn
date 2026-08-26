@@ -58,6 +58,7 @@ grow_horizontal = 2
 grow_vertical = 2
 
 [node name="PanelContainer" type="PanelContainer" parent="Controlable" unique_id=1343799048]
+auto_translate_mode = 2
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.2717014
@@ -158,6 +159,7 @@ expand_mode = 2
 stretch_mode = 5
 
 [node name="Label" type="Label" parent="Controlable/MarginContainer/HBoxContainer/PassContainer/MarginContainer/HBoxContainer" unique_id=649748677]
+auto_translate_mode = 1
 custom_minimum_size = Vector2(100, 0)
 layout_mode = 2
 text = "Pass"
@@ -207,6 +209,7 @@ expand_mode = 2
 stretch_mode = 5
 
 [node name="Label" type="Label" parent="Controlable/MarginContainer/HBoxContainer/SmashContainer/MarginContainer/HBoxContainer" unique_id=614369132]
+auto_translate_mode = 1
 custom_minimum_size = Vector2(100, 0)
 layout_mode = 2
 text = "Smash"
