@@ -40,4 +40,5 @@ func _on_main_back_pressed() -> void:
 
 
 func _on_pal_container_pressed(pal: PalResource) -> void:
+	#TODO: show specifically one pal to inspect it.
 	print(pal)
