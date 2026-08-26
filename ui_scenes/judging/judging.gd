@@ -131,5 +131,7 @@ func _on_queue_finished() -> void:
 	disconnect_signals()
 	
 	print("it's done, go to the next scene")
+	# TODO: instead of going directly to the main menu, show a list of all smashed pals.
+	get_tree().change_scene_to_file(main_scene)
 
 #endregion

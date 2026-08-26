@@ -35,7 +35,6 @@ func rebuild_pal_container_list() -> void:
 
 
 func _on_main_back_pressed() -> void:
-	print("return please")
 	get_tree().change_scene_to_file(main_scene)
 
 

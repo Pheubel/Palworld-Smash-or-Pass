@@ -47,6 +47,15 @@ corner_radius_top_right = 8
 corner_radius_bottom_right = 8
 corner_radius_bottom_left = 8
 
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_dn17k"]
+bg_color = Color(0.6419279, 0, 0.1108307, 1)
+border_width_bottom = 10
+border_color = Color(0.49161083, 0, 0.07094938, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_lc41n"]
 bg_color = Color(3.706068e-06, 0.76749206, 0.13651156, 1)
 border_width_bottom = 10
@@ -60,6 +69,15 @@ corner_radius_bottom_left = 8
 bg_color = Color(0, 0.85490197, 0.15686275, 1)
 border_width_bottom = 10
 border_color = Color(0, 0.7176471, 0.12156863, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_weqts"]
+bg_color = Color(8.158162e-06, 0.6614631, 0.112240754, 1)
+border_width_bottom = 10
+border_color = Color(1.8049032e-07, 0.45752418, 0.060988247, 1)
 corner_radius_top_left = 8
 corner_radius_top_right = 8
 corner_radius_bottom_right = 8
@@ -99,9 +117,11 @@ MainMenuButton/styles/pressed = SubResource("StyleBoxFlat_rrvbq")
 PassButton/base_type = &"Button"
 PassButton/styles/hover = SubResource("StyleBoxFlat_a0wq8")
 PassButton/styles/normal = SubResource("StyleBoxFlat_l8xpq")
+PassButton/styles/pressed = SubResource("StyleBoxFlat_dn17k")
 SmashButton/base_type = &"Button"
 SmashButton/styles/hover = SubResource("StyleBoxFlat_lc41n")
 SmashButton/styles/normal = SubResource("StyleBoxFlat_iln4c")
+SmashButton/styles/pressed = SubResource("StyleBoxFlat_weqts")
 VScrollBar/styles/grabber = SubResource("StyleBoxFlat_0ep2o")
 VScrollBar/styles/grabber_highlight = SubResource("StyleBoxFlat_dvgrd")
 VScrollBar/styles/grabber_pressed = SubResource("StyleBoxFlat_jo3bb")
