@@ -119,11 +119,13 @@ metadata/_edit_use_anchors_ = true
 [node name="ShowBooruButton" type="CheckButton" parent="SettingsMenuContainer" unique_id=965644308]
 unique_name_in_owner = true
 layout_mode = 2
+tooltip_text = "Determines if there will be a button linking you to artworks of the shown pal."
 text = "Show Boorus"
 
 [node name="ShufflePalsButton" type="CheckButton" parent="SettingsMenuContainer" unique_id=1084001304]
 unique_name_in_owner = true
 layout_mode = 2
+tooltip_text = "Determines if the order in which the pals are shown is randomized."
 text = "Shuffle Pals"
 
 [node name="BackButton" type="Button" parent="SettingsMenuContainer" unique_id=1865486248]
