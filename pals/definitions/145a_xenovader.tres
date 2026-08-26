@@ -8,3 +8,4 @@ resource_name = "Xenovader"
 script = ExtResource("1_aswfe")
 visual = ExtResource("2_rd8wp")
 paldex_entry = 145
+translation_key = "pal_xenovader"

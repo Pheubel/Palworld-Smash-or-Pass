@@ -10,3 +10,4 @@ visual = ExtResource("2_l4o6n")
 e621_link = "https://e621.net/posts?tags=eikthyrdeer_terra"
 paldex_entry = 32
 species_variant = 1
+translation_key = "pal_eikthyrdeer_terra"

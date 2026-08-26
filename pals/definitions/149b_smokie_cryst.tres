@@ -9,3 +9,4 @@ script = ExtResource("1_t3ltq")
 visual = ExtResource("2_t3ltq")
 paldex_entry = 149
 species_variant = 1
+translation_key = "pal_smokie_cryst"

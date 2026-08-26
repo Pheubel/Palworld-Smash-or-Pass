@@ -9,3 +9,4 @@ script = ExtResource("1_g76lp")
 visual = ExtResource("2_xr87u")
 e621_link = "https://e621.net/posts?tags=sparkit+"
 paldex_entry = 42
+translation_key = "pal_sparkit"

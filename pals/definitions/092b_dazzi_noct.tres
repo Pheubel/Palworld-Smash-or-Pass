@@ -10,3 +10,4 @@ visual = ExtResource("2_n6mpb")
 e621_link = "https://e621.net/posts?tags=dazzi_noct"
 paldex_entry = 92
 species_variant = 1
+translation_key = "pal_dazzi_noct"

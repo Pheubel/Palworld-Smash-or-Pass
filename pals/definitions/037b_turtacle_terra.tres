@@ -9,3 +9,4 @@ script = ExtResource("1_xlvo1")
 visual = ExtResource("2_d07ll")
 paldex_entry = 37
 species_variant = 1
+translation_key = "pal_turtacle_terra"

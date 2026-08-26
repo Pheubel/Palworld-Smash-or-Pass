@@ -9,3 +9,4 @@ script = ExtResource("1_dnyjb")
 visual = ExtResource("2_bhvox")
 e621_link = "https://e621.net/posts?tags=arsox+"
 paldex_entry = 58
+translation_key = "pal_arsox"

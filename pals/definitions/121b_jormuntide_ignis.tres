@@ -10,3 +10,4 @@ visual = ExtResource("2_381vc")
 e621_link = "https://e621.net/posts?tags=jormuntide_ignis+"
 paldex_entry = 121
 species_variant = 1
+translation_key = "pal_jormuntide_ignis"

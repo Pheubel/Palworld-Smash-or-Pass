@@ -9,3 +9,4 @@ script = ExtResource("1_ce06f")
 visual = ExtResource("2_ce06f")
 paldex_entry = 72
 species_variant = 1
+translation_key = "pal_polapup_terra"

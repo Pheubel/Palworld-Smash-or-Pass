@@ -9,3 +9,4 @@ script = ExtResource("1_vp6yv")
 visual = ExtResource("2_vceew")
 e621_link = "https://e621.net/posts?tags=aegidron+"
 paldex_entry = 184
+translation_key = "pal_aegidron"

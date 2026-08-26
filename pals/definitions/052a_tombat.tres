@@ -9,3 +9,4 @@ script = ExtResource("1_j64fx")
 visual = ExtResource("2_d7i5x")
 e621_link = "https://e621.net/posts?tags=tombat+"
 paldex_entry = 52
+translation_key = "pal_tombat"

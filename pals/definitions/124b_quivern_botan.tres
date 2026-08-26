@@ -10,3 +10,4 @@ visual = ExtResource("2_om60r")
 e621_link = "https://e621.net/posts?tags=quivern_botan"
 paldex_entry = 124
 species_variant = 1
+translation_key = "pal_quivern_botan"

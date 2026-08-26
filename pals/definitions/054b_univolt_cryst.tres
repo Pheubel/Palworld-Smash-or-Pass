@@ -9,3 +9,4 @@ script = ExtResource("1_u8s1w")
 visual = ExtResource("2_u8s1w")
 paldex_entry = 54
 species_variant = 1
+translation_key = "pal_univolt_cryst"

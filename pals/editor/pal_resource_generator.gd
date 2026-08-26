@@ -29,6 +29,7 @@ func _run() -> void:
 		var pal_resource := PalResource.new()
 		pal_resource.resource_path = OUTPUT_DIR.path_join(paldex_entry_string.replace(" ", "_").remove_chars(":").to_lower() + ".tres")
 		pal_resource.resource_name = pal
+		pal_resource.translation_key = "pal_" + pal.to_snake_case()
 		pal_resource.paldex_entry = pal_index
 		pal_resource.species_variant = species_variant
 		

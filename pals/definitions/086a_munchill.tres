@@ -8,3 +8,4 @@ resource_name = "Munchill"
 script = ExtResource("1_vn10m")
 visual = ExtResource("2_x0v6t")
 paldex_entry = 86
+translation_key = "pal_munchill"

@@ -8,3 +8,4 @@ resource_name = "Snugloo"
 script = ExtResource("1_oajsp")
 visual = ExtResource("2_q68ua")
 paldex_entry = 133
+translation_key = "pal_snugloo"

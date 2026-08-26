@@ -9,3 +9,4 @@ script = ExtResource("1_8h3o3")
 visual = ExtResource("2_sjq45")
 e621_link = "https://e621.net/posts?tags=xenogard+"
 paldex_entry = 146
+translation_key = "pal_xenogard"

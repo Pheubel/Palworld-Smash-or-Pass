@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://kqsfjc052sx8"
+
+[deps]
+
+files=["res://i10n/pal_names.en.translation", "res://i10n/pal_names.ja.translation"]
+
+source_file="res://i10n/pal_names.csv"
+dest_files=["res://i10n/pal_names.en.translation", "res://i10n/pal_names.ja.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

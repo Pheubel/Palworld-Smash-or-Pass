@@ -10,3 +10,4 @@ visual = ExtResource("2_2jnx0")
 e621_link = "https://e621.net/posts?tags=leezpunk_ignis+"
 paldex_entry = 73
 species_variant = 1
+translation_key = "pal_leezpunk_ignis"

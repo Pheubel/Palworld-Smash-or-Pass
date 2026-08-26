@@ -9,3 +9,4 @@ script = ExtResource("1_lmsln")
 visual = ExtResource("2_ikdqf")
 paldex_entry = 87
 species_variant = 1
+translation_key = "pal_mammorest_cryst"

@@ -9,3 +9,4 @@ script = ExtResource("1_0bs00")
 visual = ExtResource("2_o1cnj")
 paldex_entry = 151
 species_variant = 1
+translation_key = "pal_whalaska_ignis"

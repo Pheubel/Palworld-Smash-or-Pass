@@ -10,3 +10,4 @@ visual = ExtResource("2_pq8ny")
 e621_link = "https://e621.net/posts?tags=lyleen_noct+"
 paldex_entry = 186
 species_variant = 1
+translation_key = "pal_lyleen_noct"

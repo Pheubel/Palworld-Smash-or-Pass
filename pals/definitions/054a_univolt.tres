@@ -9,3 +9,4 @@ script = ExtResource("1_cmidl")
 visual = ExtResource("2_nmmwk")
 e621_link = "https://e621.net/posts?tags=tocotoco+"
 paldex_entry = 54
+translation_key = "pal_univolt"

@@ -10,3 +10,4 @@ visual = ExtResource("2_ve6k4")
 e621_link = "https://e621.net/posts?tags=chillet_ignis+"
 paldex_entry = 103
 species_variant = 1
+translation_key = "pal_chillet_ignis"

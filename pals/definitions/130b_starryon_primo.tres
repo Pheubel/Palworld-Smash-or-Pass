@@ -9,3 +9,4 @@ script = ExtResource("1_ivwi6")
 visual = ExtResource("2_ivwi6")
 paldex_entry = 130
 species_variant = 1
+translation_key = "pal_starryon_primo"

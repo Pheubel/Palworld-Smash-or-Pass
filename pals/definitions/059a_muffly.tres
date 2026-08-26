@@ -8,3 +8,4 @@ resource_name = "Muffly"
 script = ExtResource("1_voix8")
 visual = ExtResource("2_xccwr")
 paldex_entry = 59
+translation_key = "pal_muffly"

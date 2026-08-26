@@ -9,3 +9,4 @@ script = ExtResource("1_ybta5")
 visual = ExtResource("2_ybta5")
 paldex_entry = 96
 species_variant = 1
+translation_key = "pal_beakon_cryst"

@@ -9,3 +9,4 @@ script = ExtResource("1_umcif")
 visual = ExtResource("2_gatiy")
 e621_link = "https://e621.net/posts?tags=jolthog+"
 paldex_entry = 15
+translation_key = "pal_jolthog"

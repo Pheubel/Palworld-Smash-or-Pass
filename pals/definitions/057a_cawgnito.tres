@@ -9,3 +9,4 @@ script = ExtResource("1_yh6w3")
 visual = ExtResource("2_gy8jk")
 e621_link = "https://e621.net/posts?tags=cawgnito+"
 paldex_entry = 57
+translation_key = "pal_cawgnito"

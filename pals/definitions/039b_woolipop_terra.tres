@@ -9,3 +9,4 @@ script = ExtResource("1_hush5")
 visual = ExtResource("2_3m6yi")
 paldex_entry = 39
 species_variant = 1
+translation_key = "pal_woolipop_terra"

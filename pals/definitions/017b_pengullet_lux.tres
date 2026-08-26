@@ -9,3 +9,4 @@ script = ExtResource("1_mue2m")
 visual = ExtResource("2_5trgr")
 paldex_entry = 17
 species_variant = 1
+translation_key = "pal_pengullet_lux"

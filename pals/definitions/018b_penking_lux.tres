@@ -9,3 +9,4 @@ script = ExtResource("1_rj6xq")
 visual = ExtResource("2_d5m7x")
 paldex_entry = 18
 species_variant = 1
+translation_key = "pal_penking_lux"

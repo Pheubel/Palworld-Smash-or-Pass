@@ -9,3 +9,4 @@ script = ExtResource("1_kmn41")
 visual = ExtResource("2_eayb5")
 e621_link = "https://e621.net/posts?tags=jetragon+"
 paldex_entry = 202
+translation_key = "pal_jetragon"

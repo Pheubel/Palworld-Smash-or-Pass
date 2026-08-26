@@ -9,3 +9,4 @@ script = ExtResource("1_ab377")
 visual = ExtResource("2_tef4x")
 paldex_entry = 15
 species_variant = 1
+translation_key = "pal_jolthog_cryst"

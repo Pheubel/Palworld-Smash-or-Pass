@@ -9,3 +9,4 @@ script = ExtResource("1_cfvcd")
 visual = ExtResource("2_s655g")
 e621_link = "https://e621.net/posts?tags=rushoar+"
 paldex_entry = 28
+translation_key = "pal_rushoar"

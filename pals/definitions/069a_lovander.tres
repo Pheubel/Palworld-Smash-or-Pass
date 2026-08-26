@@ -9,3 +9,4 @@ script = ExtResource("1_dndpg")
 visual = ExtResource("2_8msax")
 e621_link = "https://e621.net/posts?tags=lovander+"
 paldex_entry = 69
+translation_key = "pal_lovander"

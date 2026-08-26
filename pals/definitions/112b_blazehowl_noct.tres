@@ -10,3 +10,4 @@ visual = ExtResource("2_c5wjk")
 e621_link = "https://e621.net/posts?tags=blazehowl_noct+"
 paldex_entry = 112
 species_variant = 1
+translation_key = "pal_blazehowl_noct"

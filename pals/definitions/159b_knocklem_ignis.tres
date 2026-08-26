@@ -9,3 +9,4 @@ script = ExtResource("1_flvma")
 visual = ExtResource("2_flvma")
 paldex_entry = 159
 species_variant = 1
+translation_key = "pal_knocklem_ignis"

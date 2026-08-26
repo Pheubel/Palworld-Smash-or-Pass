@@ -8,3 +8,4 @@ resource_name = "Needoll"
 script = ExtResource("1_rx0bl")
 visual = ExtResource("2_a6khe")
 paldex_entry = 100
+translation_key = "pal_needoll"

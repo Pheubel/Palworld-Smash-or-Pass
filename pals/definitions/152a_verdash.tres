@@ -9,3 +9,4 @@ script = ExtResource("1_gof8v")
 visual = ExtResource("2_8oc23")
 e621_link = "https://e621.net/posts?tags=verdash+"
 paldex_entry = 152
+translation_key = "pal_verdash"

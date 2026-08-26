@@ -9,3 +9,4 @@ script = ExtResource("1_caokw")
 visual = ExtResource("2_1cqpb")
 e621_link = "https://e621.net/posts?tags=astralym+"
 paldex_entry = 204
+translation_key = "pal_astralym"

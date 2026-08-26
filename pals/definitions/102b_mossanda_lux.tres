@@ -10,3 +10,4 @@ visual = ExtResource("2_m666i")
 e621_link = "https://e621.net/posts?tags=mossanda_lux+"
 paldex_entry = 102
 species_variant = 1
+translation_key = "pal_mossanda_lux"

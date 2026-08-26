@@ -8,3 +8,4 @@ resource_name = "Prixter"
 script = ExtResource("1_03b0k")
 visual = ExtResource("2_7lvoj")
 paldex_entry = 141
+translation_key = "pal_prixter"

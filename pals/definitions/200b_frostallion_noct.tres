@@ -9,3 +9,4 @@ script = ExtResource("1_lnst5")
 visual = ExtResource("2_wtnl0")
 paldex_entry = 200
 species_variant = 1
+translation_key = "pal_frostallion_noct"

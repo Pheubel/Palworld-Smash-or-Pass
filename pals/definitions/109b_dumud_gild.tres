@@ -9,3 +9,4 @@ script = ExtResource("1_vh5pc")
 visual = ExtResource("2_yr485")
 paldex_entry = 109
 species_variant = 1
+translation_key = "pal_dumud_gild"

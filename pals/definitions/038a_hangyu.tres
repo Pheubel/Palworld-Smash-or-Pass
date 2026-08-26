@@ -9,3 +9,4 @@ script = ExtResource("1_mev6k")
 visual = ExtResource("2_cbpxv")
 e621_link = "https://e621.net/posts?tags=hangyu+"
 paldex_entry = 38
+translation_key = "pal_hangyu"

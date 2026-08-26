@@ -9,3 +9,4 @@ script = ExtResource("1_bshgr")
 visual = ExtResource("2_bshgr")
 paldex_entry = 89
 species_variant = 1
+translation_key = "pal_petallia_ignis"

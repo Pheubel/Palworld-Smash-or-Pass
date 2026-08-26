@@ -9,3 +9,4 @@ script = ExtResource("1_f8pbo")
 visual = ExtResource("2_hi5kr")
 paldex_entry = 99
 species_variant = 1
+translation_key = "pal_menasting_terra"

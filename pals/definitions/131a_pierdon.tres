@@ -8,3 +8,4 @@ resource_name = "Pierdon"
 script = ExtResource("1_4mcp1")
 visual = ExtResource("2_vpkfc")
 paldex_entry = 131
+translation_key = "pal_pierdon"

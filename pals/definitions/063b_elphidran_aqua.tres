@@ -10,3 +10,4 @@ visual = ExtResource("2_gx64n")
 e621_link = "https://e621.net/posts?tags=elphidran_aqua"
 paldex_entry = 63
 species_variant = 1
+translation_key = "pal_elphidran_aqua"

@@ -8,3 +8,4 @@ resource_name = "Eidrolon"
 script = ExtResource("1_a7tcw")
 visual = ExtResource("2_a7tcw")
 paldex_entry = 171
+translation_key = "pal_eidrolon"

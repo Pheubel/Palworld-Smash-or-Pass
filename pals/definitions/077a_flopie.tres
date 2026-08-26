@@ -9,3 +9,4 @@ script = ExtResource("1_bw5ma")
 visual = ExtResource("2_ld15f")
 e621_link = "https://e621.net/posts?tags=flopie+"
 paldex_entry = 77
+translation_key = "pal_flopie"

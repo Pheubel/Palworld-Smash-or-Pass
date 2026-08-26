@@ -10,7 +10,8 @@ extends Resource
 @export var paldex_entry: int
 ## The subspecies variant of the pal. 0 means that it is the main species.
 @export var species_variant: int
-
+## The translation key used to determine the display name for the pal.
+@export var translation_key: StringName
 
 ## Returns the species variant as an uppercase character. If the pal
 ## is the main specie, an empty string is returned.
@@ -19,3 +20,8 @@ func get_species_variant_string() -> String:
 		return ""
 	else:
 		return char(65 + species_variant)
+
+
+## Returns the pal's name for the current language.
+func get_translated_name() -> String:
+	return tr(translation_key)

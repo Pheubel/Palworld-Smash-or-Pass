@@ -9,3 +9,4 @@ script = ExtResource("1_fcjds")
 visual = ExtResource("2_fcjds")
 paldex_entry = 142
 species_variant = 1
+translation_key = "pal_tetroise_primo"

@@ -10,3 +10,4 @@ visual = ExtResource("2_vp8kd")
 e621_link = "https://e621.net/posts?tags=foxparks_cryst+"
 paldex_entry = 29
 species_variant = 1
+translation_key = "pal_foxparks_cryst"

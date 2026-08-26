@@ -9,3 +9,4 @@ script = ExtResource("1_4fve4")
 visual = ExtResource("2_1pwc4")
 paldex_entry = 118
 species_variant = 1
+translation_key = "pal_shroomer_noct"

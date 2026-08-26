@@ -9,3 +9,4 @@ script = ExtResource("1_6kqae")
 visual = ExtResource("2_npp6c")
 e621_link = "https://e621.net/posts?tags=menasting+"
 paldex_entry = 99
+translation_key = "pal_menasting"

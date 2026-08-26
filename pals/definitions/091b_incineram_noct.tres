@@ -10,3 +10,4 @@ visual = ExtResource("2_0sfdf")
 e621_link = "https://e621.net/posts?tags=incineram_noct+"
 paldex_entry = 91
 species_variant = 1
+translation_key = "pal_incineram_noct"

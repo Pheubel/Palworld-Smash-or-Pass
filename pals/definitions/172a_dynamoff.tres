@@ -9,3 +9,4 @@ script = ExtResource("1_7h1sr")
 visual = ExtResource("2_7h2ok")
 e621_link = "https://e621.net/posts?tags=dynamoff+"
 paldex_entry = 172
+translation_key = "pal_dynamoff"

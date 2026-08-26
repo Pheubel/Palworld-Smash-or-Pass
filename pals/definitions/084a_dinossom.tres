@@ -9,3 +9,4 @@ script = ExtResource("1_c3833")
 visual = ExtResource("2_ry3xc")
 e621_link = "https://e621.net/posts?tags=dinossom+"
 paldex_entry = 84
+translation_key = "pal_dinossom"

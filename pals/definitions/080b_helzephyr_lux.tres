@@ -9,3 +9,4 @@ script = ExtResource("1_s2s08")
 visual = ExtResource("2_bgs1h")
 paldex_entry = 80
 species_variant = 1
+translation_key = "pal_helzephyr_lux"

@@ -9,3 +9,4 @@ script = ExtResource("1_lkbck")
 visual = ExtResource("2_lkbck")
 paldex_entry = 105
 species_variant = 1
+translation_key = "pal_moldron_cryst"

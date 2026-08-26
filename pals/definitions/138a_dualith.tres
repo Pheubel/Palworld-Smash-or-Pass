@@ -8,3 +8,4 @@ resource_name = "Dualith"
 script = ExtResource("1_r8tqs")
 visual = ExtResource("2_xrf5v")
 paldex_entry = 138
+translation_key = "pal_dualith"

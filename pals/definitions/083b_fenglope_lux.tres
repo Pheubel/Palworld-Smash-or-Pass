@@ -9,3 +9,4 @@ script = ExtResource("1_pm0v5")
 visual = ExtResource("2_s1qkn")
 paldex_entry = 83
 species_variant = 1
+translation_key = "pal_fenglope_lux"

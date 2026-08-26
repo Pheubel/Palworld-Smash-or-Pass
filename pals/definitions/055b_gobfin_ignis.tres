@@ -10,3 +10,4 @@ visual = ExtResource("2_sjytj")
 e621_link = "https://e621.net/posts?tags=gobfin_ignis+"
 paldex_entry = 55
 species_variant = 1
+translation_key = "pal_gobfin_ignis"

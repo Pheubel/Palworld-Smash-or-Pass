@@ -9,3 +9,4 @@ script = ExtResource("1_kyk5u")
 visual = ExtResource("2_gavmc")
 e621_link = "https://e621.net/posts?tags=carnibora_%28pal%29+"
 paldex_entry = 136
+translation_key = "pal_carnibora"

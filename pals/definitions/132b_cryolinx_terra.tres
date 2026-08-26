@@ -9,3 +9,4 @@ script = ExtResource("1_86i5e")
 visual = ExtResource("2_x8b7v")
 paldex_entry = 132
 species_variant = 1
+translation_key = "pal_cryolinx_terra"

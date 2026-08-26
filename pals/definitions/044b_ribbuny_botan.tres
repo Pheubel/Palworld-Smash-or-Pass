@@ -9,3 +9,4 @@ script = ExtResource("1_7ew4y")
 visual = ExtResource("2_5pf3v")
 paldex_entry = 44
 species_variant = 1
+translation_key = "pal_ribbuny_botan"

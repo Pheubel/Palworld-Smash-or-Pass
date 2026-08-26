@@ -9,3 +9,4 @@ script = ExtResource("1_touoo")
 visual = ExtResource("2_o8gxe")
 e621_link = "https://e621.net/posts?tags=lapure+"
 paldex_entry = 170
+translation_key = "pal_lapure"

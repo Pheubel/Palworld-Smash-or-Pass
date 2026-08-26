@@ -9,3 +9,4 @@ script = ExtResource("1_o7o4l")
 visual = ExtResource("2_ywefa")
 e621_link = "https://e621.net/posts?tags=flaracle+"
 paldex_entry = 174
+translation_key = "pal_flaracle"

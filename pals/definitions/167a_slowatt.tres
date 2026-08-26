@@ -8,3 +8,4 @@ resource_name = "Slowatt"
 script = ExtResource("1_yp232")
 visual = ExtResource("2_imecv")
 paldex_entry = 167
+translation_key = "pal_slowatt"

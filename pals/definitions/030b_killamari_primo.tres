@@ -9,3 +9,4 @@ script = ExtResource("1_2l1lv")
 visual = ExtResource("2_u5prl")
 paldex_entry = 30
 species_variant = 1
+translation_key = "pal_killamari_primo"

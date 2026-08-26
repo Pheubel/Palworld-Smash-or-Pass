@@ -10,3 +10,4 @@ visual = ExtResource("2_306km")
 e621_link = "https://e621.net/posts?tags=hangyu_cryst+"
 paldex_entry = 38
 species_variant = 1
+translation_key = "pal_hangyu_cryst"

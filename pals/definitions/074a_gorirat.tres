@@ -9,3 +9,4 @@ script = ExtResource("1_sf4u7")
 visual = ExtResource("2_l6q31")
 e621_link = "https://e621.net/posts?tags=gorirat+"
 paldex_entry = 74
+translation_key = "pal_gorirat"

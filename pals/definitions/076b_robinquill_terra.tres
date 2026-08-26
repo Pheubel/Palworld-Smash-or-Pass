@@ -9,3 +9,4 @@ script = ExtResource("1_631ik")
 visual = ExtResource("2_crj8y")
 paldex_entry = 76
 species_variant = 1
+translation_key = "pal_robinquill_terra"

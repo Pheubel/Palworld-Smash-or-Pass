@@ -8,3 +8,4 @@ resource_name = "Solmora"
 script = ExtResource("1_j12xw")
 visual = ExtResource("2_rrbej")
 paldex_entry = 169
+translation_key = "pal_solmora"

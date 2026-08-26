@@ -9,3 +9,4 @@ script = ExtResource("1_be3nk")
 visual = ExtResource("2_byhi1")
 e621_link = "https://e621.net/posts?tags=robinquill+"
 paldex_entry = 76
+translation_key = "pal_robinquill"

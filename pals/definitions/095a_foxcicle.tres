@@ -9,3 +9,4 @@ script = ExtResource("1_icpcw")
 visual = ExtResource("2_tptj4")
 e621_link = "https://e621.net/posts?tags=foxcicle+"
 paldex_entry = 95
+translation_key = "pal_foxcicle"

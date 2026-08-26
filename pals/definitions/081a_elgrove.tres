@@ -9,3 +9,4 @@ script = ExtResource("1_857ew")
 visual = ExtResource("2_hjt7s")
 e621_link = "https://e621.net/posts?tags=helzephyr+"
 paldex_entry = 81
+translation_key = "pal_elgrove"

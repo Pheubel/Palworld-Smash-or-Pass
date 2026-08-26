@@ -34,8 +34,13 @@ enabled=PackedStringArray("res://addons/scene_reference/plugin.cfg")
 folder_colors={
 "res://addons/": "gray",
 "res://autoloads/": "purple",
+"res://i10n/": "yellow",
 "res://ui_scenes/": "green"
 }
+
+[internationalization]
+
+locale/translations=PackedStringArray("res://i10n/pal_names.en.translation", "res://i10n/pal_names.ja.translation")
 
 [physics]
 

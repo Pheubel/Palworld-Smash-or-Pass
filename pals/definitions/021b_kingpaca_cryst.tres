@@ -9,3 +9,4 @@ script = ExtResource("1_glaxd")
 visual = ExtResource("2_d0ocu")
 paldex_entry = 21
 species_variant = 1
+translation_key = "pal_kingpaca_cryst"

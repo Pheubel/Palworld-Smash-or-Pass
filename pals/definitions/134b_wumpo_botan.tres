@@ -9,3 +9,4 @@ script = ExtResource("1_0bbvg")
 visual = ExtResource("2_re3d4")
 paldex_entry = 134
 species_variant = 1
+translation_key = "pal_wumpo_botan"

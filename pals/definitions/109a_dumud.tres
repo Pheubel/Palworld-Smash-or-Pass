@@ -9,3 +9,4 @@ script = ExtResource("1_ns2qe")
 visual = ExtResource("2_reiqi")
 e621_link = "https://e621.net/posts?tags=dumud+"
 paldex_entry = 109
+translation_key = "pal_dumud"

@@ -9,3 +9,4 @@ script = ExtResource("1_35fpc")
 visual = ExtResource("2_35fpc")
 paldex_entry = 141
 species_variant = 1
+translation_key = "pal_prixter_lux"

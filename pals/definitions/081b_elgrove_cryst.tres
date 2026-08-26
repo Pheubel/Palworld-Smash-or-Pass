@@ -9,3 +9,4 @@ script = ExtResource("1_khf58")
 visual = ExtResource("2_khf58")
 paldex_entry = 81
 species_variant = 1
+translation_key = "pal_elgrove_cryst"

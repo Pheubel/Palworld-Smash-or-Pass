@@ -9,3 +9,4 @@ script = ExtResource("1_i7uo4")
 visual = ExtResource("2_i7uo4")
 paldex_entry = 157
 species_variant = 1
+translation_key = "pal_celesdir_noct"

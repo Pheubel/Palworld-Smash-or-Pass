@@ -10,3 +10,4 @@ visual = ExtResource("2_xxoxx")
 e621_link = "https://e621.net/posts?tags=bushi_noct_%28pal%29"
 paldex_entry = 85
 species_variant = 1
+translation_key = "pal_bushi_noct"

@@ -9,3 +9,4 @@ script = ExtResource("1_mfb2x")
 visual = ExtResource("2_8ofd3")
 e621_link = "https://e621.net/posts?tags=silvance+"
 paldex_entry = 193
+translation_key = "pal_silvance"

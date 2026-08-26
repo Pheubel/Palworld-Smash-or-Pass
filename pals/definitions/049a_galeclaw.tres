@@ -9,3 +9,4 @@ script = ExtResource("1_j5p48")
 visual = ExtResource("2_qdnvw")
 e621_link = "https://e621.net/posts?tags=galeclaw+"
 paldex_entry = 49
+translation_key = "pal_galeclaw"

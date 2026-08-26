@@ -9,3 +9,4 @@ script = ExtResource("1_rgpno")
 visual = ExtResource("2_tluxk")
 e621_link = "https://e621.net/posts?tags=gumoss+"
 paldex_entry = 12
+translation_key = "pal_gumoss"

@@ -9,3 +9,4 @@ script = ExtResource("1_q1hpr")
 visual = ExtResource("2_417so")
 e621_link = "https://e621.net/posts?tags=penking+"
 paldex_entry = 18
+translation_key = "pal_penking"

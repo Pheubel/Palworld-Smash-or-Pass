@@ -8,3 +8,4 @@ resource_name = "Tetroise"
 script = ExtResource("1_w4gmj")
 visual = ExtResource("2_4m64c")
 paldex_entry = 142
+translation_key = "pal_tetroise"

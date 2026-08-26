@@ -9,3 +9,4 @@ script = ExtResource("1_mo41h")
 visual = ExtResource("2_mo41h")
 paldex_entry = 169
 species_variant = 1
+translation_key = "pal_solmora_lux"

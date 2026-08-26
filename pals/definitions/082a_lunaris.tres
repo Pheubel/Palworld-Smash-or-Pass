@@ -9,3 +9,4 @@ script = ExtResource("1_cdciy")
 visual = ExtResource("2_edtfg")
 e621_link = "https://e621.net/posts?tags=lunaris_%28pal%29"
 paldex_entry = 82
+translation_key = "pal_lunaris"

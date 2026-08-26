@@ -9,3 +9,4 @@ script = ExtResource("1_h3jc0")
 visual = ExtResource("2_xam6p")
 paldex_entry = 9
 species_variant = 1
+translation_key = "pal_croajiro_noct"

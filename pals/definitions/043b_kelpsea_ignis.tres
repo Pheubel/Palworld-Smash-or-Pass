@@ -10,3 +10,4 @@ visual = ExtResource("2_pp3hd")
 e621_link = "https://e621.net/posts?tags=kelpsea_ignis+"
 paldex_entry = 43
 species_variant = 1
+translation_key = "pal_kelpsea_ignis"

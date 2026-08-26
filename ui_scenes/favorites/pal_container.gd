@@ -13,7 +13,7 @@ func prepare(pal: PalResource) -> void:
 		await ready
 	
 	pal_icon.texture = pal.visual
-	pal_name_label.text = "%d%s: %s" % [pal.paldex_entry, pal.get_species_variant_string(), pal.resource_name] 
+	pal_name_label.text = "%d%s: %s" % [pal.paldex_entry, pal.get_species_variant_string(), pal.get_translated_name()] 
 
 
 func _on_button_pressed() -> void:

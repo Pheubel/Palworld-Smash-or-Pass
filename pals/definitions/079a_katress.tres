@@ -9,3 +9,4 @@ script = ExtResource("1_l8upr")
 visual = ExtResource("2_mi4k7")
 e621_link = "https://e621.net/posts?tags=katress+"
 paldex_entry = 79
+translation_key = "pal_katress"

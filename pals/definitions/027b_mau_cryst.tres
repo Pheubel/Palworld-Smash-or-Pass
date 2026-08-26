@@ -10,3 +10,4 @@ visual = ExtResource("2_xxs46")
 e621_link = "https://e621.net/posts?tags=mau_cryst+"
 paldex_entry = 27
 species_variant = 1
+translation_key = "pal_mau_cryst"

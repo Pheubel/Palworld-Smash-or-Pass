@@ -9,3 +9,4 @@ script = ExtResource("1_034p5")
 visual = ExtResource("2_b7cxr")
 e621_link = "https://e621.net/posts?tags=pupperai_%28pal%29+"
 paldex_entry = 13
+translation_key = "pal_pupperai"

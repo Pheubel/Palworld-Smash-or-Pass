@@ -10,3 +10,4 @@ visual = ExtResource("2_ubnti")
 e621_link = "https://e621.net/posts?tags=dinossom_lux+"
 paldex_entry = 84
 species_variant = 1
+translation_key = "pal_dinossom_lux"

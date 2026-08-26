@@ -10,3 +10,4 @@ visual = ExtResource("2_jsb8v")
 e621_link = "https://e621.net/posts?tags=pyrin_noct+"
 paldex_entry = 93
 species_variant = 1
+translation_key = "pal_pyrin_noct"

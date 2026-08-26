@@ -8,3 +8,4 @@ resource_name = "Shroomer"
 script = ExtResource("1_an5m1")
 visual = ExtResource("2_pa0iy")
 paldex_entry = 118
+translation_key = "pal_shroomer"

@@ -10,3 +10,4 @@ visual = ExtResource("2_3eo00")
 e621_link = "https://e621.net/posts?tags=suzaku_aqua"
 paldex_entry = 122
 species_variant = 1
+translation_key = "pal_suzaku_aqua"

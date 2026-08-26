@@ -8,3 +8,4 @@ resource_name = "Neptilius"
 script = ExtResource("1_wt0bn")
 visual = ExtResource("2_wgj7j")
 paldex_entry = 201
+translation_key = "pal_neptilius"

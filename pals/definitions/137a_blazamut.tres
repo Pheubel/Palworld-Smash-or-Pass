@@ -8,3 +8,4 @@ resource_name = "Blazamut"
 script = ExtResource("1_jlxrv")
 visual = ExtResource("2_2ro6s")
 paldex_entry = 137
+translation_key = "pal_blazamut"

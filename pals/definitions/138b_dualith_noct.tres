@@ -9,3 +9,4 @@ script = ExtResource("1_vypns")
 visual = ExtResource("2_vypns")
 paldex_entry = 138
 species_variant = 1
+translation_key = "pal_dualith_noct"

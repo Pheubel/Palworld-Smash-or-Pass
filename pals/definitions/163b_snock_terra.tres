@@ -10,3 +10,4 @@ visual = ExtResource("2_ax2qf")
 e621_link = "https://e621.net/posts?tags=snock_terra_%28pal%29+"
 paldex_entry = 163
 species_variant = 1
+translation_key = "pal_snock_terra"

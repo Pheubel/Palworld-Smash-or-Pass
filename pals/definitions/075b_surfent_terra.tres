@@ -9,3 +9,4 @@ script = ExtResource("1_fs5md")
 visual = ExtResource("2_cb00g")
 paldex_entry = 75
 species_variant = 1
+translation_key = "pal_surfent_terra"

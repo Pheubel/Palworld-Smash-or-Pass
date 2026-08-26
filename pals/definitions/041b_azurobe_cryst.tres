@@ -9,3 +9,4 @@ script = ExtResource("1_xacg7")
 visual = ExtResource("2_1f7it")
 paldex_entry = 41
 species_variant = 1
+translation_key = "pal_azurobe_cryst"

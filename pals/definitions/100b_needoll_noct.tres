@@ -9,3 +9,4 @@ script = ExtResource("1_l6jf8")
 visual = ExtResource("2_l6jf8")
 paldex_entry = 100
 species_variant = 1
+translation_key = "pal_needoll_noct"

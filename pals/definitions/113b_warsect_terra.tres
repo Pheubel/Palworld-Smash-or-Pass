@@ -9,3 +9,4 @@ script = ExtResource("1_eiml4")
 visual = ExtResource("2_g2fwl")
 paldex_entry = 113
 species_variant = 1
+translation_key = "pal_warsect_terra"

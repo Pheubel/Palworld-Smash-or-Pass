@@ -9,3 +9,4 @@ script = ExtResource("1_gyh5m")
 visual = ExtResource("2_sf0h1")
 e621_link = "https://e621.net/posts?tags=surfent+"
 paldex_entry = 75
+translation_key = "pal_surfent"

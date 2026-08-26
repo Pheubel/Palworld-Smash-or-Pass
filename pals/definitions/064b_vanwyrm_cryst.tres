@@ -10,3 +10,4 @@ visual = ExtResource("2_svbhm")
 e621_link = "https://e621.net/posts?tags=vanwyrm_cryst+"
 paldex_entry = 64
 species_variant = 1
+translation_key = "pal_vanwyrm_cryst"

@@ -8,3 +8,4 @@ resource_name = "Loomen"
 script = ExtResource("1_ijjw7")
 visual = ExtResource("2_kgs2g")
 paldex_entry = 180
+translation_key = "pal_loomen"

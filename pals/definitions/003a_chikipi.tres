@@ -9,3 +9,4 @@ script = ExtResource("1_gktx8")
 visual = ExtResource("2_om3lf")
 e621_link = "https://e621.net/posts?tags=chikipi+"
 paldex_entry = 3
+translation_key = "pal_chikipi"

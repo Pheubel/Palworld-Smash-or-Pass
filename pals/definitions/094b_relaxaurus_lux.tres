@@ -10,3 +10,4 @@ visual = ExtResource("2_i806n")
 e621_link = "https://e621.net/posts?tags=relaxaurus_lux+"
 paldex_entry = 94
 species_variant = 1
+translation_key = "pal_relaxaurus_lux"

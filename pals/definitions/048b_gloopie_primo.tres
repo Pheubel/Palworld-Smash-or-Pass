@@ -10,3 +10,4 @@ visual = ExtResource("2_vih46")
 e621_link = "https://e621.net/posts?tags=gloopie_primo+"
 paldex_entry = 48
 species_variant = 1
+translation_key = "pal_gloopie_primo"

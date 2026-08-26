@@ -9,3 +9,4 @@ script = ExtResource("1_mofi5")
 visual = ExtResource("2_tmdps")
 e621_link = "https://e621.net/posts?tags=leezpunk+"
 paldex_entry = 73
+translation_key = "pal_leezpunk"

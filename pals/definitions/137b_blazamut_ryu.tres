@@ -9,3 +9,4 @@ script = ExtResource("1_ntorw")
 visual = ExtResource("2_rg828")
 paldex_entry = 137
 species_variant = 1
+translation_key = "pal_blazamut_ryu"

@@ -9,3 +9,4 @@ script = ExtResource("1_fc1et")
 visual = ExtResource("2_o5qfq")
 e621_link = "https://e621.net/posts?tags=wumpo+"
 paldex_entry = 134
+translation_key = "pal_wumpo"

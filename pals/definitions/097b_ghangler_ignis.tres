@@ -9,3 +9,4 @@ script = ExtResource("1_4wa8y")
 visual = ExtResource("2_e807b")
 paldex_entry = 97
 species_variant = 1
+translation_key = "pal_ghangler_ignis"

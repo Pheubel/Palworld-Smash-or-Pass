@@ -9,3 +9,4 @@ script = ExtResource("1_yocc7")
 visual = ExtResource("2_52mq7")
 e621_link = "https://e621.net/posts?tags=fenglope+"
 paldex_entry = 83
+translation_key = "pal_fenglope"

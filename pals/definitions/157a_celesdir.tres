@@ -9,3 +9,4 @@ script = ExtResource("1_kvise")
 visual = ExtResource("2_4dxlp")
 e621_link = "https://e621.net/posts?tags=celesdir_%28pal%29+"
 paldex_entry = 157
+translation_key = "pal_celesdir"

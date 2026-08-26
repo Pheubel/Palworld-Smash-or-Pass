@@ -9,3 +9,4 @@ script = ExtResource("1_pcirq")
 visual = ExtResource("2_wb8et")
 paldex_entry = 129
 species_variant = 1
+translation_key = "pal_reptyro_cryst"

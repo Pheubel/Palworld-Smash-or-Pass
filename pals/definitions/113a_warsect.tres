@@ -9,3 +9,4 @@ script = ExtResource("1_satom")
 visual = ExtResource("2_eu44q")
 e621_link = "https://e621.net/posts?tags=warsect+"
 paldex_entry = 113
+translation_key = "pal_warsect"

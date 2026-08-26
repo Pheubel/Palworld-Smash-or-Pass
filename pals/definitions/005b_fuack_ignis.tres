@@ -10,3 +10,4 @@ visual = ExtResource("2_ovgtf")
 e621_link = "https://e621.net/posts?tags=fuack_ignis+"
 paldex_entry = 5
 species_variant = 1
+translation_key = "pal_fuack_ignis"

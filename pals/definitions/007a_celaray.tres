@@ -9,3 +9,4 @@ script = ExtResource("1_h5c22")
 visual = ExtResource("2_c0fwj")
 e621_link = "https://e621.net/posts?tags=celaray+"
 paldex_entry = 7
+translation_key = "pal_celaray"

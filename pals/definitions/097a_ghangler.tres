@@ -8,3 +8,4 @@ resource_name = "Ghangler"
 script = ExtResource("1_2exud")
 visual = ExtResource("2_nd5kw")
 paldex_entry = 97
+translation_key = "pal_ghangler"

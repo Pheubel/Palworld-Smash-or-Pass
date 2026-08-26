@@ -9,3 +9,4 @@ script = ExtResource("1_nxnxi")
 visual = ExtResource("2_ceew0")
 paldex_entry = 7
 species_variant = 1
+translation_key = "pal_celaray_lux"

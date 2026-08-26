@@ -9,3 +9,4 @@ script = ExtResource("1_88aop")
 visual = ExtResource("2_p1mod")
 e621_link = "https://e621.net/posts?tags=silvegis_%28pal%29+"
 paldex_entry = 160
+translation_key = "pal_silvegis"

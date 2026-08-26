@@ -9,3 +9,4 @@ script = ExtResource("1_gybpb")
 visual = ExtResource("2_a6lyk")
 e621_link = "https://e621.net/posts?tags=moldron+"
 paldex_entry = 105
+translation_key = "pal_moldron"

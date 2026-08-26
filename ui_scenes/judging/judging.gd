@@ -74,7 +74,7 @@ func next_pal() -> bool:
 	# set up pal visuals
 	pal_texture_rect.texture = current_pal.visual
 	pal_index_label.text = "%d%s:" % [current_pal.paldex_entry, current_pal.get_species_variant_string()]
-	pal_name_label.text = current_pal.resource_name
+	pal_name_label.text = current_pal.get_translated_name()
 	
 	# handle how the e621 button should act
 	e621_button.disabled = current_pal.e621_link.is_empty()

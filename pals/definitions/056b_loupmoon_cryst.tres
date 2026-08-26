@@ -10,3 +10,4 @@ visual = ExtResource("2_h72eb")
 e621_link = "https://e621.net/posts?tags=loupmoon_cryst+"
 paldex_entry = 56
 species_variant = 1
+translation_key = "pal_loupmoon_cryst"

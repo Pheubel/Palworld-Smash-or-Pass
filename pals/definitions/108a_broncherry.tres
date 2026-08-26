@@ -9,3 +9,4 @@ script = ExtResource("1_bt5v1")
 visual = ExtResource("2_sgpkc")
 e621_link = "https://e621.net/posts?tags=broncherry+"
 paldex_entry = 108
+translation_key = "pal_broncherry"
