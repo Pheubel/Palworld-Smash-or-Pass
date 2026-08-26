@@ -14,12 +14,16 @@ extends Control
 @onready var shuffle_pals_button: CheckButton = %ShufflePalsButton
 @onready var back_button: Button = %BackButton
 
+@onready var version_label: Label = %VersionLabel
+@onready var github_button: Button = %GithubButton
 
 func _ready() -> void:
 	show_booru_button.set_pressed_no_signal(PersistantData.show_booru)
 	shuffle_pals_button.set_pressed_no_signal(PersistantData.shuffle_pals)
 	
 	connect_signals()
+	
+	version_label.text = "Version: %s" % ProjectSettings.get_setting("application/config/version") as String
 
 
 func connect_signals() -> void:
@@ -30,6 +34,7 @@ func connect_signals() -> void:
 	show_booru_button.toggled.connect(_on_show_booru_toggled)
 	shuffle_pals_button.toggled.connect(_on_shuffle_pals_toggled)
 	back_button.pressed.connect(_on_back_pressed)
+	github_button.pressed.connect(_on_github_pressed)
 
 
 #region Signal Callbacks
@@ -64,6 +69,10 @@ func _on_shuffle_pals_toggled(state: bool) -> void:
 func _on_back_pressed() -> void:
 	settings_menu_container.hide()
 	menu_container.show()
+
+
+func _on_github_pressed() -> void:
+	OS.shell_open("https://github.com/Pheubel/Palworld-Smash-or-Pass")
 
 
 #endregion

@@ -4,9 +4,15 @@
 [ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://app_theme.tres" id="1_xwkvk"]
 [ext_resource type="Script" uid="uid://cq2n7732jri68" path="res://ui_scenes/main/main.gd" id="2_c651c"]
 [ext_resource type="Texture2D" uid="uid://d2q17omnc3stb" path="res://ui_scenes/main/Palworld_logo.webp" id="3_c651c"]
+[ext_resource type="Texture2D" uid="uid://b8807bli1pnko" path="res://icons/GitHub_Invertocat_White_Clearspace.svg" id="5_3tkgi"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_4ilqg"]
 font_size = 64
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_4ilqg"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_b3xh5"]
+font_size = 12
 
 [node name="Main" type="Control" unique_id=1484545071]
 layout_mode = 3
@@ -43,7 +49,7 @@ offset_bottom = 284.0
 grow_horizontal = 2
 texture = ExtResource("3_c651c")
 
-[node name="Label" type="Label" parent="." unique_id=1988078877]
+[node name="SubtitleLabel" type="Label" parent="." unique_id=1988078877]
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.31770834
@@ -124,3 +130,62 @@ layout_mode = 2
 theme_type_variation = &"MainMenuButton"
 text = "back
 "
+
+[node name="VersionLabel" type="Label" parent="." unique_id=1348211672]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -17.0
+offset_right = 40.0
+grow_vertical = 0
+text = "V 1.2.3"
+
+[node name="Control" type="PanelContainer" parent="." unique_id=2066398705]
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -95.0
+offset_top = -40.0
+grow_horizontal = 0
+grow_vertical = 0
+theme_override_styles/panel = SubResource("StyleBoxEmpty_4ilqg")
+
+[node name="MarginContainer" type="MarginContainer" parent="Control" unique_id=1435916828]
+layout_mode = 2
+theme_override_constants/margin_left = 4
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 4
+theme_override_constants/margin_bottom = 4
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Control/MarginContainer" unique_id=1613607663]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="Control/MarginContainer/VBoxContainer" unique_id=2103339545]
+layout_mode = 2
+text = "Created by Pheubel"
+label_settings = SubResource("LabelSettings_b3xh5")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Control/MarginContainer/VBoxContainer" unique_id=1181802060]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Label" type="Label" parent="Control/MarginContainer/VBoxContainer/HBoxContainer" unique_id=181091744]
+layout_mode = 2
+text = "Github"
+
+[node name="TextureRect" type="TextureRect" parent="Control/MarginContainer/VBoxContainer/HBoxContainer" unique_id=1692513800]
+layout_mode = 2
+texture = ExtResource("5_3tkgi")
+expand_mode = 2
+
+[node name="GithubButton" type="Button" parent="Control" unique_id=214601915]
+unique_name_in_owner = true
+layout_mode = 2
+mouse_default_cursor_shape = 2
+flat = true
