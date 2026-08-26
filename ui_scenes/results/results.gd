@@ -51,7 +51,7 @@ func create_share_string() -> String:
 		for pal in PersistantData.smashed_pals:
 			share_string += "\n" + pal.get_translated_name()
 	else:
-		share_string = tr(&"I would smashed no pals.")
+		share_string = tr(&"I would smash no pals.")
 	
 	return share_string
 
