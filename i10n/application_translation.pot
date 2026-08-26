@@ -1,0 +1,103 @@
+# LANGUAGE translation for Palworld: Smash or Pass for the following files:
+# res://ui_scenes/results/results.gd
+# res://ui_scenes/results/results.tscn
+# res://ui_scenes/favorites/favorites.tscn
+# res://ui_scenes/judging/judging.tscn
+# res://ui_scenes/main/main.tscn
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Palworld: Smash or Pass\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: ui_scenes/results/results.gd:20
+msgid "smashed %d pal"
+msgid_plural "smashed %d pals"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ui_scenes/results/results.gd:49
+msgid "I would smash %d pal:"
+msgid_plural "I would smash %d pals:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ui_scenes/results/results.gd:54
+msgid "I would smash no pals."
+msgstr ""
+
+#: ui_scenes/results/results.tscn
+msgid "Results"
+msgstr ""
+
+#: ui_scenes/results/results.tscn
+msgid "copy to clipboard"
+msgstr ""
+
+#: ui_scenes/favorites/favorites.tscn
+msgid "Your Favorites"
+msgstr ""
+
+#: ui_scenes/judging/judging.tscn
+msgid "Pass"
+msgstr ""
+
+#: ui_scenes/judging/judging.tscn
+msgid "Smash"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Smash or Pass"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Start"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Favorites"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Settings"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Exit"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Determines if there will be a button linking you to artworks of the shown pal."
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Show Boorus"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Determines if the order in which the pals are shown is randomized."
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Shuffle Pals"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "back"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Created by Pheubel"
+msgstr ""
+
+#: ui_scenes/main/main.tscn
+msgid "Github"
+msgstr ""
+
+msgid "Palworld: Smash or Pass"
+msgstr ""
