@@ -32,7 +32,7 @@ unique_name_in_owner = true
 layout_mode = 2
 texture = ExtResource("1_l4ebm")
 expand_mode = 2
-stretch_mode = 4
+stretch_mode = 5
 
 [node name="VSeparator" type="VSeparator" parent="HBoxContainer" unique_id=869305777]
 layout_mode = 2
