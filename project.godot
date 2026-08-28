@@ -44,7 +44,7 @@ folder_colors={
 [internationalization]
 
 locale/translations=PackedStringArray("res://i10n/pal_names.ja.mo", "res://i10n/pal_names.en.mo")
-locale/translations_pot_files=PackedStringArray("res://ui_scenes/results/results.gd", "res://ui_scenes/results/results.tscn", "res://ui_scenes/favorites/favorites.tscn", "res://ui_scenes/judging/judging.tscn", "res://ui_scenes/main/main.tscn")
+locale/translations_pot_files=PackedStringArray("res://ui_scenes/results/results.gd", "res://ui_scenes/results/results.tscn", "res://ui_scenes/favorites/favorites.tscn", "res://ui_scenes/main/main.tscn", "res://ui_scenes/inspect_pal/inspect_pal.tscn", "res://ui_scenes/judge_pal/judge_pal.tscn")
 
 [physics]
 

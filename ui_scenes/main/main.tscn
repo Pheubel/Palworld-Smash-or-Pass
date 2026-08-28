@@ -23,7 +23,7 @@ grow_horizontal = 2
 grow_vertical = 2
 theme = ExtResource("1_xwkvk")
 script = ExtResource("2_c651c")
-judging_scene = "uid://de2tyh163skpg"
+judging_scene = "uid://dadxsmw5jijri"
 favorites_scene = "uid://b3mi5urvmylwt"
 
 [node name="Background" type="TextureRect" parent="." unique_id=867759241]

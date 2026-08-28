@@ -1,0 +1,133 @@
+[gd_scene format=3 uid="uid://dadxsmw5jijri"]
+
+[ext_resource type="PackedScene" uid="uid://bt20nqxbax1sy" path="res://ui_scenes/inspect_pal/inspect_pal.tscn" id="1_cwsrp"]
+[ext_resource type="Texture2D" uid="uid://cxrqdsqsqeq8h" path="res://icons/meat_cleaver.webp" id="2_f8jgc"]
+[ext_resource type="Script" uid="uid://grlrlekwkc1r" path="res://ui_scenes/judge_pal/judge_pal.gd" id="2_whaat"]
+[ext_resource type="Texture2D" uid="uid://j7hew026qxdo" path="res://icons/cake_icon.webp" id="3_whaat"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_y8xpv"]
+
+[node name="JudgePal" unique_id=763153318 instance=ExtResource("1_cwsrp")]
+script = ExtResource("2_whaat")
+main_scene = "uid://dfkib0haq1pgc"
+result_scene = "uid://bh6yy0np78ac4"
+
+[node name="Spacer" type="Control" parent="VBoxContainer" parent_id_path=PackedInt32Array(377862675) index="1" unique_id=441999067]
+layout_mode = 2
+size_flags_vertical = 3
+size_flags_stretch_ratio = 0.2
+
+[node name="JudgementContainer" type="MarginContainer" parent="VBoxContainer" parent_id_path=PackedInt32Array(377862675) index="2" unique_id=1876702914]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/margin_left = 16
+theme_override_constants/margin_right = 16
+theme_override_constants/margin_bottom = 8
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/JudgementContainer" index="0" unique_id=571044808]
+layout_mode = 2
+theme_override_constants/separation = 64
+metadata/_edit_use_anchors_ = true
+
+[node name="PassContainer" type="PanelContainer" parent="VBoxContainer/JudgementContainer/HBoxContainer" index="0" unique_id=4586243]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_styles/panel = SubResource("StyleBoxEmpty_y8xpv")
+
+[node name="PassButton" type="Button" parent="VBoxContainer/JudgementContainer/HBoxContainer/PassContainer" index="0" unique_id=328778720 groups=["clickable"]]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+focus_neighbor_left = NodePath("../../SmashContainer/SmashButton")
+focus_neighbor_right = NodePath("../../SmashContainer/SmashButton")
+mouse_default_cursor_shape = 2
+theme_type_variation = &"PassButton"
+icon_alignment = 1
+vertical_icon_alignment = 2
+expand_icon = true
+metadata/_edit_use_anchors_ = true
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/JudgementContainer/HBoxContainer/PassContainer" index="1" unique_id=1622803750]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/margin_bottom = 10
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/JudgementContainer/HBoxContainer/PassContainer/MarginContainer" index="0" unique_id=2003391972]
+layout_mode = 2
+mouse_filter = 2
+alignment = 1
+
+[node name="LeftIcon" type="TextureRect" parent="VBoxContainer/JudgementContainer/HBoxContainer/PassContainer/MarginContainer/HBoxContainer" index="0" unique_id=560446913]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+texture = ExtResource("2_f8jgc")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="Label" type="Label" parent="VBoxContainer/JudgementContainer/HBoxContainer/PassContainer/MarginContainer/HBoxContainer" index="1" unique_id=1203184132]
+auto_translate_mode = 1
+custom_minimum_size = Vector2(100, 0)
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Pass"
+horizontal_alignment = 1
+
+[node name="RightIcon" type="TextureRect" parent="VBoxContainer/JudgementContainer/HBoxContainer/PassContainer/MarginContainer/HBoxContainer" index="2" unique_id=1102814106]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+texture = ExtResource("2_f8jgc")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="SmashContainer" type="PanelContainer" parent="VBoxContainer/JudgementContainer/HBoxContainer" index="1" unique_id=1053800933]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_styles/panel = SubResource("StyleBoxEmpty_y8xpv")
+
+[node name="SmashButton" type="Button" parent="VBoxContainer/JudgementContainer/HBoxContainer/SmashContainer" index="0" unique_id=726926722 groups=["clickable"]]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+focus_neighbor_left = NodePath("../../PassContainer/PassButton")
+focus_neighbor_right = NodePath("../../PassContainer/PassButton")
+mouse_default_cursor_shape = 2
+theme_type_variation = &"SmashButton"
+icon_alignment = 1
+vertical_icon_alignment = 2
+expand_icon = true
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/JudgementContainer/HBoxContainer/SmashContainer" index="1" unique_id=794689628]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/margin_bottom = 10
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/JudgementContainer/HBoxContainer/SmashContainer/MarginContainer" index="0" unique_id=1687893648]
+layout_mode = 2
+mouse_filter = 2
+alignment = 1
+
+[node name="LeftIcon" type="TextureRect" parent="VBoxContainer/JudgementContainer/HBoxContainer/SmashContainer/MarginContainer/HBoxContainer" index="0" unique_id=240122898]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+texture = ExtResource("3_whaat")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="Label" type="Label" parent="VBoxContainer/JudgementContainer/HBoxContainer/SmashContainer/MarginContainer/HBoxContainer" index="1" unique_id=441887377]
+auto_translate_mode = 1
+custom_minimum_size = Vector2(100, 0)
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Smash"
+horizontal_alignment = 1
+
+[node name="RightIcon" type="TextureRect" parent="VBoxContainer/JudgementContainer/HBoxContainer/SmashContainer/MarginContainer/HBoxContainer" index="2" unique_id=552316598]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+texture = ExtResource("3_whaat")
+expand_mode = 2
+stretch_mode = 5

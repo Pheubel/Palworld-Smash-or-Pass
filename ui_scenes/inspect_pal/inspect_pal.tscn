@@ -1,0 +1,155 @@
+[gd_scene format=3 uid="uid://bt20nqxbax1sy"]
+
+[ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://app_theme.tres" id="1_ujric"]
+[ext_resource type="Script" uid="uid://b6emybboiqam3" path="res://ui_scenes/inspect_pal/inspect_pal.gd" id="2_y5ig3"]
+[ext_resource type="Texture2D" uid="uid://dgn80rtvaqkcm" path="res://palworld_wallpaper.jpg" id="3_lw1eh"]
+[ext_resource type="Texture2D" uid="uid://dwyk8oqp40qlu" path="res://pals/portraits/Lamball.webp" id="4_3vc4y"]
+[ext_resource type="Texture2D" uid="uid://dyl7p3s6hvm7f" path="res://icons/star.svg" id="7_4rmwo"]
+[ext_resource type="Texture2D" uid="uid://yk3ejhvtu1wt" path="res://icons/star_full.svg" id="8_i0nsj"]
+[ext_resource type="Texture2D" uid="uid://cr6754krs7ife" path="res://icons/star_focus.svg" id="9_b668f"]
+[ext_resource type="BitMap" uid="uid://w8oolak2u725" path="res://icons/star_mask.svg" id="10_sovi8"]
+[ext_resource type="Texture2D" uid="uid://b8b7u8up71sos" path="res://icons/e621_logo.png" id="11_5o7ae"]
+[ext_resource type="Texture2D" uid="uid://cjl8mo0hm1cw1" path="res://icons/e621_disabled.png" id="12_qvcdp"]
+[ext_resource type="Texture2D" uid="uid://b7vuev1ockuok" path="res://icons/e621_focus.png" id="13_v5muq"]
+[ext_resource type="BitMap" uid="uid://pd3esalr03em" path="res://icons/e621_mask.png" id="14_mds6q"]
+[ext_resource type="Texture2D" uid="uid://c01j4g4xkq3wb" path="res://icons/arrow_left.svg" id="15_desa1"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_y5ig3"]
+bg_color = Color(0.252961, 0.32950044, 0.41508815, 0.6)
+border_width_left = 64
+border_width_right = 64
+border_color = Color(0, 0, 0, 0)
+border_blend = true
+
+[node name="InspectPal" type="Control" unique_id=763153318]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1_ujric")
+script = ExtResource("2_y5ig3")
+
+[node name="Background" type="TextureRect" parent="." unique_id=768357875]
+modulate = Color(0.15686275, 0.15686275, 0.15686275, 1)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("3_lw1eh")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="SideButtonContainer" type="VBoxContainer" parent="." unique_id=1756718640]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.9461806
+anchor_right = 1.0
+anchor_bottom = 0.21296297
+grow_horizontal = 0
+
+[node name="FavoriteButton" type="TextureButton" parent="SideButtonContainer" unique_id=1382547562 groups=["clickable"]]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+mouse_default_cursor_shape = 2
+toggle_mode = true
+texture_normal = ExtResource("7_4rmwo")
+texture_pressed = ExtResource("8_i0nsj")
+texture_focused = ExtResource("9_b668f")
+texture_click_mask = ExtResource("10_sovi8")
+ignore_texture_size = true
+stretch_mode = 4
+metadata/_edit_use_anchors_ = true
+
+[node name="E621Button" type="TextureButton" parent="SideButtonContainer" unique_id=750784676 groups=["booru_button", "clickable"]]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+mouse_default_cursor_shape = 2
+texture_normal = ExtResource("11_5o7ae")
+texture_disabled = ExtResource("12_qvcdp")
+texture_focused = ExtResource("13_v5muq")
+texture_click_mask = ExtResource("14_mds6q")
+ignore_texture_size = true
+stretch_mode = 4
+
+[node name="BackButton" type="Button" parent="." unique_id=2022373570 groups=["clickable"]]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 0.059895832
+anchor_bottom = 0.106481485
+mouse_default_cursor_shape = 2
+icon = ExtResource("15_desa1")
+flat = true
+expand_icon = true
+metadata/_edit_use_anchors_ = true
+
+[node name="PanelContainer" type="PanelContainer" parent="." unique_id=245714876]
+auto_translate_mode = 2
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.2717014
+anchor_top = 0.047839507
+anchor_right = 0.7282986
+anchor_bottom = 0.1095679
+grow_horizontal = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_y5ig3")
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer" unique_id=1807803488]
+layout_mode = 2
+theme_override_constants/margin_left = 16
+theme_override_constants/margin_right = 16
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/MarginContainer" unique_id=2109740604]
+layout_mode = 2
+
+[node name="PalIndexLabel" type="Label" parent="PanelContainer/MarginContainer/HBoxContainer" unique_id=839175232]
+unique_name_in_owner = true
+layout_mode = 2
+text = "123:"
+
+[node name="PalNameLabel" type="Label" parent="PanelContainer/MarginContainer/HBoxContainer" unique_id=968817949]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(-4.08, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "a pal"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=377862675]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.08719647
+anchor_top = 0.13117284
+anchor_right = 0.91280353
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+metadata/_edit_use_anchors_ = true
+
+[node name="AspectRatioContainer" type="AspectRatioContainer" parent="VBoxContainer" unique_id=344471354]
+layout_mode = 2
+size_flags_vertical = 3
+size_flags_stretch_ratio = 5.0
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/AspectRatioContainer" unique_id=1907623670]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="PalTextureRect" type="TextureRect" parent="VBoxContainer/AspectRatioContainer/MarginContainer" unique_id=1083729848]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+texture = ExtResource("4_3vc4y")
+expand_mode = 1
+stretch_mode = 5

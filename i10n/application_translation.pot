@@ -2,8 +2,9 @@
 # res://ui_scenes/results/results.gd
 # res://ui_scenes/results/results.tscn
 # res://ui_scenes/favorites/favorites.tscn
-# res://ui_scenes/judging/judging.tscn
 # res://ui_scenes/main/main.tscn
+# res://ui_scenes/inspect_pal/inspect_pal.tscn
+# res://ui_scenes/judge_pal/judge_pal.tscn
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -15,19 +16,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 
-#: ui_scenes/results/results.gd:20
+#: ui_scenes/results/results.gd:25
 msgid "smashed %d pal"
 msgid_plural "smashed %d pals"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ui_scenes/results/results.gd:49
+#: ui_scenes/results/results.gd:62
 msgid "I would smash %d pal:"
 msgid_plural "I would smash %d pals:"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ui_scenes/results/results.gd:54
+#: ui_scenes/results/results.gd:70
 msgid "I would smash no pals."
 msgstr ""
 
@@ -41,14 +42,6 @@ msgstr ""
 
 #: ui_scenes/favorites/favorites.tscn
 msgid "Your Favorites"
-msgstr ""
-
-#: ui_scenes/judging/judging.tscn
-msgid "Pass"
-msgstr ""
-
-#: ui_scenes/judging/judging.tscn
-msgid "Smash"
 msgstr ""
 
 #: ui_scenes/main/main.tscn
@@ -97,6 +90,14 @@ msgstr ""
 
 #: ui_scenes/main/main.tscn
 msgid "Github"
+msgstr ""
+
+#: ui_scenes/judge_pal/judge_pal.tscn
+msgid "Pass"
+msgstr ""
+
+#: ui_scenes/judge_pal/judge_pal.tscn
+msgid "Smash"
 msgstr ""
 
 msgid "Palworld: Smash or Pass"
