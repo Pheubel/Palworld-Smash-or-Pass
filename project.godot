@@ -12,7 +12,7 @@ config_version=5
 
 config/name="Palworld: Smash or Pass"
 config/description="A fun application meant to streams and videos where you determine if you would tap a pal. Features a favorites list so you can quickly look up the ones you liked the most."
-config/version="1.1.1"
+config/version="1.2.0"
 run/main_scene="uid://dfkib0haq1pgc"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="uid://j7hew026qxdo"
@@ -43,7 +43,7 @@ folder_colors={
 
 [internationalization]
 
-locale/translations=PackedStringArray("res://i10n/pal_names.en.translation", "res://i10n/pal_names.ja.translation")
+locale/translations=PackedStringArray("res://i10n/pal_names.ja.mo", "res://i10n/pal_names.en.mo")
 locale/translations_pot_files=PackedStringArray("res://ui_scenes/results/results.gd", "res://ui_scenes/results/results.tscn", "res://ui_scenes/favorites/favorites.tscn", "res://ui_scenes/judging/judging.tscn", "res://ui_scenes/main/main.tscn")
 
 [physics]

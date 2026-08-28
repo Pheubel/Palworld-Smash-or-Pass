@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "pal_lamball"
+msgstr "Lamball"
+
+msgid "pal_cattiva"
+msgstr "Cattiva"
+
+msgid "pal_chikipi"
+msgstr "Chikipi"
+
+msgid "pal_lifmunk"
+msgstr "Lifmunk"
+
+msgid "pal_fuack"
+msgstr "Fuack"
+
+msgid "pal_fuack_ignis"
+msgstr "Fuack Ignis"
+
+msgid "pal_vixy"
+msgstr "Vixy"
+
+msgid "pal_celaray"
+msgstr "Celaray"
+
+msgid "pal_celaray_lux"
+msgstr "Celaray Lux"
+
+msgid "pal_cremis"
+msgstr "Cremis"
+
+msgid "pal_croajiro"
+msgstr "Croajiro"
+
+msgid "pal_croajiro_noct"
+msgstr "Croajiro Noct"
+
+msgid "pal_herbil"
+msgstr "Herbil"
+
+msgid "pal_teafant"
+msgstr "Teafant"
+
+msgid "pal_gumoss"
+msgstr "Gumoss"
+
+msgid "pal_pupperai"
+msgstr "Pupperai"
+
+msgid "pal_clovee"
+msgstr "Clovee"
+
+msgid "pal_jolthog"
+msgstr "Jolthog"
+
+msgid "pal_jolthog_cryst"
+msgstr "Jolthog Cryst"
+
+msgid "pal_depresso"
+msgstr "Depresso"
+
+msgid "pal_pengullet"
+msgstr "Pengullet"
+
+msgid "pal_pengullet_lux"
+msgstr "Pengullet Lux"
+
+msgid "pal_penking"
+msgstr "Penking"
+
+msgid "pal_penking_lux"
+msgstr "Penking Lux"
+
+msgid "pal_hoocrates"
+msgstr "Hoocrates"
+
+msgid "pal_melpaca"
+msgstr "Melpaca"
+
+msgid "pal_kingpaca"
+msgstr "Kingpaca"
+
+msgid "pal_kingpaca_cryst"
+msgstr "Kingpaca Cryst"
+
+msgid "pal_daedream"
+msgstr "Daedream"
+
+msgid "pal_tanzee"
+msgstr "Tanzee"
+
+msgid "pal_nox"
+msgstr "Nox"
+
+msgid "pal_flambelle"
+msgstr "Flambelle"
+
+msgid "pal_rooby"
+msgstr "Rooby"
+
+msgid "pal_mau"
+msgstr "Mau"
+
+msgid "pal_mau_cryst"
+msgstr "Mau Cryst"
+
+msgid "pal_rushoar"
+msgstr "Rushoar"
+
+msgid "pal_foxparks"
+msgstr "Foxparks"
+
+msgid "pal_foxparks_cryst"
+msgstr "Foxparks Cryst"
+
+msgid "pal_killamari"
+msgstr "Killamari"
+
+msgid "pal_killamari_primo"
+msgstr "Killamari Primo"
+
+msgid "pal_fuddler"
+msgstr "Fuddler"
+
+msgid "pal_eikthyrdeer"
+msgstr "Eikthyrdeer"
+
+msgid "pal_eikthyrdeer_terra"
+msgstr "Eikthyrdeer Terra"
+
+msgid "pal_direhowl"
+msgstr "Direhowl"
+
+msgid "pal_caprity"
+msgstr "Caprity"
+
+msgid "pal_caprity_noct"
+msgstr "Caprity Noct"
+
+msgid "pal_swee"
+msgstr "Swee"
+
+msgid "pal_sweepa"
+msgstr "Sweepa"
+
+msgid "pal_turtacle"
+msgstr "Turtacle"
+
+msgid "pal_turtacle_terra"
+msgstr "Turtacle Terra"
+
+msgid "pal_hangyu"
+msgstr "Hangyu"
+
+msgid "pal_hangyu_cryst"
+msgstr "Hangyu Cryst"
+
+msgid "pal_woolipop"
+msgstr "Woolipop"
+
+msgid "pal_woolipop_terra"
+msgstr "Woolipop Terra"
+
+msgid "pal_mozzarina"
+msgstr "Mozzarina"
+
+msgid "pal_azurobe"
+msgstr "Azurobe"
+
+msgid "pal_azurobe_cryst"
+msgstr "Azurobe Cryst"
+
+msgid "pal_sparkit"
+msgstr "Sparkit"
+
+msgid "pal_kelpsea"
+msgstr "Kelpsea"
+
+msgid "pal_kelpsea_ignis"
+msgstr "Kelpsea Ignis"
+
+msgid "pal_ribbuny"
+msgstr "Ribbuny"
+
+msgid "pal_ribbuny_botan"
+msgstr "Ribbuny Botan"
+
+msgid "pal_jelliette"
+msgstr "Jelliette"
+
+msgid "pal_jellroy"
+msgstr "Jellroy"
+
+msgid "pal_amione"
+msgstr "Amione"
+
+msgid "pal_gloopie"
+msgstr "Gloopie"
+
+msgid "pal_gloopie_primo"
+msgstr "Gloopie Primo"
+
+msgid "pal_galeclaw"
+msgstr "Galeclaw"
+
+msgid "pal_wispaw"
+msgstr "Wispaw"
+
+msgid "pal_nitewing"
+msgstr "Nitewing"
+
+msgid "pal_tombat"
+msgstr "Tombat"
+
+msgid "pal_tocotoco"
+msgstr "Tocotoco"
+
+msgid "pal_univolt"
+msgstr "Univolt"
+
+msgid "pal_univolt_cryst"
+msgstr "Univolt Cryst"
+
+msgid "pal_gobfin"
+msgstr "Gobfin"
+
+msgid "pal_gobfin_ignis"
+msgstr "Gobfin Ignis"
+
+msgid "pal_loupmoon"
+msgstr "Loupmoon"
+
+msgid "pal_loupmoon_cryst"
+msgstr "Loupmoon Cryst"
+
+msgid "pal_cawgnito"
+msgstr "Cawgnito"
+
+msgid "pal_arsox"
+msgstr "Arsox"
+
+msgid "pal_muffly"
+msgstr "Muffly"
+
+msgid "pal_bristla"
+msgstr "Bristla"
+
+msgid "pal_cinnamoth"
+msgstr "Cinnamoth"
+
+msgid "pal_puffolt"
+msgstr "Puffolt"
+
+msgid "pal_elphidran"
+msgstr "Elphidran"
+
+msgid "pal_elphidran_aqua"
+msgstr "Elphidran Aqua"
+
+msgid "pal_vanwyrm"
+msgstr "Vanwyrm"
+
+msgid "pal_vanwyrm_cryst"
+msgstr "Vanwyrm Cryst"
+
+msgid "pal_felbat"
+msgstr "Felbat"
+
+msgid "pal_vaelet"
+msgstr "Vaelet"
+
+msgid "pal_beegarde"
+msgstr "Beegarde"
+
+msgid "pal_elizabee"
+msgstr "Elizabee"
+
+msgid "pal_lovander"
+msgstr "Lovander"
+
+msgid "pal_grintale"
+msgstr "Grintale"
+
+msgid "pal_tarantriss"
+msgstr "Tarantriss"
+
+msgid "pal_polapup"
+msgstr "Polapup"
+
+msgid "pal_polapup_terra"
+msgstr "Polapup Terra"
+
+msgid "pal_leezpunk"
+msgstr "Leezpunk"
+
+msgid "pal_leezpunk_ignis"
+msgstr "Leezpunk Ignis"
+
+msgid "pal_gorirat"
+msgstr "Gorirat"
+
+msgid "pal_gorirat_terra"
+msgstr "Gorirat Terra"
+
+msgid "pal_surfent"
+msgstr "Surfent"
+
+msgid "pal_surfent_terra"
+msgstr "Surfent Terra"
+
+msgid "pal_robinquill"
+msgstr "Robinquill"
+
+msgid "pal_robinquill_terra"
+msgstr "Robinquill Terra"
+
+msgid "pal_flopie"
+msgstr "Flopie"
+
+msgid "pal_wixen"
+msgstr "Wixen"
+
+msgid "pal_wixen_noct"
+msgstr "Wixen Noct"
+
+msgid "pal_katress"
+msgstr "Katress"
+
+msgid "pal_katress_ignis"
+msgstr "Katress Ignis"
+
+msgid "pal_helzephyr"
+msgstr "Helzephyr"
+
+msgid "pal_helzephyr_lux"
+msgstr "Helzephyr Lux"
+
+msgid "pal_elgrove"
+msgstr "Elgrove"
+
+msgid "pal_elgrove_cryst"
+msgstr "Elgrove Cryst"
+
+msgid "pal_lunaris"
+msgstr "Lunaris"
+
+msgid "pal_fenglope"
+msgstr "Fenglope"
+
+msgid "pal_fenglope_lux"
+msgstr "Fenglope Lux"
+
+msgid "pal_dinossom"
+msgstr "Dinossom"
+
+msgid "pal_dinossom_lux"
+msgstr "Dinossom Lux"
+
+msgid "pal_bushi"
+msgstr "Bushi"
+
+msgid "pal_bushi_noct"
+msgstr "Bushi Noct"
+
+msgid "pal_munchill"
+msgstr "Munchill"
+
+msgid "pal_mammorest"
+msgstr "Mammorest"
+
+msgid "pal_mammorest_cryst"
+msgstr "Mammorest Cryst"
+
+msgid "pal_finsider"
+msgstr "Finsider"
+
+msgid "pal_finsider_ignis"
+msgstr "Finsider Ignis"
+
+msgid "pal_petallia"
+msgstr "Petallia"
+
+msgid "pal_petallia_ignis"
+msgstr "Petallia Ignis"
+
+msgid "pal_leafan"
+msgstr "Leafan"
+
+msgid "pal_incineram"
+msgstr "Incineram"
+
+msgid "pal_incineram_noct"
+msgstr "Incineram Noct"
+
+msgid "pal_dazzi"
+msgstr "Dazzi"
+
+msgid "pal_dazzi_noct"
+msgstr "Dazzi Noct"
+
+msgid "pal_pyrin"
+msgstr "Pyrin"
+
+msgid "pal_pyrin_noct"
+msgstr "Pyrin Noct"
+
+msgid "pal_relaxaurus"
+msgstr "Relaxaurus"
+
+msgid "pal_relaxaurus_lux"
+msgstr "Relaxaurus Lux"
+
+msgid "pal_foxcicle"
+msgstr "Foxcicle"
+
+msgid "pal_beakon"
+msgstr "Beakon"
+
+msgid "pal_beakon_cryst"
+msgstr "Beakon Cryst"
+
+msgid "pal_ghangler"
+msgstr "Ghangler"
+
+msgid "pal_ghangler_ignis"
+msgstr "Ghangler Ignis"
+
+msgid "pal_rayhound"
+msgstr "Rayhound"
+
+msgid "pal_rayhound_cryst"
+msgstr "Rayhound Cryst"
+
+msgid "pal_menasting"
+msgstr "Menasting"
+
+msgid "pal_menasting_terra"
+msgstr "Menasting Terra"
+
+msgid "pal_needoll"
+msgstr "Needoll"
+
+msgid "pal_needoll_noct"
+msgstr "Needoll Noct"
+
+msgid "pal_reindrix"
+msgstr "Reindrix"
+
+msgid "pal_mossanda"
+msgstr "Mossanda"
+
+msgid "pal_mossanda_lux"
+msgstr "Mossanda Lux"
+
+msgid "pal_chillet"
+msgstr "Chillet"
+
+msgid "pal_chillet_ignis"
+msgstr "Chillet Ignis"
+
+msgid "pal_ragnahawk"
+msgstr "Ragnahawk"
+
+msgid "pal_moldron"
+msgstr "Moldron"
+
+msgid "pal_moldron_cryst"
+msgstr "Moldron Cryst"
+
+msgid "pal_palumba"
+msgstr "Palumba"
+
+msgid "pal_digtoise"
+msgstr "Digtoise"
+
+msgid "pal_broncherry"
+msgstr "Broncherry"
+
+msgid "pal_broncherry_aqua"
+msgstr "Broncherry Aqua"
+
+msgid "pal_dumud"
+msgstr "Dumud"
+
+msgid "pal_dumud_gild"
+msgstr "Dumud Gild"
+
+msgid "pal_braloha"
+msgstr "Braloha"
+
+msgid "pal_kitsun"
+msgstr "Kitsun"
+
+msgid "pal_kitsun_noct"
+msgstr "Kitsun Noct"
+
+msgid "pal_blazehowl"
+msgstr "Blazehowl"
+
+msgid "pal_blazehowl_noct"
+msgstr "Blazehowl Noct"
+
+msgid "pal_warsect"
+msgstr "Warsect"
+
+msgid "pal_warsect_terra"
+msgstr "Warsect Terra"
+
+msgid "pal_frostplume"
+msgstr "Frostplume"
+
+msgid "pal_majex"
+msgstr "Majex"
+
+msgid "pal_sibelyx"
+msgstr "Sibelyx"
+
+msgid "pal_sibelyx_primo"
+msgstr "Sibelyx Primo"
+
+msgid "pal_maraith"
+msgstr "Maraith"
+
+msgid "pal_shroomer"
+msgstr "Shroomer"
+
+msgid "pal_shroomer_noct"
+msgstr "Shroomer Noct"
+
+msgid "pal_icelyn"
+msgstr "Icelyn"
+
+msgid "pal_gildra"
+msgstr "Gildra"
+
+msgid "pal_jormuntide"
+msgstr "Jormuntide"
+
+msgid "pal_jormuntide_ignis"
+msgstr "Jormuntide Ignis"
+
+msgid "pal_suzaku"
+msgstr "Suzaku"
+
+msgid "pal_suzaku_aqua"
+msgstr "Suzaku Aqua"
+
+msgid "pal_dazemu"
+msgstr "Dazemu"
+
+msgid "pal_quivern"
+msgstr "Quivern"
+
+msgid "pal_quivern_botan"
+msgstr "Quivern Botan"
+
+msgid "pal_lullu"
+msgstr "Lullu"
+
+msgid "pal_kikit"
+msgstr "Kikit"
+
+msgid "pal_yakumo"
+msgstr "Yakumo"
+
+msgid "pal_skutlass"
+msgstr "Skutlass"
+
+msgid "pal_skutlass_ignis"
+msgstr "Skutlass Ignis"
+
+msgid "pal_reptyro"
+msgstr "Reptyro"
+
+msgid "pal_reptyro_cryst"
+msgstr "Reptyro Cryst"
+
+msgid "pal_starryon"
+msgstr "Starryon"
+
+msgid "pal_starryon_primo"
+msgstr "Starryon Primo"
+
+msgid "pal_pierdon"
+msgstr "Pierdon"
+
+msgid "pal_pierdon_cryst"
+msgstr "Pierdon Cryst"
+
+msgid "pal_cryolinx"
+msgstr "Cryolinx"
+
+msgid "pal_cryolinx_terra"
+msgstr "Cryolinx Terra"
+
+msgid "pal_snugloo"
+msgstr "Snugloo"
+
+msgid "pal_wumpo"
+msgstr "Wumpo"
+
+msgid "pal_wumpo_botan"
+msgstr "Wumpo Botan"
+
+msgid "pal_sootseer"
+msgstr "Sootseer"
+
+msgid "pal_carnibora"
+msgstr "Carnibora"
+
+msgid "pal_blazamut"
+msgstr "Blazamut"
+
+msgid "pal_blazamut_ryu"
+msgstr "Blazamut Ryu"
+
+msgid "pal_dualith"
+msgstr "Dualith"
+
+msgid "pal_dualith_noct"
+msgstr "Dualith Noct"
+
+msgid "pal_anubis"
+msgstr "Anubis"
+
+msgid "pal_sekhmet"
+msgstr "Sekhmet"
+
+msgid "pal_prixter"
+msgstr "Prixter"
+
+msgid "pal_prixter_lux"
+msgstr "Prixter Lux"
+
+msgid "pal_tetroise"
+msgstr "Tetroise"
+
+msgid "pal_tetroise_primo"
+msgstr "Tetroise Primo"
+
+msgid "pal_nyafia"
+msgstr "Nyafia"
+
+msgid "pal_mimog"
+msgstr "Mimog"
+
+msgid "pal_xenovader"
+msgstr "Xenovader"
+
+msgid "pal_xenogard"
+msgstr "Xenogard"
+
+msgid "pal_prunelia"
+msgstr "Prunelia"
+
+msgid "pal_nitemary"
+msgstr "Nitemary"
+
+msgid "pal_nitemary_botan"
+msgstr "Nitemary Botan"
+
+msgid "pal_smokie"
+msgstr "Smokie"
+
+msgid "pal_smokie_cryst"
+msgstr "Smokie Cryst"
+
+msgid "pal_omascul"
+msgstr "Omascul"
+
+msgid "pal_whalaska"
+msgstr "Whalaska"
+
+msgid "pal_whalaska_ignis"
+msgstr "Whalaska Ignis"
+
+msgid "pal_verdash"
+msgstr "Verdash"
+
+msgid "pal_splatterina"
+msgstr "Splatterina"
+
+msgid "pal_gildane"
+msgstr "Gildane"
+
+msgid "pal_dogen"
+msgstr "Dogen"
+
+msgid "pal_bulldosu"
+msgstr "Bulldosu"
+
+msgid "pal_celesdir"
+msgstr "Celesdir"
+
+msgid "pal_celesdir_noct"
+msgstr "Celesdir Noct"
+
+msgid "pal_astegon"
+msgstr "Astegon"
+
+msgid "pal_knocklem"
+msgstr "Knocklem"
+
+msgid "pal_knocklem_ignis"
+msgstr "Knocklem Ignis"
+
+msgid "pal_silvegis"
+msgstr "Silvegis"
+
+msgid "pal_azurmane"
+msgstr "Azurmane"
+
+msgid "pal_valentail"
+msgstr "Valentail"
+
+msgid "pal_snock"
+msgstr "Snock"
+
+msgid "pal_snock_terra"
+msgstr "Snock Terra"
+
+msgid "pal_souffline"
+msgstr "Souffline"
+
+msgid "pal_lapiron"
+msgstr "Lapiron"
+
+msgid "pal_hoodle"
+msgstr "Hoodle"
+
+msgid "pal_slowatt"
+msgstr "Slowatt"
+
+msgid "pal_bakemi"
+msgstr "Bakemi"
+
+msgid "pal_solmora"
+msgstr "Solmora"
+
+msgid "pal_solmora_lux"
+msgstr "Solmora Lux"
+
+msgid "pal_lapure"
+msgstr "Lapure"
+
+msgid "pal_eidrolon"
+msgstr "Eidrolon"
+
+msgid "pal_eidrolon_ignis"
+msgstr "Eidrolon Ignis"
+
+msgid "pal_dynamoff"
+msgstr "Dynamoff"
+
+msgid "pal_tropicaw"
+msgstr "Tropicaw"
+
+msgid "pal_flaracle"
+msgstr "Flaracle"
+
+msgid "pal_ophydia"
+msgstr "Ophydia"
+
+msgid "pal_dupin"
+msgstr "Dupin"
+
+msgid "pal_roujay"
+msgstr "Roujay"
+
+msgid "pal_venusa"
+msgstr "Venusa"
+
+msgid "pal_mycora"
+msgstr "Mycora"
+
+msgid "pal_loomen"
+msgstr "Loomen"
+
+msgid "pal_wistella"
+msgstr "Wistella"
+
+msgid "pal_solenne"
+msgstr "Solenne"
+
+msgid "pal_renjishi"
+msgstr "Renjishi"
+
+msgid "pal_aegidron"
+msgstr "Aegidron"
+
+msgid "pal_grizzbolt"
+msgstr "Grizzbolt"
+
+msgid "pal_lyleen"
+msgstr "Lyleen"
+
+msgid "pal_lyleen_noct"
+msgstr "Lyleen Noct"
+
+msgid "pal_orserk"
+msgstr "Orserk"
+
+msgid "pal_faleris"
+msgstr "Faleris"
+
+msgid "pal_faleris_aqua"
+msgstr "Faleris Aqua"
+
+msgid "pal_shadowbeak"
+msgstr "Shadowbeak"
+
+msgid "pal_selyne"
+msgstr "Selyne"
+
+msgid "pal_bastigor"
+msgstr "Bastigor"
+
+msgid "pal_shaolong"
+msgstr "Shaolong"
+
+msgid "pal_silvance"
+msgstr "Silvance"
+
+msgid "pal_dandilord"
+msgstr "Dandilord"
+
+msgid "pal_bellanoir"
+msgstr "Bellanoir"
+
+msgid "pal_bellanoir_libero"
+msgstr "Bellanoir Libero"
+
+msgid "pal_xenolord"
+msgstr "Xenolord"
+
+msgid "pal_hartalis"
+msgstr "Hartalis"
+
+msgid "pal_paladius"
+msgstr "Paladius"
+
+msgid "pal_necromus"
+msgstr "Necromus"
+
+msgid "pal_frostallion"
+msgstr "Frostallion"
+
+msgid "pal_frostallion_noct"
+msgstr "Frostallion Noct"
+
+msgid "pal_neptilius"
+msgstr "Neptilius"
+
+msgid "pal_jetragon"
+msgstr "Jetragon"
+
+msgid "pal_panthalus"
+msgstr "Panthalus"
+
+msgid "pal_astralym"
+msgstr "Astralym"

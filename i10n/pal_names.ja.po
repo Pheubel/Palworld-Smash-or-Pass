@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "pal_lamball"
+msgstr "モコロン"
+
+msgid "pal_cattiva"
+msgstr "ツッパニャン"
+
+msgid "pal_chikipi"
+msgstr "タマコッコ"
+
+msgid "pal_lifmunk"
+msgstr "クルリス"
+
+msgid "pal_fuack"
+msgstr "カモノスケ"
+
+msgid "pal_fuack_ignis"
+msgstr "モモノスケ"
+
+msgid "pal_vixy"
+msgstr "タマモ"
+
+msgid "pal_celaray"
+msgstr "ルミカイト"
+
+msgid "pal_celaray_lux"
+msgstr "エレカイト"
+
+msgid "pal_cremis"
+msgstr "ミルフィ"
+
+msgid "pal_croajiro"
+msgstr "ブシガエル"
+
+msgid "pal_croajiro_noct"
+msgstr "ドスガエル"
+
+msgid "pal_herbil"
+msgstr "モモンパ"
+
+msgid "pal_teafant"
+msgstr "チョロゾウ"
+
+msgid "pal_gumoss"
+msgstr "ナエモチ"
+
+msgid "pal_pupperai"
+msgstr "ポチムネ"
+
+msgid "pal_clovee"
+msgstr "ポワワ"
+
+msgid "pal_jolthog"
+msgstr "パチグリ"
+
+msgid "pal_jolthog_cryst"
+msgstr "コチグリ"
+
+msgid "pal_depresso"
+msgstr "ンダコアラ"
+
+msgid "pal_pengullet"
+msgstr "ペンタマ"
+
+msgid "pal_pengullet_lux"
+msgstr "デンタマ"
+
+msgid "pal_penking"
+msgstr "キャプペン"
+
+msgid "pal_penking_lux"
+msgstr "ペンキッド"
+
+msgid "pal_hoocrates"
+msgstr "ホウロック"
+
+msgid "pal_melpaca"
+msgstr "メルパカ"
+
+msgid "pal_kingpaca"
+msgstr "アルパオー"
+
+msgid "pal_kingpaca_cryst"
+msgstr "アオパオー"
+
+msgid "pal_daedream"
+msgstr "ネムラム"
+
+msgid "pal_tanzee"
+msgstr "エテッパ"
+
+msgid "pal_nox"
+msgstr "カレッパ"
+
+msgid "pal_flambelle"
+msgstr "ラヴィ"
+
+msgid "pal_rooby"
+msgstr "ヒノコジカ"
+
+msgid "pal_mau"
+msgstr "ニャオテト"
+
+msgid "pal_mau_cryst"
+msgstr "チルテト"
+
+msgid "pal_rushoar"
+msgstr "イノボウ"
+
+msgid "pal_foxparks"
+msgstr "キツネビ"
+
+msgid "pal_foxparks_cryst"
+msgstr "ユキツネ"
+
+msgid "pal_killamari"
+msgstr "ヤミイカ"
+
+msgid "pal_killamari_primo"
+msgstr "ユメイカ"
+
+msgid "pal_fuddler"
+msgstr "モグルン"
+
+msgid "pal_eikthyrdeer"
+msgstr "ツノガミ"
+
+msgid "pal_eikthyrdeer_terra"
+msgstr "ヤマガミ"
+
+msgid "pal_direhowl"
+msgstr "ガウルフ"
+
+msgid "pal_caprity"
+msgstr "ベリゴート"
+
+msgid "pal_caprity_noct"
+msgstr "ベノゴート"
+
+msgid "pal_swee"
+msgstr "コモップ"
+
+msgid "pal_sweepa"
+msgstr "ドンモップ"
+
+msgid "pal_turtacle"
+msgstr "ヘルメッコ"
+
+msgid "pal_turtacle_terra"
+msgstr "ゴルメッコ"
+
+msgid "pal_hangyu"
+msgstr "シメナワ"
+
+msgid "pal_hangyu_cryst"
+msgstr "オバケナワ"
+
+msgid "pal_woolipop"
+msgstr "メリポップ"
+
+msgid "pal_woolipop_terra"
+msgstr "メリコロネ"
+
+msgid "pal_mozzarina"
+msgstr "ミルカルビ"
+
+msgid "pal_azurobe"
+msgstr "アズレーン"
+
+msgid "pal_azurobe_cryst"
+msgstr "アズルーナ"
+
+msgid "pal_sparkit"
+msgstr "ボルトラ"
+
+msgid "pal_kelpsea"
+msgstr "ケルピス"
+
+msgid "pal_kelpsea_ignis"
+msgstr "マグピス"
+
+msgid "pal_ribbuny"
+msgstr "ヒメウサ"
+
+msgid "pal_ribbuny_botan"
+msgstr "ヨモギウサ"
+
+msgid "pal_jelliette"
+msgstr "クララン"
+
+msgid "pal_jellroy"
+msgstr "ユララン"
+
+msgid "pal_amione"
+msgstr "リオリネ"
+
+msgid "pal_gloopie"
+msgstr "ヒメンダコ"
+
+msgid "pal_gloopie_primo"
+msgstr "ユメンダコ"
+
+msgid "pal_galeclaw"
+msgstr "エアムルグ"
+
+msgid "pal_wispaw"
+msgstr "ニャンシー"
+
+msgid "pal_nitewing"
+msgstr "ホークウィン"
+
+msgid "pal_tombat"
+msgstr "ニャンバット"
+
+msgid "pal_tocotoco"
+msgstr "クルットリ"
+
+msgid "pal_univolt"
+msgstr "ライコーン"
+
+msgid "pal_univolt_cryst"
+msgstr "レイコーン"
+
+msgid "pal_gobfin"
+msgstr "シャーキッド"
+
+msgid "pal_gobfin_ignis"
+msgstr "シャーマンダー"
+
+msgid "pal_loupmoon"
+msgstr "ツキカゲ"
+
+msgid "pal_loupmoon_cryst"
+msgstr "ユキカゲ"
+
+msgid "pal_cawgnito"
+msgstr "マスクロウ"
+
+msgid "pal_arsox"
+msgstr "ブルフェルノ"
+
+msgid "pal_muffly"
+msgstr "モコチッチ"
+
+msgid "pal_bristla"
+msgstr "イバラヒメ"
+
+msgid "pal_cinnamoth"
+msgstr "パピテフ"
+
+msgid "pal_puffolt"
+msgstr "パチマル"
+
+msgid "pal_elphidran"
+msgstr "シルフィア"
+
+msgid "pal_elphidran_aqua"
+msgstr "シルティア"
+
+msgid "pal_vanwyrm"
+msgstr "カバネドリ"
+
+msgid "pal_vanwyrm_cryst"
+msgstr "シロカバネ"
+
+msgid "pal_felbat"
+msgstr "ヤミトバリ"
+
+msgid "pal_vaelet"
+msgstr "ヴィオレッタ"
+
+msgid "pal_beegarde"
+msgstr "ビーナイト"
+
+msgid "pal_elizabee"
+msgstr "クインビーナ"
+
+msgid "pal_lovander"
+msgstr "ラブマンダー"
+
+msgid "pal_grintale"
+msgstr "ニャンギマリ"
+
+msgid "pal_tarantriss"
+msgstr "モモンチュラ"
+
+msgid "pal_polapup"
+msgstr "バニザラシ"
+
+msgid "pal_polapup_terra"
+msgstr "チョコザラシ"
+
+msgid "pal_leezpunk"
+msgstr "ダリザード"
+
+msgid "pal_leezpunk_ignis"
+msgstr "チリザード"
+
+msgid "pal_gorirat"
+msgstr "ゴリレイジ"
+
+msgid "pal_gorirat_terra"
+msgstr "ゴリガイア"
+
+msgid "pal_surfent"
+msgstr "シーペント"
+
+msgid "pal_surfent_terra"
+msgstr "スナペント"
+
+msgid "pal_robinquill"
+msgstr "フェザーロ"
+
+msgid "pal_robinquill_terra"
+msgstr "サンドロ"
+
+msgid "pal_flopie"
+msgstr "ポプリーナ"
+
+msgid "pal_wixen"
+msgstr "フォレーナ"
+
+msgid "pal_wixen_noct"
+msgstr "フォレーオ"
+
+msgid "pal_katress"
+msgstr "クレメーオ"
+
+msgid "pal_katress_ignis"
+msgstr "クレメーナ"
+
+msgid "pal_helzephyr"
+msgstr "ヘルガルダ"
+
+msgid "pal_helzephyr_lux"
+msgstr "ライガルダ"
+
+msgid "pal_elgrove"
+msgstr "モリタロス"
+
+msgid "pal_elgrove_cryst"
+msgstr "ユキタロス"
+
+msgid "pal_lunaris"
+msgstr "ミステリア"
+
+msgid "pal_fenglope"
+msgstr "ムラクモ"
+
+msgid "pal_fenglope_lux"
+msgstr "ムラサメ"
+
+msgid "pal_dinossom"
+msgstr "アロアリュー"
+
+msgid "pal_dinossom_lux"
+msgstr "ビリビリュー"
+
+msgid "pal_bushi"
+msgstr "ツジギリ"
+
+msgid "pal_bushi_noct"
+msgstr "ヤミウチ"
+
+msgid "pal_munchill"
+msgstr "コチワニ"
+
+msgid "pal_mammorest"
+msgstr "グランモス"
+
+msgid "pal_mammorest_cryst"
+msgstr "ブリザモス"
+
+msgid "pal_finsider"
+msgstr "ガブルミ"
+
+msgid "pal_finsider_ignis"
+msgstr "ヒグルミ"
+
+msgid "pal_petallia"
+msgstr "フラリーナ"
+
+msgid "pal_petallia_ignis"
+msgstr "チェリーナ"
+
+msgid "pal_leafan"
+msgstr "リーファン"
+
+msgid "pal_incineram"
+msgstr "ヘルゴート"
+
+msgid "pal_incineram_noct"
+msgstr "アビスゴート"
+
+msgid "pal_dazzi"
+msgstr "カミナラシ"
+
+msgid "pal_dazzi_noct"
+msgstr "ヤミナラシ"
+
+msgid "pal_pyrin"
+msgstr "サラブレイズ"
+
+msgid "pal_pyrin_noct"
+msgstr "サラブラック"
+
+msgid "pal_relaxaurus"
+msgstr "ペコドン"
+
+msgid "pal_relaxaurus_lux"
+msgstr "パリピドン"
+
+msgid "pal_foxcicle"
+msgstr "フブキツネ"
+
+msgid "pal_beakon"
+msgstr "ライバード"
+
+msgid "pal_beakon_cryst"
+msgstr "チルバード"
+
+msgid "pal_ghangler"
+msgstr "アンドーン"
+
+msgid "pal_ghangler_ignis"
+msgstr "メラドーン"
+
+msgid "pal_rayhound"
+msgstr "イヌズマ"
+
+msgid "pal_rayhound_cryst"
+msgstr "フリーズマ"
+
+msgid "pal_menasting"
+msgstr "デスティング"
+
+msgid "pal_menasting_terra"
+msgstr "ゴルディング"
+
+msgid "pal_needoll"
+msgstr "ハグミー"
+
+msgid "pal_needoll_noct"
+msgstr "ハグユー"
+
+msgid "pal_reindrix"
+msgstr "ツララジカ"
+
+msgid "pal_mossanda"
+msgstr "ササゾー"
+
+msgid "pal_mossanda_lux"
+msgstr "ライゾー"
+
+msgid "pal_chillet"
+msgstr "オコチョ"
+
+msgid "pal_chillet_ignis"
+msgstr "モモチョ"
+
+msgid "pal_ragnahawk"
+msgstr "イグニクス"
+
+msgid "pal_moldron"
+msgstr "マグマンダー"
+
+msgid "pal_moldron_cryst"
+msgstr "ブリザンダー"
+
+msgid "pal_palumba"
+msgstr "ココヤンバ"
+
+msgid "pal_digtoise"
+msgstr "ドリタス"
+
+msgid "pal_broncherry"
+msgstr "ラブラドン"
+
+msgid "pal_broncherry_aqua"
+msgstr "スプラドン"
+
+msgid "pal_dumud"
+msgstr "トドドドン"
+
+msgid "pal_dumud_gild"
+msgstr "ゴルドドン"
+
+msgid "pal_braloha"
+msgstr "トコナッツ"
+
+msgid "pal_kitsun"
+msgstr "シラヌイ"
+
+msgid "pal_kitsun_noct"
+msgstr "カゲヌイ"
+
+msgid "pal_blazehowl"
+msgstr "ゴクエンオ"
+
+msgid "pal_blazehowl_noct"
+msgstr "シンエンオ"
+
+msgid "pal_warsect"
+msgstr "グラクレス"
+
+msgid "pal_warsect_terra"
+msgstr "ゴルクレス"
+
+msgid "pal_frostplume"
+msgstr "クジャンナ"
+
+msgid "pal_majex"
+msgstr "マジョルナ"
+
+msgid "pal_sibelyx"
+msgstr "シルキーヌ"
+
+msgid "pal_sibelyx_primo"
+msgstr "ソワレーヌ"
+
+msgid "pal_maraith"
+msgstr "ソルレイス"
+
+msgid "pal_shroomer"
+msgstr "キノッポ"
+
+msgid "pal_shroomer_noct"
+msgstr "ベノッポ"
+
+msgid "pal_icelyn"
+msgstr "チルウィッチ"
+
+msgid "pal_gildra"
+msgstr "ヨミーラ"
+
+msgid "pal_jormuntide"
+msgstr "レヴィドラ"
+
+msgid "pal_jormuntide_ignis"
+msgstr "アグニドラ"
+
+msgid "pal_suzaku"
+msgstr "スザク"
+
+msgid "pal_suzaku_aqua"
+msgstr "シヴァ"
+
+msgid "pal_dazemu"
+msgstr "トリステップ"
+
+msgid "pal_quivern"
+msgstr "フェスキー"
+
+msgid "pal_quivern_botan"
+msgstr "フォレスキー"
+
+msgid "pal_lullu"
+msgstr "フワフラワ"
+
+msgid "pal_kikit"
+msgstr "コロマジロ"
+
+msgid "pal_yakumo"
+msgstr "ヤクモマル"
+
+msgid "pal_skutlass"
+msgstr "オオタチウオ"
+
+msgid "pal_skutlass_ignis"
+msgstr "ヒノタチウオ"
+
+msgid "pal_reptyro"
+msgstr "ボルカノン"
+
+msgid "pal_reptyro_cryst"
+msgstr "フロスカノン"
+
+msgid "pal_starryon"
+msgstr "ナイトロット"
+
+msgid "pal_starryon_primo"
+msgstr "ライトロット"
+
+msgid "pal_pierdon"
+msgstr "ジオルドン"
+
+msgid "pal_pierdon_cryst"
+msgstr "フロスドン"
+
+msgid "pal_cryolinx"
+msgstr "ツンドラー"
+
+msgid "pal_cryolinx_terra"
+msgstr "グランドラー"
+
+msgid "pal_snugloo"
+msgstr "ユキボウ"
+
+msgid "pal_wumpo"
+msgstr "ヒエティ"
+
+msgid "pal_wumpo_botan"
+msgstr "トロピティ"
+
+msgid "pal_sootseer"
+msgstr "オドロクロ"
+
+msgid "pal_carnibora"
+msgstr "カプリリス"
+
+msgid "pal_blazamut"
+msgstr "ボルカイザー"
+
+msgid "pal_blazamut_ryu"
+msgstr "ボルドラゴ"
+
+msgid "pal_dualith"
+msgstr "ウゴクゾー"
+
+msgid "pal_dualith_noct"
+msgstr "ノロウゾー"
+
+msgid "pal_anubis"
+msgstr "アヌビス"
+
+msgid "pal_sekhmet"
+msgstr "セクメト"
+
+msgid "pal_prixter"
+msgstr "ブッサソリ"
+
+msgid "pal_prixter_lux"
+msgstr "ブッサンダー"
+
+msgid "pal_tetroise"
+msgstr "オモシガメ"
+
+msgid "pal_tetroise_primo"
+msgstr "オシロガメ"
+
+msgid "pal_nyafia"
+msgstr "ニャニミテ"
+
+msgid "pal_mimog"
+msgstr "ミミドッグ"
+
+msgid "pal_xenovader"
+msgstr "ゼノベーダ"
+
+msgid "pal_xenogard"
+msgstr "ゼノルーダ"
+
+msgid "pal_prunelia"
+msgstr "プラムルリム"
+
+msgid "pal_nitemary"
+msgstr "ナイトメアリ"
+
+msgid "pal_nitemary_botan"
+msgstr "グラスメアリ"
+
+msgid "pal_smokie"
+msgstr "クロマル"
+
+msgid "pal_smokie_cryst"
+msgstr "フユマル"
+
+msgid "pal_omascul"
+msgstr "オーメン"
+
+msgid "pal_whalaska"
+msgstr "コゴエール"
+
+msgid "pal_whalaska_ignis"
+msgstr "モモエール"
+
+msgid "pal_verdash"
+msgstr "ラベロット"
+
+msgid "pal_splatterina"
+msgstr "ヤンデリナ"
+
+msgid "pal_gildane"
+msgstr "キンガゼル"
+
+msgid "pal_dogen"
+msgstr "ワンフー"
+
+msgid "pal_bulldosu"
+msgstr "ドスコイヌ"
+
+msgid "pal_celesdir"
+msgstr "セレスディア"
+
+msgid "pal_celesdir_noct"
+msgstr "コスモディア"
+
+msgid "pal_astegon"
+msgstr "ジオラーヴァ"
+
+msgid "pal_knocklem"
+msgstr "テラナイト"
+
+msgid "pal_knocklem_ignis"
+msgstr "マグナイト"
+
+msgid "pal_silvegis"
+msgstr "アイギルガ"
+
+msgid "pal_azurmane"
+msgstr "オーマサンダ"
+
+msgid "pal_valentail"
+msgstr "ニャルル"
+
+msgid "pal_snock"
+msgstr "デンツム"
+
+msgid "pal_snock_terra"
+msgstr "ドンツム"
+
+msgid "pal_souffline"
+msgstr "ポポフィア"
+
+msgid "pal_lapiron"
+msgstr "バトラビー"
+
+msgid "pal_hoodle"
+msgstr "フードール"
+
+msgid "pal_slowatt"
+msgstr "ノンビリリ"
+
+msgid "pal_bakemi"
+msgstr "ウラミィ"
+
+msgid "pal_solmora"
+msgstr "オーマンボ"
+
+msgid "pal_solmora_lux"
+msgstr "トノサマンボ"
+
+msgid "pal_lapure"
+msgstr "ネモフィ"
+
+msgid "pal_eidrolon"
+msgstr "レイバーン"
+
+msgid "pal_eidrolon_ignis"
+msgstr "ヘルバーン"
+
+msgid "pal_dynamoff"
+msgstr "ダイナモフ"
+
+msgid "pal_tropicaw"
+msgstr "フラペック"
+
+msgid "pal_flaracle"
+msgstr "センコ"
+
+msgid "pal_ophydia"
+msgstr "ハナミズチ"
+
+msgid "pal_dupin"
+msgstr "ラピエール"
+
+msgid "pal_roujay"
+msgstr "アルセーヴ"
+
+msgid "pal_venusa"
+msgstr "メドゥーナ"
+
+msgid "pal_mycora"
+msgstr "マシュリー"
+
+msgid "pal_loomen"
+msgstr "ヴィランタン"
+
+msgid "pal_wistella"
+msgstr "ホシノコ"
+
+msgid "pal_solenne"
+msgstr "モノクローナ"
+
+msgid "pal_renjishi"
+msgstr "ゴウカブキ"
+
+msgid "pal_aegidron"
+msgstr "シェルガドラ"
+
+msgid "pal_grizzbolt"
+msgstr "エレパンダ"
+
+msgid "pal_lyleen"
+msgstr "リリクイン"
+
+msgid "pal_lyleen_noct"
+msgstr "ルナクイン"
+
+msgid "pal_orserk"
+msgstr "ボルゼクス"
+
+msgid "pal_faleris"
+msgstr "ホルス"
+
+msgid "pal_faleris_aqua"
+msgstr "イシス"
+
+msgid "pal_shadowbeak"
+msgstr "ゼノグリフ"
+
+msgid "pal_selyne"
+msgstr "セレムーン"
+
+msgid "pal_bastigor"
+msgstr "ヒョウガオー"
+
+msgid "pal_shaolong"
+msgstr "シャオロン"
+
+msgid "pal_silvance"
+msgstr "モスローン"
+
+msgid "pal_dandilord"
+msgstr "ノクサージュ"
+
+msgid "pal_bellanoir"
+msgstr "ベラノワール"
+
+msgid "pal_bellanoir_libero"
+msgstr "ベラルージュ"
+
+msgid "pal_xenolord"
+msgstr "ゼノドラン"
+
+msgid "pal_hartalis"
+msgstr "レジェンディア"
+
+msgid "pal_paladius"
+msgstr "セイントール"
+
+msgid "pal_necromus"
+msgstr "ベイントール"
+
+msgid "pal_frostallion"
+msgstr "グレイシャル"
+
+msgid "pal_frostallion_noct"
+msgstr "グレイシャドウ"
+
+msgid "pal_neptilius"
+msgstr "ネプティオス"
+
+msgid "pal_jetragon"
+msgstr "ジェッドラン"
+
+msgid "pal_panthalus"
+msgstr "グランジーラ"
+
+msgid "pal_astralym"
+msgstr "ゼロヴァース"
