@@ -25,3 +25,13 @@ func get_species_variant_string() -> String:
 ## Returns the pal's name for the current language.
 func get_translated_name() -> String:
 	return tr(translation_key)
+
+
+static func sort_index(a: PalResource, b: PalResource) -> bool:
+	if a.paldex_entry < b.paldex_entry:
+		return true
+	
+	if a.paldex_entry > b.paldex_entry:
+		return false
+	
+	return a.species_variant < b.species_variant

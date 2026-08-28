@@ -9,6 +9,11 @@ const PAL_CONTAINER = preload("uid://birnnwcbd53ey")
 @onready var pal_container_list: VBoxContainer = %PalContainerList
 @onready var main_back_button: Button = %MainBackButton
 
+@onready var result_overlay: Control = %ResultOverlay
+@onready var result_outside_button: Button = %ResultOutsideButton
+@onready var result_exit_button: Button = %ResultExitButton
+@onready var result_text: TextEdit = %ResultText
+
 
 
 func _ready() -> void:
@@ -18,11 +23,16 @@ func _ready() -> void:
 	
 	var smash_count := PersistantData.smashed_pals.size()
 	result_label.text = tr_n(&"smashed %d pal", &"smashed %d pals", smash_count) % smash_count
+	
+	result_text.text = create_share_string()
 
 
 func connect_signals() -> void:
 	copy_to_clipboard_button.pressed.connect(_on_copy_to_clipboard_pressed)
 	main_back_button.pressed.connect(_on_main_back_pressed)
+	
+	result_outside_button.pressed.connect(_on_overlay_close_requested)
+	result_exit_button.pressed.connect(_on_overlay_close_requested)
 
 
 func rebuild_pal_container_list() -> void:
@@ -31,7 +41,10 @@ func rebuild_pal_container_list() -> void:
 		child.queue_free()
 	
 	# fill list with favorited pals
-	for pal in PersistantData.smashed_pals:
+	var favorited_pals = PersistantData.smashed_pals.duplicate()
+	favorited_pals.sort_custom(PalResource.sort_index)
+	
+	for pal in favorited_pals:
 		var pal_container := PAL_CONTAINER.instantiate() as PalContainer
 		
 		pal_container.prepare(pal)
@@ -48,7 +61,10 @@ func create_share_string() -> String:
 	if smash_count > 0:
 		share_string = tr_n(&"I would smash %d pal:", &"I would smash %d pals:", smash_count) % smash_count
 		
-		for pal in PersistantData.smashed_pals:
+		var smashed_pals: Array[PalResource] = PersistantData.smashed_pals
+		smashed_pals.sort_custom(PalResource.sort_index)
+		
+		for pal in smashed_pals:
 			share_string += "\n" + pal.get_translated_name()
 	else:
 		share_string = tr(&"I would smash no pals.")
@@ -68,6 +84,11 @@ func _on_pal_container_pressed(pal: PalResource) -> void:
 
 
 func _on_copy_to_clipboard_pressed() -> void:
-	DisplayServer.clipboard_set(create_share_string())
+	DisplayServer.clipboard_set(result_text.text)
+	result_overlay.show()
+
+
+func _on_overlay_close_requested() -> void:
+	result_overlay.hide()
 
 #endregion
