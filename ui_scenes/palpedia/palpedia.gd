@@ -23,11 +23,9 @@ func rebuild_pal_container_list() -> void:
 	for child in pal_container_list.get_children():
 		child.queue_free()
 	
-	var favorited_pals: Array[PalResource] =  PersistantData.favorite_pals.values()
-	favorited_pals.sort_custom(PalResource.sort_index)
 	
-	# fill list with favorited pals
-	for pal in favorited_pals:
+	# fill list with pals
+	for pal in Paldex.pals:
 		var pal_container := PAL_CONTAINER.instantiate() as PalContainer
 		
 		pal_container.prepare(pal)
@@ -41,4 +39,5 @@ func _on_main_back_pressed() -> void:
 
 
 func _on_pal_container_pressed(pal: PalResource) -> void:
+	#TODO: show specifically one pal to inspect it.
 	print(pal)

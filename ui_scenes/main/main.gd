@@ -2,10 +2,12 @@ extends Control
 
 @export_custom(0, "scene") var judging_scene: String
 @export_custom(0, "scene") var favorites_scene: String
+@export_custom(0, "scene") var palpedia_scene: String
 
 @onready var menu_container: VBoxContainer = %MenuContainer
 @onready var start_button: Button = %StartButton
 @onready var favorites_button: Button = %FavoritesButton
+@onready var palpedia_button: Button = %PalpediaButton
 @onready var settings_button: Button = %SettingsButton
 @onready var exit_button: Button = %ExitButton
 
@@ -38,6 +40,7 @@ func connect_signals() -> void:
 	shuffle_pals_button.toggled.connect(_on_shuffle_pals_toggled)
 	back_button.pressed.connect(_on_back_pressed)
 	github_button.pressed.connect(_on_github_pressed)
+	palpedia_button.pressed.connect(_on_palpedia_pressed)
 
 
 #region Signal Callbacks
@@ -49,6 +52,10 @@ func _on_start_pressed() -> void:
 
 func _on_favorites_pressed() -> void:
 	get_tree().change_scene_to_file(favorites_scene)
+
+
+func _on_palpedia_pressed() -> void:
+	get_tree().change_scene_to_file(palpedia_scene)
 
 
 func _on_settings_pressed() -> void:

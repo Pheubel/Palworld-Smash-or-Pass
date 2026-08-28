@@ -25,6 +25,7 @@ theme = ExtResource("1_xwkvk")
 script = ExtResource("2_c651c")
 judging_scene = "uid://dadxsmw5jijri"
 favorites_scene = "uid://b3mi5urvmylwt"
+palpedia_scene = "uid://uo0ic2e7rjvk"
 
 [node name="Background" type="TextureRect" parent="." unique_id=867759241]
 modulate = Color(0.15686275, 0.15686275, 0.15686275, 1)
@@ -69,13 +70,13 @@ auto_translate_mode = 1
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.41145834
-anchor_top = 0.5540124
+anchor_top = 0.55709875
 anchor_right = 0.5885417
-anchor_bottom = 0.8256173
-offset_top = -6.1035156e-05
+anchor_bottom = 0.89969134
 grow_horizontal = 2
 grow_vertical = 2
 theme_override_constants/separation = 8
+metadata/_edit_use_anchors_ = true
 
 [node name="StartButton" type="Button" parent="MenuContainer" unique_id=244340684]
 unique_name_in_owner = true
@@ -88,6 +89,12 @@ unique_name_in_owner = true
 layout_mode = 2
 theme_type_variation = &"MainMenuButton"
 text = "Favorites"
+
+[node name="PalpediaButton" type="Button" parent="MenuContainer" unique_id=218872631]
+unique_name_in_owner = true
+layout_mode = 2
+theme_type_variation = &"MainMenuButton"
+text = "Palpedia"
 
 [node name="SettingsButton" type="Button" parent="MenuContainer" unique_id=1059252887]
 unique_name_in_owner = true
