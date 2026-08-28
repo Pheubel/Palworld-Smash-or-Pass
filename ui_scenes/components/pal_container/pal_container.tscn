@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://birnnwcbd53ey"]
 
-[ext_resource type="Script" uid="uid://d04vw2albq8t6" path="res://ui_scenes/favorites/pal_container.gd" id="1_cmmd7"]
-[ext_resource type="Texture2D" uid="uid://dwyk8oqp40qlu" path="res://pals/portraits/Lamball.webp" id="1_l4ebm"]
+[ext_resource type="Script" uid="uid://d04vw2albq8t6" path="res://ui_scenes/components/pal_container/pal_container.gd" id="1_1kepm"]
+[ext_resource type="Texture2D" uid="uid://dwyk8oqp40qlu" path="res://pals/portraits/Lamball.webp" id="2_qapcb"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0c24h"]
 bg_color = Color(0.14901961, 0.14901961, 0.14901961, 0.48235294)
@@ -21,7 +21,7 @@ font_size = 24
 [node name="PalContainer" type="PanelContainer" unique_id=261246447]
 custom_minimum_size = Vector2(0, 100)
 theme_override_styles/panel = SubResource("StyleBoxFlat_0c24h")
-script = ExtResource("1_cmmd7")
+script = ExtResource("1_1kepm")
 
 [node name="HBoxContainer" type="HBoxContainer" parent="." unique_id=852440071]
 layout_mode = 2
@@ -30,7 +30,7 @@ theme_override_constants/separation = 0
 [node name="PalIcon" type="TextureRect" parent="HBoxContainer" unique_id=1882459933]
 unique_name_in_owner = true
 layout_mode = 2
-texture = ExtResource("1_l4ebm")
+texture = ExtResource("2_qapcb")
 expand_mode = 2
 stretch_mode = 5
 
@@ -54,6 +54,7 @@ label_settings = SubResource("LabelSettings_4ilqg")
 
 [node name="Button" type="Button" parent="." unique_id=1168403809]
 layout_mode = 2
+mouse_default_cursor_shape = 2
 flat = true
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]

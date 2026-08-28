@@ -4,7 +4,7 @@
 [ext_resource type="Script" uid="uid://cfxgang4mjb2" path="res://ui_scenes/results/results.gd" id="2_up6y4"]
 [ext_resource type="Texture2D" uid="uid://dgn80rtvaqkcm" path="res://palworld_wallpaper.jpg" id="3_plhs5"]
 [ext_resource type="Texture2D" uid="uid://lc0i1hi16yas" path="res://icons/copy-solid-full.svg" id="4_4fjdy"]
-[ext_resource type="PackedScene" uid="uid://birnnwcbd53ey" path="res://ui_scenes/favorites/pal_container.tscn" id="5_kxfgv"]
+[ext_resource type="PackedScene" uid="uid://birnnwcbd53ey" path="res://ui_scenes/components/pal_container/pal_container.tscn" id="5_kxfgv"]
 [ext_resource type="Texture2D" uid="uid://c01j4g4xkq3wb" path="res://icons/arrow_left.svg" id="6_up6y4"]
 [ext_resource type="Texture2D" uid="uid://djiadv37aniv2" path="res://icons/xmark.svg" id="7_plhs5"]
 

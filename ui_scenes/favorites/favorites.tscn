@@ -3,7 +3,7 @@
 [ext_resource type="Theme" uid="uid://dqlcyxo0nd2jr" path="res://app_theme.tres" id="1_cwvfr"]
 [ext_resource type="Texture2D" uid="uid://dgn80rtvaqkcm" path="res://palworld_wallpaper.jpg" id="2_em8sq"]
 [ext_resource type="Script" uid="uid://tgwne2q5shox" path="res://ui_scenes/favorites/favorites.gd" id="2_tdtoh"]
-[ext_resource type="PackedScene" uid="uid://birnnwcbd53ey" path="res://ui_scenes/favorites/pal_container.tscn" id="3_cwvfr"]
+[ext_resource type="PackedScene" uid="uid://birnnwcbd53ey" path="res://ui_scenes/components/pal_container/pal_container.tscn" id="3_cwvfr"]
 [ext_resource type="Texture2D" uid="uid://c01j4g4xkq3wb" path="res://icons/arrow_left.svg" id="4_r0oqy"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_r0oqy"]
