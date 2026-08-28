@@ -23,13 +23,15 @@ func rebuild_pal_container_list() -> void:
 	for child in pal_container_list.get_children():
 		child.queue_free()
 	
+	var favorited_pals: Array[PalResource] =  PersistantData.favorite_pals.values()
+	favorited_pals.sort_custom(PalResource.sort_index)
+	
 	# fill list with favorited pals
-	for pal in PersistantData.favorite_pals:
+	for pal in favorited_pals:
 		var pal_container := PAL_CONTAINER.instantiate() as PalContainer
-		var pal_definition := PersistantData.favorite_pals[pal]
 		
-		pal_container.prepare(pal_definition)
-		pal_container.pressed.connect(_on_pal_container_pressed.bind(pal_definition))
+		pal_container.prepare(pal)
+		pal_container.pressed.connect(_on_pal_container_pressed.bind(pal))
 		
 		pal_container_list.add_child(pal_container)
 
